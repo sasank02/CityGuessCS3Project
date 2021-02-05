@@ -53,11 +53,13 @@ public class Runner {
                 }
                 int pickedIndex = ALPHABET.indexOf(input);
                 if (pickedIndex == correctAnswerIndex) {
-                    System.out.println("Correct! Great job.\n\n");
+                    System.out.println("Correct! Great job.");
                     accuracy++;
                 } else {
-                    System.out.println("Incorrect - the correct answer was " + ALPHABET.charAt(correctAnswerIndex) + "\n\n");
+                    System.out.println("Incorrect - the correct answer was " + ALPHABET.charAt(correctAnswerIndex));
                 }
+                System.out.println("Press ENTER to continue.\n\n");
+                scanner.nextLine();
             }
             scanner.close();
             System.out.println("You finished the game with an accuracy of " + accuracy + " out of 10 (" + (int)(accuracy*100.0/questionCount) + "%).");
