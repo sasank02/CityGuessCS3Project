@@ -1,17 +1,17 @@
 public class City {
-    private String name, state, zip;
+    private String name, state, pop;
 
-    public City(String name, String state, String zip) {
+    public City(String name, String state, String pop) {
         this.name = name;
         this.state = state;
-        this.zip = zip;
+        this.pop = pop;
     }
 
     @Override
     public String toString() {
         return "name=" + name +
             ", state=" + state +
-            ", zip=" + zip;
+            ", population=" + pop;
     }
 
     @Override
@@ -23,14 +23,14 @@ public class City {
 
         if (!name.equals(city.name)) return false;
         if (!state.equals(city.state)) return false;
-        return zip.equals(city.zip);
+        return pop.equals(city.pop);
     }
 
     @Override
     public int hashCode() {
         int result = name.hashCode();
         result = 31 * result + state.hashCode();
-        result = 31 * result + zip.hashCode();
+        result = 31 * result + pop.hashCode();
         return result;
     }
 
@@ -50,11 +50,11 @@ public class City {
         this.state = state;
     }
 
-    public String getZip() {
-        return zip;
+    public String getPop() {
+        return pop;
     }
 
-    public void setZip(String zip) {
-        this.zip = zip;
+    public void setPop(String pop) {
+        this.pop = pop;
     }
 }
