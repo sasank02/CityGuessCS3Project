@@ -1,0 +1,6885 @@
+Abbeville, LA	12446
+Aberdeen, MD	15434
+Aberdeen, NC	7131
+Aberdeen, SD	27800
+Aberdeen, WA	16255
+Abernant, AL	7599
+Abilene, KS	6590
+Abilene, TX	120958
+Abingdon, VA	8146
+Abington, MA	15985
+Abram-Perezville, TX	6663
+Absecon, NJ	8376
+Accokeek, MD	10573
+Acton, CA	7596
+Acton, MA	21924
+Acushnet, MA	10303
+Acworth, GA	21867
+Ada, OK	17130
+Addison, IL	37297
+Addison, TX	15457
+Adelanto, CA	32728
+Adelphi, MD	15086
+Adrian, MI	20840
+Affton, MO	20307
+Agate Beach, OR	12351
+Agawam Town, MA	28772
+Agawam, MA	28616
+Agnew-Carlsborg, WA	9934
+Agoura Hills, CA	20843
+Ahuimanu, HI	8810
+Aiea, HI	9338
+Aiken, SC	30258
+Air Force Academy, CO	6680
+Airmont, NY	8878
+Airway Heights, WA	6545
+Akron, OH	197859
+Alabaster, AL	31545
+Alachua, FL	9561
+Alafaya, FL	78113
+Alameda, CA	77660
+Alamo Heights, TX	7806
+Alamo, CA	14570
+Alamo, TX	19224
+Alamogordo, NM	31060
+Alamosa, CO	9531
+Albany, CA	19488
+Albany, GA	75769
+Albany, NY	98566
+Albany, OR	51980
+Albemarle, NC	15976
+Albert Lea, MN	17815
+Albertville, AL	21458
+Albertville, MN	7281
+Albion, MI	8267
+Albion, NY	6007
+Albuquerque, NM	557169
+Alcoa, TN	8753
+Alderwood Manor, WA	8442
+Aldine, TX	15869
+Alexander City, AL	14849
+Alexandria, KY	8790
+Alexandria, LA	48175
+Alexandria, MN	11680
+Alexandria, VA	150575
+Algonquin, IL	30410
+Alhambra, CA	85569
+Alice, TX	19395
+Aliquippa, PA	9244
+Aliso Viejo, CA	50231
+Allen Park, MI	27566
+Allen, TX	94179
+Allendale, MI	17579
+Allendale, NJ	6789
+Allentown, PA	119104
+Alliance, NE	8519
+Alliance, OH	22078
+Allison Park, PA	21552
+Allouez, WI	13943
+Alma, MI	9232
+Almaville, TN	20899
+Aloha, OR	49425
+Alondra Park, CA	8592
+Alpena, MI	10247
+Alpha, TN	11323
+Alpharetta, GA	63038
+Alpine, CA	14236
+Alpine, UT	10131
+Alsip, IL	19427
+Alta Sierra, CA	6911
+Altadena, CA	42777
+Altamont, OR	19257
+Altamonte Springs, FL	42225
+Alton North, TX	6182
+Alton, IL	27177
+Alton, TX	15497
+Altoona, IA	16105
+Altoona, PA	45558
+Altoona, WI	7155
+Altus, OK	19531
+Alum Rock, CA	15536
+Alvin, TX	25525
+Amarillo, TX	197254
+Ambler, PA	6506
+Ambridge, PA	6895
+American Canyon, CA	20470
+American Fork, UT	28152
+Americus, GA	16283
+Ames, IA	63266
+Amesbury Town, MA	16794
+Amesbury, MA	12457
+Amherst Center, MA	19065
+Amherst, MA	37819
+Amherst, NH	11201
+Amherst, NY	122366
+Amherst, OH	12143
+Amityville, NY	9522
+Ammon, ID	14685
+Amory, MS	7107
+Amsterdam, NY	18135
+Anaconda, MT	7626
+Anaconda-Deer Lodge County, MT	9150
+Anacortes, WA	16232
+Anadarko, OK	6723
+Anaheim, CA	346997
+Anchorage, AK	301010
+Ancient Oaks, PA	6661
+Andalusia, AL	9081
+Anderson Mill, TX	13106
+Anderson, CA	10209
+Anderson, IN	55455
+Anderson, SC	27181
+Anderson-Bedias, TX	8192
+Andover, FL	9221
+Andover, KS	12509
+Andover, MA	8762
+Andover, MN	31996
+Andrews, TX	13245
+Angleton, TX	19472
+Angleton-Rosharon, TX	48341
+Angola, IN	8624
+Ankeny, IA	53801
+Ann Arbor, MI	117770
+Anna, TX	10571
+Annandale, VA	41008
+Annapolis Neck, MD	10950
+Annapolis, MD	38856
+Anniston, AL	22457
+Anoka, MN	17276
+Ansonia, CT	18959
+Antelope, CA	45770
+Anthem, AZ	21700
+Anthony, NM	9318
+Antigo, WI	7921
+Antioch, CA	108930
+Antioch, IL	14411
+Apache Junction, AZ	38131
+Apache, AZ	11958
+Apex, NC	43907
+Apollo Beach, FL	14055
+Apopka, FL	47084
+Apple Valley, CA	71595
+Apple Valley, MN	50487
+Appleton, WI	73971
+Applewood, CO	7160
+Appling, GA	8141
+Aptos, CA	6220
+Aquia Harbour, VA	6727
+Arab, AL	8284
+Aransas Pass, TX	8461
+Arbutus, MD	20483
+Arcadia, CA	58232
+Arcadia, FL	7722
+Arcadia, NY	14244
+Arcata, CA	17730
+Archbald, PA	7075
+Archdale, NC	11539
+Arden Hills, MN	9876
+Arden-Arcade, CA	92186
+Ardmore, OK	25226
+Ardmore, PA	12455
+Arivaca, AZ	59243
+Arizona City, AZ	10475
+Arkadelphia, AR	10649
+Arkansas City, KS	12205
+Arlington Heights, IL	76024
+Arlington Heights, PA	6333
+Arlington, MA	42844
+Arlington, TN	11634
+Arlington, TX	383204
+Arlington, VA	207627
+Arlington, WA	18808
+Armuchee, GA	9817
+Arnold, MD	23106
+Arnold, MO	21243
+Arrowhead, CA	28450
+Arroyo Grande, CA	17908
+Artesia, CA	16895
+Artesia, NM	11842
+Artondale, WA	12653
+Arvada, CO	113574
+Arvin, CA	20583
+Asbury Lake, FL	8700
+Asbury Park, NJ	15778
+Ashburn, VA	43511
+Ashburnham, MA	6081
+Asheboro, NC	25886
+Asheville, NC	87882
+Ashland Rural, KY	7942
+Ashland, CA	21925
+Ashland, KY	21335
+Ashland, MA	16593
+Ashland, NJ	8302
+Ashland, OH	20218
+Ashland, OR	20684
+Ashland, VA	7328
+Ashland, WI	8179
+Ashtabula, OH	18508
+Ashwaubenon, WI	17111
+Aspen Hill, MD	48759
+Aspen, CO	6805
+Astoria, OR	9521
+Atascadero, CA	29134
+Atascocita, TX	65844
+Atchison, KS	10771
+Athens, AL	24522
+Athens, GA	85116
+Athens, OH	24024
+Athens, TN	13664
+Athens, TX	12819
+Athens-Clarke County, GA	119648
+Atherton, CA	7147
+Athol, MA	8265
+Atkinson, NH	6751
+Atlanta, GA	456002
+Atlantic Beach, FL	13031
+Atlantic City, NJ	39415
+Atlantic, IA	6842
+Atmore, AL	10006
+Atoka, TN	8935
+Attleboro, MA	43970
+Atwater, CA	29022
+Auburn Hills, MI	21845
+Auburn, AL	60258
+Auburn, CA	13960
+Auburn, GA	7254
+Auburn, IN	12834
+Auburn, MA	16188
+Auburn, ME	22912
+Auburn, NY	27019
+Auburn, WA	76347
+Auburndale, FL	14518
+Audubon, NJ	8710
+Audubon, PA	8433
+August, CA	8390
+Augusta, GA	136381
+Augusta, KS	9242
+Augusta, ME	18705
+Augusta-Richmond County, GA	196741
+Aurora, CO	353108
+Aurora, IL	200456
+Aurora, MO	7450
+Aurora, OH	15734
+Austell, GA	6985
+Austin, MN	24716
+Austin, TX	912791
+Austintown, OH	29677
+Avenal, CA	13308
+Avenel, NJ	17011
+Aventura, FL	37451
+Avocado Heights, CA	15411
+Avon Lake, OH	23204
+Avon Park, FL	8879
+Avon, CO	6447
+Avon, CT	18098
+Avon, IN	15971
+Avon, OH	22302
+Avondale, AZ	79646
+Avra Valley, AZ	6050
+Azalea Park, FL	12556
+Azle, TX	11530
+Aztec, NM	6419
+Azusa, CA	48799
+Babylon, NY	12172
+Back Mountain, PA	26134
+Bacliff, TX	8619
+Badger Mountain, OR	11715
+Badger, AK	19482
+Bailey's Crossroads, VA	23643
+Bainbridge Island, WA	23293
+Bainbridge, GA	12496
+Baker City, OR	9801
+Baker, FL	7134
+Baker, LA	13776
+Bakersfield, CA	368759
+Balch Springs, TX	25120
+Bald Mountain, CO	12449
+Baldwin Harbor, NY	8102
+Baldwin Park, CA	77119
+Baldwin, NY	24033
+Baldwin, PA	19740
+Baldwinsville, NY	7681
+Ballenger Creek, MD	18274
+Ballston, NY	9776
+Ballwin, MO	30505
+Baltimore Highlands, MD	7019
+Baltimore, MD	622793
+Bangor Base, WA	6054
+Bangor Trident Base, WA	7431
+Bangor, ME	32568
+Banning, CA	30769
+Baraboo, WI	12085
+Barberton, OH	26302
+Barclay-Kingston, NJ	10937
+Bardmoor, FL	9732
+Bardstown, KY	12998
+Bargersville, IN	6627
+Barnard, TN	6335
+Barnesville, GA	6670
+Barnstable Town, MA	47607
+Barre, VT	8837
+Barretts, GA	14663
+Barrington, IL	10373
+Barrington, NH	8576
+Barrington, NJ	6826
+Barrington, RI	16572
+Barstow, CA	23498
+Bartlesville, OK	36498
+Bartlett, IL	41632
+Bartlett, TN	58264
+Barton, NY	8858
+Bartonville, IL	6423
+Bartow, FL	18420
+Bastrop, LA	10881
+Bastrop, TX	7856
+Batavia, IL	26424
+Batavia, NY	15077
+Batesville, AR	10497
+Batesville, IN	6541
+Batesville, MS	7439
+Bath, ME	8324
+Baton Rouge, LA	228895
+Battle Creek, MI	51833
+Battle Ground, WA	18930
+Baxter, MN	7826
+Bay City, MI	34149
+Bay City, TX	17368
+Bay Harbor Islands, FL	6007
+Bay Minette, AL	9049
+Bay Point, CA	21349
+Bay Shore, NY	26337
+Bay St. Louis, MS	11388
+Bay Village, OH	15435
+Bayonet Point, FL	23467
+Bayonne, NJ	65975
+Bayou Blue, LA	12352
+Bayou Cane, LA	19355
+Bayport, NY	8896
+Bayshore Gardens, FL	16323
+Baytown, TX	76127
+Bayville, NY	6748
+Baywood, NY	7350
+Baywood-Los Osos, CA	15151
+Beach Park, IL	13988
+Beachwood, NJ	11253
+Beachwood, OH	11797
+Beacon Falls, CT	6049
+Beacon Square, FL	7224
+Beacon, NY	14238
+Bean Station, TN	7818
+Bear Swamp, SC	13204
+Bear, DE	19371
+Beatrice, NE	12055
+Beaufort, SC	13130
+Beaumont, CA	42277
+Beaumont, TX	117585
+Beauregard-Marvyn, AL	10469
+Beaver Creek, OR	7848
+Beaver Dam, WI	16536
+Beaver Falls, PA	8740
+Beavercreek, OH	45934
+Beaverton, OR	95109
+Beckett Ridge, OH	9187
+Beckley, WV	17238
+Bedford Heights, OH	10675
+Bedford, IN	13355
+Bedford, MA	13320
+Bedford, NH	21203
+Bedford, OH	12805
+Bedford, TX	48908
+Bedford, VA	6466
+Bee Ridge, FL	9598
+Beebe, AR	7971
+Beech Grove, IN	14514
+Beech Island, SC	8468
+Beech Springs, TN	10760
+Beecher, MI	10232
+Beekman, NY	14621
+Beeville, TX	13303
+Bel Air North, MD	30568
+Bel Air South, MD	47709
+Bel Air, MD	10264
+Bel Aire, KS	7284
+Belen, NM	7175
+Belfair, WA	6221
+Belfast, ME	6677
+Belgrade, MT	7798
+Bell Gardens, CA	43146
+Bell, CA	36217
+Bella Vista, AR	27688
+Bellair-Meadowbrook Terrace, FL	13343
+Bellaire, TX	18252
+Bellbrook, OH	7031
+Belle Chasse, LA	12679
+Belle Glade, FL	18061
+Belle Isle, FL	6528
+Belle Plaine, MN	6902
+Bellefontaine Neighbors, MO	10807
+Bellefontaine, OH	13167
+Bellefonte, PA	6227
+Belleview, TN	7914
+Belleville, IL	42529
+Belleville, NJ	34877
+Bellevue Town, WI	12651
+Bellevue, NE	53936
+Bellevue, OH	8059
+Bellevue, PA	8300
+Bellevue, WA	136426
+Bellevue, WI	15215
+Bellflower, CA	78236
+Bellingham, WA	83365
+Bellmawr, NJ	11454
+Bellmead, TX	10184
+Bellmore, NY	16218
+Bellview, FL	23355
+Bellwood, IL	19152
+Bellwood, VA	6352
+Belmont, CA	27073
+Belmont, MA	24729
+Belmont, NC	10456
+Belmont, NH	7356
+Beloit, WI	36881
+Belpre, OH	6436
+Belton, MO	23165
+Belton, TX	20128
+Beltsville, MD	16772
+Belvedere Park, GA	15152
+Belvidere, IL	25282
+Bemidji, MN	14453
+Ben Lomond, CA	6234
+Ben Wheeler-Edom, TX	6892
+Benbrook, TX	22419
+Bend, OR	84080
+Benicia, CA	27930
+Bennettsville, SC	8833
+Bennington, VT	9074
+Bennsville, MD	11923
+Bensenville, IL	18487
+Benton Harbor, MI	10018
+Benton, AR	33625
+Benton, IL	7016
+Bentonville, AR	41613
+Berea, KY	14658
+Berea, OH	18986
+Berea, SC	14295
+Bergenfield, NJ	27406
+Berkeley Heights, NJ	13319
+Berkeley, CA	118853
+Berkeley, MO	9084
+Berkley, CO	11207
+Berkley, MA	6411
+Berkley, MI	15273
+Berlin, CT	19866
+Berlin, NH	9501
+Berlin, NJ	7546
+Bermuda Dunes, CA	7282
+Bernalillo, NM	8564
+Bernardsville, NJ	7756
+Berwick, PA	10316
+Berwyn, IL	56693
+Bessemer, AL	26949
+Bethalto, IL	9382
+Bethany, OK	19580
+Bethany, OR	20646
+Bethel Park, PA	32257
+Bethel, AK	6415
+Bethel, CT	9549
+Bethesda, MD	60858
+Bethesda, TN	6697
+Bethlehem, NY	33656
+Bethlehem, PA	75135
+Bethpage, NY	16429
+Bettendorf, IA	35122
+Beulah, AL	6187
+Beverly Hills, CA	34871
+Beverly Hills, FL	8445
+Beverly Hills, MI	10448
+Beverly, MA	40952
+Bexley, OH	13517
+Biddeford, ME	21337
+Big Bear City, CA	12304
+Big Bear, CA	28837
+Big Creek, GA	42663
+Big Lake, MN	10360
+Big Park, AZ	6584
+Big Rapids, MI	10443
+Big Sandy-Duncanville, AL	8894
+Big Spring, TX	28472
+Bill Arp, GA	40565
+Billerica, MA	40243
+Billings, MT	108869
+Biloxi, MS	44984
+Binfield, TN	7793
+Bingham, UT	24210
+Binghamton University, NY	6177
+Binghamton, NY	46299
+Birch Bay, WA	8413
+Birmingham, AL	212247
+Birmingham, MI	20757
+Bismarck, ND	68896
+Bithlo, FL	8268
+Bixby, OK	24008
+Black Forest, CO	13116
+Black Forest-Peyton, CO	42682
+Black Jack, MO	6935
+Black Mountain, NC	8145
+Blackfeet, MT	9319
+Blackfoot, ID	11814
+Blackhawk, CA	9354
+Blackhawk-Camino Tassajara, CA	10652
+Blacklick Estates, OH	8682
+Blacksburg, VA	43985
+Blackstone, MA	9026
+Blackwell, OK	6917
+Bladensburg, MD	9583
+Blaine, MN	61190
+Blair, NE	7986
+Blakely, PA	6475
+Blanchard, OK	8049
+Blanchard-Glengary, ID	13946
+Blandon, PA	7152
+Bloomfield Township, MI	43211
+Bloomfield, CT	20486
+Bloomfield, NJ	46288
+Bloomfield, NM	7638
+Bloomfield, WI	6278
+Blooming Grove, NY	18028
+Bloomingdale, FL	22711
+Bloomingdale, IL	22299
+Bloomingdale, NJ	8178
+Bloomingdale, TN	9888
+Bloomington, CA	23851
+Bloomington, IL	78730
+Bloomington, IN	83322
+Bloomington, MN	86314
+Bloomsburg, PA	14727
+Blue Ash, OH	12149
+Blue Bell, PA	6067
+Blue Island, IL	23785
+Blue Springs, MO	53573
+Bluefield, WV	10448
+Bluff City-Piney Flats, TN	19335
+Bluffdale, UT	9887
+Bluffton, IN	9969
+Bluffton, SC	15199
+Blythe, CA	19258
+Blytheville, AR	14884
+Boardman, OH	35376
+Boaz, AL	9689
+Boca Ciega, FL	68887
+Boca Del Mar, FL	24318
+Boca Raton, FL	91332
+Boerne, TX	12835
+Bogalusa, LA	11926
+Bogota, NJ	8332
+Bohemia, NY	10180
+Boiling Springs, SC	8219
+Boise, ID	216282
+Boistfort, WA	6742
+Bolingbrook, IL	74180
+Bolivar, MO	10572
+Bon Air, VA	16366
+Bonadelle Ranchos-Madera Ranchos, CA	8569
+Bonham, TX	10058
+Bonita Springs, FL	49299
+Bonita, CA	12538
+Bonne Terre, MO	7031
+Bonner Springs, KS	7553
+Bonney Lake, WA	18809
+Boone, IA	12633
+Boone, NC	18130
+Booneville, MS	8804
+Boonton, NJ	8412
+Boonville, IN	6164
+Boonville, MO	8374
+Borger, TX	12978
+Bossier City, LA	67472
+Boston, MA	655884
+Boston, NY	8023
+Boston, TN	12703
+Bostonia, CA	15379
+Bothell East, WA	8018
+Bothell West, WA	16607
+Bothell, WA	36567
+Boulder City, NV	15386
+Boulder Hill, IL	8108
+Boulder, CO	105112
+Bound Brook, NJ	11116
+Bountiful, UT	43385
+Bourbonnais, IL	18534
+Bow, NH	7519
+Bow, WA	6099
+Bowie, MD	57646
+Bowleys Quarters, MD	6755
+Bowling Green, KY	62479
+Bowling Green, OH	31591
+Box Elder, SD	9233
+Boyes Hot Springs, CA	6656
+Boyette, FL	6874
+Boynton Beach, FL	73124
+Boynton Ridge, GA	13326
+Bozeman, MT	41660
+Bradenton, FL	52769
+Bradford, PA	8552
+Bradley Gardens, NJ	14206
+Bradley, IL	15677
+Braidwood, IL	6185
+Brainerd, MN	13425
+Braintree Town, MA	37362
+Braintree, MA	33951
+Brambleton, VA	9845
+Brandermill, VA	13173
+Brandon, FL	103483
+Brandon, MS	23156
+Brandon, SD	9779
+Brandywine, DE	82672
+Brandywine, MD	6719
+Branford, CT	28026
+Branson, MO	11340
+Braselton, GA	8727
+Brattleboro, VT	7414
+Brawley, CA	25820
+Brazil, IN	8114
+Brazosport, TX	71908
+Brea, CA	41508
+Breaux Bridge, LA	8327
+Brecksville, OH	13469
+Bremen, AL	8517
+Bremen, GA	6290
+Bremerton, WA	38572
+Brenham, TX	16297
+Brent, FL	21804
+Brentwood, CA	57019
+Brentwood, MO	8043
+Brentwood, NY	60664
+Brentwood, PA	9563
+Brentwood, TN	40982
+Brevard, NC	7692
+Brewer, ME	9317
+Briarcliff Manor, NY	7991
+Bridge City, LA	7706
+Bridge City, TX	7924
+Bridge City-Orangefield, TX	15013
+Bridgeport, CT	147612
+Bridgeport, MI	6950
+Bridgeport, TX	6239
+Bridgeport, WV	8358
+Bridger Valley, WY	6088
+Bridgeton, MO	11782
+Bridgeton, NJ	25347
+Bridgetown North, OH	12741
+Bridgetown, OH	14407
+Bridgeview, IL	16491
+Bridgewater, MA	7841
+Brier, WA	6434
+Brigantine, NJ	9336
+Brigham City, UT	18631
+Brighton, CO	36765
+Brighton, MI	7636
+Brighton, NY	36609
+Briones, CA	6817
+Bristol, CT	60570
+Bristol, PA	9595
+Bristol, RI	22139
+Bristol, TN	26729
+Bristol, VA	17184
+Broadlands, VA	12313
+Broadview Heights, OH	19254
+Broadview Park, FL	7125
+Broadview, IL	7959
+Brock Hall, MD	9552
+Brockport, NY	8377
+Brockton, MA	94779
+Broken Arrow, OK	104726
+Bronx, NY	1383871
+Bronxville, NY	6418
+Brook Highland, AL	6746
+Brook Park, OH	18886
+Brookdale, NJ	9239
+Brookfield, CT	16452
+Brookfield, IL	19023
+Brookfield, WI	37982
+Brookhaven, MS	12470
+Brookhaven, PA	8073
+Brookings, OR	6407
+Brookings, SD	23225
+Brookline, MA	58732
+Brooklyn Center, MN	30729
+Brooklyn Park, MD	14373
+Brooklyn Park, MN	78728
+Brooklyn, CT	8210
+Brooklyn, NY	2538705
+Brooklyn, OH	10947
+Brookside, DE	14353
+Brooksville, FL	7778
+Broomall, PA	10789
+Broomfield, CO	62138
+Broussard, LA	10356
+Brown Deer, WI	12102
+Brownfield, TX	9719
+Browns Mills, NJ	11223
+Brownsburg, IN	23322
+Brownsville, FL	15313
+Brownsville, TN	9974
+Brownsville, TX	183046
+Brownsville-Bawcomville, LA	7751
+Brownwood, TX	18972
+Bruni-Mirando, TX	47363
+Brunswick, GA	15903
+Brunswick, MD	6102
+Brunswick, ME	15175
+Brunswick, NY	11941
+Brunswick, OH	34604
+Brushy Creek, SC	21300
+Brushy Creek, TX	21764
+Bryan, OH	8473
+Bryan, TX	80913
+Bryans Road, MD	7244
+Bryant, AR	19625
+Bryantown, MD	14627
+Bryn Mawr-Skyway, WA	15645
+Buchanan, WI	6755
+Buckeye, AZ	59470
+Buckeystown, MD	7153
+Buckhall, VA	16293
+Bucyrus, OH	11973
+Buda, TX	11461
+Budd Lake, NJ	8968
+Buechel, KY	7457
+Buena Park, CA	83105
+Buena Vista, MI	6816
+Buena Vista, VA	6603
+Buenaventura Lakes, FL	26079
+Buffalo Grove, IL	41701
+Buffalo, MN	15912
+Buffalo, NY	258703
+Buford, GA	13392
+Bull Mountain, OR	9133
+Bull Run, VA	14983
+Bullhead City, AZ	39364
+Burbank, CA	105368
+Burbank, IL	29218
+Burien, WA	50188
+Burkburnett, TX	11142
+Burke Centre, VA	17326
+Burke, VA	41055
+Burleson, TX	41818
+Burley, ID	10480
+Burlingame, CA	30298
+Burlington, CT	9301
+Burlington, IA	25539
+Burlington, KY	15926
+Burlington, MA	24498
+Burlington, NC	51812
+Burlington, NJ	9799
+Burlington, VT	42211
+Burlington, WA	8568
+Burlington, WI	10541
+Burnet, TX	6138
+Burnsville, MN	61630
+Burr Ridge, IL	10761
+Burrillville, RI	15955
+Burton, MI	28974
+Burton, SC	6976
+Burtonsville, MD	8323
+Busti, NY	7351
+Butler, NJ	7690
+Butler, PA	13369
+Butner, NC	7718
+Butte, MT	31633
+Butte-Silver Bow, MT	33980
+Buxton, ME	8034
+Byram, MS	11556
+Cabot, AR	25627
+Cadillac, MI	10335
+Cahokia, IL	14588
+Cairo, GA	9806
+Calabasas, CA	24296
+Calapooia, OR	14947
+Caldwell, ID	50224
+Caldwell, NJ	7362
+Caledonia, WI	24708
+Calera, AL	12972
+Calexico, CA	39799
+Calhoun, GA	16052
+Calhoun-Riceville, TN	6863
+California City, CA	13263
+California, MD	11857
+California, PA	6678
+Calimesa, CA	8423
+Calipatria, CA	7519
+Callaway, FL	15006
+Calumet City, IL	37213
+Calumet Park, IL	7903
+Calverton, MD	17724
+Calverton, NY	6510
+Camano, WA	15021
+Camarillo, CA	66923
+Camas, WA	21220
+Cambria, CA	6032
+Cambridge, MA	109694
+Cambridge, MD	12569
+Cambridge, MN	8323
+Cambridge, OH	10485
+Camden, AR	11569
+Camden, NJ	77332
+Camden, SC	7030
+Cameron Park, CA	18228
+Cameron Park, TX	6963
+Cameron, MO	9762
+Camp Hill, PA	7892
+Camp Pendleton South, CA	10616
+Camp Springs, MD	19096
+Camp Swift, TX	6383
+Camp Verde, AZ	11097
+Campbell, CA	41119
+Campbell, OH	8033
+Campbellsville, KY	11282
+Campton Hills, IL	11317
+Campton, GA	6920
+Canal Winchester, OH	7704
+Canandaigua, NY	10488
+Canby, OR	17010
+Candler-McAfee, GA	23025
+Canfield, OH	7390
+Cannonsburg, KY	7592
+Canon City, CO	16337
+Canonsburg, PA	8924
+Canton, CT	10292
+Canton, GA	24801
+Canton, IL	14307
+Canton, MA	21561
+Canton, MI	73490
+Canton, MS	13713
+Canton, NY	6601
+Canton, OH	72297
+Cantonment, FL	44893
+Canutillo, TX	6321
+Canyon Lake, CA	11010
+Canyon Lake, TX	21262
+Canyon Rim, UT	11601
+Canyon, TX	14432
+Cape Canaveral, FL	10049
+Cape Coral, FL	169854
+Cape Elizabeth, ME	9015
+Cape Girardeau, MO	39167
+Cape St. Claire, MD	8747
+Capitola, CA	10146
+Carbondale, CO	6574
+Carbondale, IL	26324
+Carbondale, PA	8758
+Carencro, LA	8453
+Caribou, ME	7871
+Carl Junction, MO	7660
+Carlisle, PA	18916
+Carlsbad, CA	112299
+Carlsbad, NM	28103
+Carlstadt, NJ	6248
+Carmel Hamlet, NY	6817
+Carmel Valley, CA	6266
+Carmel, CA	15677
+Carmel, IN	86682
+Carmel, NY	34305
+Carmichael, CA	61762
+Carnegie, PA	7912
+Carney, MD	29941
+Carneys Point, NJ	7382
+Carnot-Moon, PA	11372
+Carol City, FL	64569
+Carol Stream, IL	40349
+Carolina Beach, NC	6042
+Carpentersville, IL	38407
+Carpinteria Valley, CA	19142
+Carpinteria, CA	13671
+Carrboro, NC	20984
+Carroll, IA	10007
+Carrollton, GA	26690
+Carrollton, MI	6352
+Carrollton, TX	128353
+Carrollwood, FL	33365
+Carson City, NV	54522
+Carson, CA	93271
+Carteret, NJ	24114
+Carters Lake, GA	7684
+Cartersville, GA	20015
+Carthage, MO	14271
+Carthage, TX	6822
+Carver, MA	11509
+Cary, IL	17991
+Cary, NC	155227
+Casa Grande, AZ	51478
+Casa de Oro-Mount Helix, CA	18762
+Casas Adobes, AZ	66795
+Cascade-Fairwood, WA	36930
+Cascades, VA	11912
+Casey Springs, GA	6188
+Casper, WY	60086
+Casselberry, FL	26707
+Castaic, CA	19015
+Castle Pines North, CO	10602
+Castle Pines, CO	10796
+Castle Rock, CO	55747
+Castle Shannon, PA	8273
+Castlewood, CO	28255
+Castro Valley, CA	61388
+Castroville, CA	6481
+Catalina Foothills, AZ	50796
+Catalina, AZ	7569
+Catasauqua, PA	6512
+Cathedral City, CA	53437
+Catonsville, MD	41567
+Catoosa Springs, GA	7509
+Catoosa, OK	7114
+Cave Spring, VA	24922
+Cayce, SC	12951
+Cedar City, UT	29483
+Cedar Creek Lake, TX	36825
+Cedar Creek-Red Rock, TX	21132
+Cedar Falls, IA	40859
+Cedar Grove, NJ	11940
+Cedar Hill, TX	48084
+Cedar Hills, OR	8300
+Cedar Hills, UT	10261
+Cedar Lake, IN	11854
+Cedar Mill, OR	14546
+Cedar Park, TX	63574
+Cedar Rapids, IA	129195
+Cedarburg, WI	11506
+Cedarhurst, NY	6672
+Cedars, TN	15507
+Cedartown, GA	9723
+Celebration, FL	7427
+Celina, OH	10373
+Celina, TX	7086
+Centennial, CO	107201
+Center Line, MI	8316
+Center Moriches, NY	7580
+Center Point, AL	16777
+Centereach, NY	31578
+Centerton, AR	11193
+Centerville, GA	7584
+Centerville, OH	23915
+Centerville, SC	6586
+Centerville, UT	16819
+Central Atoka, OK	8598
+Central Coast, CA	238434
+Central Colusa, CA	10807
+Central Contra Costa, CA	486883
+Central Falls, RI	19328
+Central Islip, NY	34450
+Central Jefferson, CO	24039
+Central Kent, DE	21857
+Central Manchester, CT	31154
+Central Pasco, FL	69995
+Central Pencader, DE	33750
+Central Point, OR	17724
+Central Shasta, CA	11467
+Central Volusia, FL	24310
+Central Whidbey, WA	12168
+Central, LA	28119
+Centralia, IL	12742
+Centralia, WA	16623
+Centreville, VA	71135
+Century Village, FL	8483
+Ceres, CA	47343
+Cerritos, CA	50004
+Chalco, NE	10994
+Chalmette, LA	16751
+Chambersburg, PA	20602
+Chamblee, GA	16112
+Champaign, IL	84513
+Champion Heights, OH	6498
+Champlin, MN	23828
+Chance-Loeb, TX	14876
+Chandler, AZ	254276
+Chanhassen, MN	24967
+Channahon, IL	12616
+Channelview, TX	38289
+Chantilly, VA	23039
+Chanute, KS	9295
+Chaparral, NM	14631
+Chapel Hill, NC	59376
+Charles City, IA	7513
+Charleston, IL	21838
+Charleston, SC	130113
+Charleston, WV	50404
+Charlestown, IN	8054
+Charlestown, RI	7827
+Charlotte, MI	9056
+Charlotte, NC	809958
+Charlottesville, VA	45593
+Charlton, MA	12981
+Charter Oak, CA	9310
+Chaska, MN	24838
+Chatham, IL	12212
+Chatham, NJ	9022
+Chattanooga, TN	173778
+Cheat Lake, WV	7988
+Cheektowaga, NY	75178
+Chehalem Mountain, OR	6472
+Chehalis, WA	7261
+Chelmsford, MA	33802
+Chelsea, AL	11758
+Chelsea, MA	38861
+Chenango, NY	11252
+Cheney, WA	11420
+Cherry Creek, CO	11120
+Cherry Hill Mall, NJ	14171
+Cherry Hill, VA	16000
+Cherry Hills Village, CO	6423
+Cherry Valley, CA	6362
+Cherryland, CA	14728
+Chesapeake Ranch Estates, MD	10519
+Chesapeake Ranch Estates-Drum Point, MD	13485
+Chesapeake, VA	233371
+Cheshire, CT	29261
+Chestatee, GA	15214
+Chester, IL	8421
+Chester, PA	34133
+Chester, VA	20987
+Chesterfield, MO	47777
+Chesterton, IN	13403
+Chestnut Ridge, NY	8140
+Cheval, FL	10702
+Cheverly, MD	6449
+Cheviot, OH	8325
+Cheyenne Mountain, CO	9773
+Cheyenne, WY	62845
+Chicago Heights, IL	30436
+Chicago Ridge, IL	14434
+Chicago, IL	2722389
+Chickasha, OK	16334
+Chico, CA	89180
+Chicopee, MA	55795
+Childress, TX	6092
+Chilhowee, TN	14680
+Chili, NY	28625
+Chillicothe, IL	6135
+Chillicothe, MO	9504
+Chillicothe, OH	21738
+Chillum, MD	33513
+Chino Hills, CA	77005
+Chino Valley, AZ	11019
+Chino, CA	84723
+Chippewa Falls, WI	13965
+Choctaw, OK	11992
+Chowchilla, CA	18909
+Christiana, TN	9830
+Christiansburg, VA	21805
+Chubbuck, ID	14229
+Chuckwalla, CA	14948
+Chula Vista, CA	260988
+Church Hill, TN	6752
+Cibolo, TX	25280
+Cicero, IL	84354
+Cicero, NY	31632
+Cimarron Hills, CO	16161
+Cincinnati, OH	298165
+Cinco Ranch, TX	18274
+Circleville, OH	13455
+Citrus Heights, CA	86145
+Citrus Hills, FL	7470
+Citrus Park, FL	24252
+Citrus Park-Fern Lake, FL	117103
+Citrus Ridge, FL	14195
+Citrus Springs, FL	8622
+Citrus, CA	10866
+City of The Dalles, OR	12113
+Claiborne, LA	11507
+Clairton, PA	6720
+Clanton, AL	8727
+Claremont, CA	36054
+Claremont, NH	13074
+Claremore, OK	18971
+Clarence, NY	30673
+Clarendon Hills, IL	8658
+Clark, NJ	14501
+Clark, NV	65029
+Clarksburg, MD	13766
+Clarksburg, WV	16242
+Clarksdale, MS	17011
+Clarkson, NY	6736
+Clarkston Heights-Vineland, WA	6326
+Clarkston, GA	7846
+Clarkston, WA	7359
+Clarkstown, NY	84187
+Clarksville, AR	9391
+Clarksville, IN	21879
+Clarksville, TN	146806
+Claverack, NY	6021
+Clawson, MI	12049
+Clay, AL	9700
+Clay, NY	58206
+Claymont, DE	8253
+Clayton, CA	11690
+Clayton, MO	15882
+Clayton, NC	18445
+Clayton, NJ	8307
+Clayton, OH	13170
+Clear Lake, IA	7682
+Clearfield, PA	6064
+Clearfield, UT	30484
+Clearlake, CA	15089
+Clearwater, FL	110703
+Cleburne, TX	29848
+Clemmons, NC	19522
+Clemson, SC	15072
+Clermont, FL	30600
+Cleveland Heights, OH	45181
+Cleveland, MS	12412
+Cleveland, OH	389521
+Cleveland, TN	43182
+Cleveland, TX	7745
+Clewiston, FL	7376
+Cliffside Park, NJ	25503
+Clifton Heights, PA	6668
+Clifton Park, NY	36705
+Clifton, CO	19889
+Clifton, NJ	85927
+Clinton, IA	26246
+Clinton, IL	7078
+Clinton, MA	7389
+Clinton, MD	35970
+Clinton, MO	9015
+Clinton, MS	25411
+Clinton, NC	8787
+Clinton, OK	9505
+Clinton, SC	8619
+Clinton, TN	9889
+Clinton, UT	21104
+Clive, IA	17052
+Cloquet, MN	12081
+Closter, NJ	8592
+Clover Creek, WA	6522
+Cloverdale, AL	6209
+Cloverdale, CA	8796
+Cloverdale-Geyserville, CA	12805
+Cloverleaf, TX	22942
+Cloverly, MD	15126
+Clovis, CA	102189
+Clovis, NM	39860
+Clute, TX	11392
+Clyde, OH	6312
+Coachella Valley, CA	156830
+Coachella, CA	44132
+Coalinga, CA	16452
+Coast Range, OR	9013
+Coatesville, PA	13164
+Cochituate, MA	6569
+Cockeysville, MD	20776
+Cocoa Beach, FL	11400
+Cocoa, FL	17419
+Coconino, AZ	81338
+Coconut Creek, FL	58536
+Cody, WY	9740
+Coeur d'Alene, ID	47912
+Coffeyville, KS	9876
+Cohasset, MA	7542
+Cohoes, NY	16212
+Colbert, WA	10222
+Colchester, CT	16068
+Colchester, VT	17067
+Cold Spring, KY	6161
+Cold Springs, NV	8544
+Coldwater, MI	10811
+Colesville, MD	14647
+Colfax-Summit, CA	24007
+College Park, GA	14598
+College Park, MD	32256
+College Place, WA	8997
+College Station, TX	103483
+College, AK	12964
+Collegedale, TN	10729
+Colleyville, TX	24952
+Collier Manor-Cresthaven, FL	8287
+Collierville, TN	48655
+Collingdale, PA	8797
+Collingswood, NJ	13962
+Collins, NY	6601
+Collinsville, IL	24883
+Collinsville, OK	6334
+Collinsville, VA	7335
+Colonia, NJ	17795
+Colonial Heights, TN	6934
+Colonial Heights, VA	17731
+Colonial Park, PA	13229
+Colonie, NY	7913
+Colony, TX	44421
+Colorado Springs, CO	445830
+Colton, CA	54053
+Columbia City, IN	8829
+Columbia Heights, MN	19675
+Columbia, IL	10121
+Columbia, MD	99615
+Columbia, MO	116906
+Columbia, MS	6319
+Columbia, PA	10383
+Columbia, SC	132067
+Columbia, TN	36071
+Columbiana, OH	6329
+Columbine, CO	24280
+Columbus, GA	185888
+Columbus, IN	46124
+Columbus, MS	23248
+Columbus, NE	22630
+Columbus, OH	835957
+Commack, NY	36124
+Commerce City, CO	51762
+Commerce, CA	13076
+Commerce, GA	6580
+Commerce, TX	8599
+Compton, CA	98597
+Comstock Park, MI	10088
+Concord, CA	127522
+Concord, MA	17668
+Concord, MO	16421
+Concord, NC	85560
+Concord, NH	42444
+Concord, NY	8494
+Concord, TN	28138
+Concord-Hopkins, AL	7259
+Congers, NY	8363
+Conley, GA	6228
+Conneaut, OH	12813
+Connellsville, PA	7514
+Connersville, IN	13032
+Conning Towers-Nautilus Park, CT	8834
+Conover, NC	8215
+Conroe, TX	65871
+Conshohocken, PA	7895
+Converse, TX	21054
+Conway, AR	64490
+Conway, FL	13467
+Conway, SC	20175
+Conyers, GA	15718
+Cookeville, TN	31335
+Coolidge, AZ	12209
+Coon Rapids, MN	62112
+Cooper City, FL	34923
+Coopers, GA	6995
+Coos Bay, OR	16039
+Copiague, NY	22993
+Coppell, TX	40678
+Copperas Cove, TX	32943
+Coral Gables, FL	51227
+Coral Hills, MD	9895
+Coral Springs, FL	127952
+Coral Terrace, FL	24376
+Coralville, IA	20349
+Coram, NY	39113
+Corbin, KY	7308
+Corcoran, CA	22815
+Cordele, GA	10939
+Corinth, MS	14865
+Corinth, TX	20836
+Cornelius, NC	27481
+Cornelius, OR	12185
+Corning, CA	7558
+Corning, NY	10993
+Cornwall, NY	12646
+Corona, CA	161486
+Coronado, CA	24910
+Corpus Christi, TX	320434
+Corrales, NM	8374
+Corry, PA	6457
+Corsicana, TX	23989
+Corte Madera, CA	9916
+Cortez, CO	8602
+Cortland, NY	19164
+Cortland, OH	6963
+Cortlandt, NY	41592
+Cortlandville, NY	8509
+Corvallis, OR	54953
+Cos Cob, CT	6770
+Coshocton, OH	11107
+Costa Mesa, CA	112784
+Cotati, CA	7429
+Coto de Caza, CA	14866
+Cottage Grove, MN	35630
+Cottage Grove, OR	9845
+Cottage Grove, WI	6664
+Cottage Lake, WA	22494
+Cottonwood Heights, UT	34166
+Cottonwood West, UT	20833
+Cottonwood, AZ	11595
+Cottonwood-Verde Village, AZ	13318
+Council Bluffs, IA	62245
+Country Club Estates, GA	8545
+Country Club Hills, IL	16865
+Country Club, CA	9379
+Country Club, FL	47105
+Country Walk, FL	15997
+Countryside, IL	6023
+Countryside, VA	10072
+Covedale, OH	6447
+Coventry, CT	12435
+Coventry, RI	35014
+Covina, CA	49002
+Covington, GA	13667
+Covington, KY	40944
+Covington, LA	9686
+Covington, TN	9010
+Covington, WA	19134
+Coweta, OK	9511
+Coxs Creek, KY	7050
+Craig, CO	8846
+Craig-Tyler, AL	6843
+Crandall-Eton, GA	9407
+Cranford, NJ	22430
+Cranston, RI	81037
+Crawford, NY	9316
+Crawfordsville, IN	15988
+Cresaptown/Bel Air, MD	6661
+Crescent City, CA	6786
+Cresskill, NJ	8763
+Crest Hill, IL	20771
+Crestline, CA	10770
+Creston, IA	7839
+Creston-Bigfork, MT	7757
+Crestview, FL	22955
+Crestwood Village, NJ	7907
+Crestwood, IL	11029
+Crestwood, MO	11951
+Crete, IL	8227
+Crete, NE	7034
+Creve Coeur, MO	17868
+Crockett, TX	6564
+Crofton, MD	27348
+Cromwell, CT	14005
+Crookston, MN	7920
+Cross Lanes, WV	9995
+Cross, SC	8326
+Crossville, TN	11330
+Croton-on-Hudson, NY	8235
+Crow Reservation, MT	6674
+Crowley, LA	13189
+Crowley, TX	14572
+Crown Point, IN	28623
+Croydon, PA	9950
+Crystal City, TX	7513
+Crystal Lake, IL	40493
+Crystal, MN	22605
+Crystal, NV	9553
+Cudahy, CA	24291
+Cudahy, WI	18341
+Cuero, TX	7063
+Cullman, AL	15145
+Culloden-Bolingbroke, GA	9796
+Cullowhee, NC	6228
+Culpeper, VA	17411
+Culver City, CA	39691
+Cumberland Hill, RI	7934
+Cumberland, MD	20235
+Cumberland, ME	7211
+Cumberland, RI	33506
+Cupertino, CA	60668
+Cushing, OK	7868
+Cutler Bay, FL	44321
+Cutler Ridge, FL	26918
+Cutler, FL	18889
+Cutlerville, MI	14370
+Cuyahoga Falls, OH	49210
+Cynthiana, KY	6365
+Cypress Gardens, FL	8917
+Cypress Lake, FL	11846
+Cypress, CA	49240
+D'Iberville, MS	10962
+Dacula-Rocky Creek, GA	51522
+Dade City, FL	6750
+Dahlonega, GA	6337
+Dakota Ridge, CO	32005
+Dale City, VA	65969
+Dalhart, TX	8326
+Dallas, GA	12629
+Dallas, OR	15102
+Dallas, TX	1281047
+Dalton, GA	33529
+Dalton, MA	6756
+Daly City, CA	106094
+Damascus, MD	15257
+Damascus, OR	10893
+Dana Point, CA	34116
+Danbury, CT	83784
+Dania Beach, FL	21477
+Danvers, MA	26493
+Danville, AL	6242
+Danville, CA	43909
+Danville, IL	32243
+Danville, IN	9593
+Danville, KY	16620
+Danville, VA	42444
+Danwood, SC	13038
+Daphne, AL	24395
+Darby Township, PA	9673
+Darby, PA	10695
+Dardenne Prairie, MO	12783
+Darien, CT	20732
+Darien, IL	22315
+Darlington, SC	6206
+Darnestown, MD	6802
+Dartmouth, MA	34032
+Davenport, IA	102448
+Davidson, NC	11981
+Davie, FL	98895
+Davis, CA	66742
+Dayton, NJ	7063
+Dayton, NV	8964
+Dayton, OH	141003
+Dayton, TN	7395
+Dayton, TX	7465
+Daytona Beach, FL	63011
+De Bary, FL	19648
+De Lake, OR	12365
+De Land, FL	29194
+De Pere, WI	24555
+De Queen, AR	6749
+De Ridder, LA	10799
+De Soto, KS	6038
+De Soto, MO	6471
+De Witt, NY	25838
+DeForest, WI	9466
+DeKalb, IL	44054
+DeSoto, TX	51934
+Dearborn Heights, MI	56415
+Dearborn, MI	95535
+Decatur, AL	55532
+Decatur, GA	20380
+Decatur, IL	74010
+Decatur, IN	9432
+Decatur, TX	6339
+Decorah, IA	7957
+Dedham, MA	24729
+Deer Park, NY	27745
+Deer Park, TX	33719
+Deer Valley, AZ	186030
+Deerfield Beach, FL	78881
+Deerfield, IL	18385
+Deerpark, NY	7901
+Defiance, OH	16776
+Del Aire, CA	10001
+Del City, OK	22008
+Del Rio, TX	36079
+Delafield, WI	7166
+Delano, CA	52651
+Delavan, WI	8443
+Delaware, OH	37372
+Delhi, CA	10755
+Delmar, NY	8384
+Delphos, OH	7036
+Delray Beach, FL	65055
+Delta, CO	8720
+Deltona, FL	86890
+Deming, NM	14605
+Demopolis, AL	7182
+Denham Springs, LA	10097
+Denison, IA	8390
+Denison, TX	22907
+Dent, OH	10497
+Denton, TX	128205
+Dentsville, SC	14062
+Denver, CO	663862
+Depew, NY	15205
+Derby, CO	7685
+Derby, CT	12768
+Derby, KS	23234
+Derry, NH	22015
+Des Moines, IA	209220
+Des Moines, WA	31011
+Des Peres, MO	8534
+Des Plaines, IL	58947
+Desert Hot Springs, CA	28164
+Desert Palms, CA	6957
+Destin, FL	13355
+Destrehan, LA	11535
+Detroit Lakes, MN	8961
+Detroit, MI	680250
+Devils Lake, ND	7288
+Dexter, MO	7969
+Diamond Bar, CA	56784
+Diamond Springs, CA	11037
+Diamondhead, MS	8180
+Dibrell, TN	6640
+Dickinson, ND	22322
+Dickinson, TX	19595
+Dickson City, PA	6006
+Dickson, TN	14993
+Dighton, MA	7086
+Dillon, SC	6658
+Dinuba, CA	23667
+Discovery Bay, CA	13352
+Discovery Bay, WA	15589
+Dishman, WA	10925
+District Heights, MD	6109
+Divide, CO	18488
+Dix Hills, NY	26892
+Dixon, CA	19164
+Dixon, IL	15285
+Dobbs Ferry, NY	11098
+Dock Junction, GA	7721
+Doctor Phillips, FL	10981
+Dodge City, KS	28117
+Dolton, IL	23307
+Dona Ana-Hill, NM	28982
+Donaldsonville, LA	7635
+Donna, TX	16448
+Donner, CA	15187
+Doral, FL	54116
+Doraville, GA	10714
+Dormont, PA	8515
+Dothan, AL	68409
+Douglas, AZ	16744
+Douglas, GA	11665
+Douglas, MA	8471
+Douglas, WY	6423
+Douglasville, GA	32523
+Dover, DE	37355
+Dover, NH	30665
+Dover, NJ	18313
+Dover, NY	8699
+Dover, OH	12857
+Dowling Park, FL	7604
+Downers Grove, IL	49715
+Downey, CA	114172
+Downingtown, PA	7936
+Doylestown, PA	8307
+Dracut, MA	29457
+Dranesville, VA	11921
+Draper, UT	46202
+Drexel Heights, AZ	27749
+Drexel Hill, PA	28043
+Druid Hills, GA	14568
+Dry Run, OH	7281
+DuBois, PA	7632
+DuPont, WA	9313
+Duarte, CA	22006
+Dublin, CA	54695
+Dublin, GA	16182
+Dublin, OH	44214
+Dubuque, IA	58436
+Dudley, MA	11390
+Duluth, GA	28838
+Duluth, MN	86238
+Dumas, TX	14937
+Dumbarton, VA	7879
+Dumont, NJ	17863
+Dunbar, WV	7749
+Duncan, OK	23173
+Duncanville, TX	39707
+Dundalk, MD	63597
+Dunedin, FL	35819
+Dunellen, NJ	7417
+Dunkirk, NY	12216
+Dunlap, IN	6235
+Dunmore, PA	13791
+Dunn Creek, TN	6937
+Dunn Loring, VA	8803
+Dunn, NC	9710
+Dunwoody, GA	48000
+Durango, CO	17834
+Durant, OK	17041
+Durham, NC	251893
+Durham, NH	10345
+Dutch Fork, SC	66450
+Duvall, WA	7639
+Dyer, IN	16169
+Dyersburg, TN	16839
+Eagan, MN	66084
+Eagle Mountain, TX	7757
+Eagle Mountain, UT	25593
+Eagle Pass, TX	28329
+Eagle Point, OR	8753
+Eagle, CO	6572
+Eagle, ID	22502
+Earlimart, CA	8537
+Easley, SC	20549
+East Adams, CO	6755
+East Alton, IL	6215
+East Arapahoe, CO	8415
+East Aurora, NY	6264
+East Bethel, MN	11642
+East Brainerd, TN	15187
+East Bridgewater, MA	13794
+East Brunswick, NJ	48440
+East Cameron, TX	20879
+East Canadian, OK	72697
+East Chicago, IN	28990
+East Cleveland, OH	17432
+East Cleveland, OK	23792
+East Colusa, CA	9242
+East Compton, CA	9472
+East Contra Costa, CA	78216
+East Dougherty, GA	36163
+East End, AR	6998
+East Falmouth, MA	6038
+East Farmingdale, NY	6484
+East Fishkill, NY	29029
+East Foothills, CA	8269
+East Franklin, NJ	8669
+East Garden City, NY	6208
+East Glenville, NY	6616
+East Grand Forks, MN	8651
+East Grand Rapids, MI	11258
+East Grayson, TX	86658
+East Greenwich, RI	13146
+East Haddam, CT	9126
+East Hartford, CT	51252
+East Haven, CT	29257
+East Hemet, CA	17418
+East Highland Park, VA	14796
+East Hill-Meridian, WA	29878
+East Hills, NY	7093
+East Honolulu, HI	49914
+East Islip, NY	14475
+East Jefferson, TX	111383
+East Kern, CA	82330
+East La Mirada, CA	9757
+East Lake, FL	30962
+East Lake-Orient Park, FL	22753
+East Lansing, MI	48648
+East Leon, FL	31203
+East Liverpool, OH	10951
+East Longmeadow, MA	15720
+East Los Angeles, CA	126496
+East Love, OK	7157
+East Lyme, CT	19159
+East Marion, FL	23131
+East Massapequa, NY	19069
+East Mayes, OK	8107
+East Meadow, NY	38132
+East Millcreek, UT	23790
+East Milton, FL	11074
+East Moline, IL	21175
+East Murray, OK	7638
+East Norriton, PA	13644
+East Northport, NY	20217
+East Orange, FL	14372
+East Orange, NJ	65078
+East Palo Alto, CA	29530
+East Pasadena, CA	6144
+East Patchogue, NY	22469
+East Peoria, IL	23375
+East Perrine, FL	7689
+East Point, GA	35488
+East Porterville, CA	6767
+East Providence, RI	47331
+East Rancho Dominguez, CA	15135
+East Renton Highlands, WA	11140
+East Ridge, TN	21317
+East Riverdale, MD	15509
+East Rochester, NY	6699
+East Rockaway, NY	9896
+East Rutherford, NJ	9798
+East San Gabriel Valley, CA	952352
+East San Gabriel, CA	14874
+East Seattle, WA	512735
+East Shasta, CA	9034
+East Shoreham, NY	6666
+East Sonora-Phoenix Lake, CA	12519
+East St. Louis, IL	26672
+East Stroudsburg, PA	9624
+East Wakulla, FL	23096
+East Wenatchee Bench, WA	15174
+East Wenatchee, WA	13505
+East Whatcom, WA	7368
+East Windsor, CT	11162
+East Yolo, CA	36296
+East York, PA	8777
+Eastchester, NY	19554
+Easthampton Town, MA	16036
+Easthampton, MA	16324
+Eastlake, OH	18321
+Eastmont, WA	20101
+Easton, CT	7490
+Easton, MA	23112
+Easton, MD	16675
+Easton, PA	27052
+Eastpointe, MI	32654
+Eastvale, CA	57016
+Eastwood, MI	6340
+Eaton, OH	8261
+Eatonton, GA	6466
+Eatontown, NJ	12257
+Eau Claire, WI	67684
+Echelon, NJ	10743
+Economy, PA	9294
+Ecorse, MI	9311
+Eden Isle, LA	7041
+Eden Prairie, MN	63228
+Eden, NC	15407
+Edgemere, MD	8669
+Edgewater, FL	21121
+Edgewater, MD	9023
+Edgewater, NJ	12343
+Edgewood, KY	8741
+Edgewood, MD	25562
+Edgewood, WA	9749
+Edina, MN	49596
+Edinboro, PA	6437
+Edinburg, TX	83014
+Edison, NJ	101207
+Edmond, OK	88605
+Edmonds, WA	40896
+Edna-Cordele, TX	7721
+Edwards, CO	10266
+Edwardsville, IL	24758
+Effingham, IL	12577
+Eggertsville, NY	15019
+Eglin, FL	12450
+Egypt Lake-Leto, FL	35282
+Eidson Road, TX	8960
+El Cajon, CA	103091
+El Campo, TX	11577
+El Centro, CA	43763
+El Cerrito, CA	24599
+El Dorado Hills, CA	42108
+El Dorado, AR	18352
+El Dorado, KS	12879
+El Mirage, AZ	33532
+El Monte, CA	116631
+El Paso de Robles (Paso Robles), CA	31287
+El Paso, TX	679036
+El Reno, OK	18153
+El Rio, CA	7198
+El Segundo, CA	17063
+El Sobrante, CA	12669
+El Toro, CA	178968
+Eldersburg, MD	30531
+Eldorado at Santa Fe, NM	6130
+Eldridge, IA	6162
+Elfers, FL	13986
+Elgin, IL	111117
+Elgin, TX	8622
+Eliot, ME	6204
+Elizabeth City, NC	18047
+Elizabeth, NJ	128705
+Elizabethton, TN	14271
+Elizabethtown, KY	29974
+Elizabethtown, PA	11611
+Elk City, OK	12680
+Elk Grove Village, IL	33379
+Elk Grove, CA	163553
+Elk Plain, WA	14205
+Elk River, MN	23746
+Elkhart, IN	51421
+Elkhorn, NE	6486
+Elkhorn, WI	9975
+Elkins, WV	7286
+Elko, NV	20300
+Elkridge, MD	15593
+Elkton, MD	15852
+Ellensburg, WA	18774
+Ellettsville, IN	6475
+Ellicott City, MD	65834
+Ellicott, NY	8714
+Ellington, CT	15602
+Ellisville, MO	9253
+Ellsworth, ME	7843
+Ellwood City, PA	7682
+Elm Grove, WI	6176
+Elm Mott, TX	6408
+Elma, NY	11317
+Elmhurst, IL	45751
+Elmira, NY	28647
+Elmont, NY	33198
+Elmwood Park, IL	24954
+Elmwood Park, NJ	20374
+Elon College, NC	7419
+Elon, NC	9630
+Eloy, AZ	16738
+Elsa, TX	6617
+Elsinore Valley, CA	93311
+Elsmere, CO	31567
+Elsmere, DE	6152
+Elsmere, KY	8507
+Elwood, IN	8480
+Elwood, NY	11177
+Elyria, OH	53972
+Emerson, NJ	7617
+Emeryville, CA	11227
+Emigration, UT	9626
+Emmaus, PA	11335
+Emmett Valley, ID	12022
+Emmett, ID	6599
+Emporia, KS	24560
+Encinitas, CA	62254
+Endicott, NY	13083
+Endwell, NY	11446
+Enfield, CT	44654
+Englewood, CO	32480
+Englewood, FL	14863
+Englewood, NJ	27670
+Englewood, OH	13457
+Enid, OK	51386
+Ennis, TX	18823
+Enoch, UT	6115
+Enola, PA	6111
+Ensley, FL	20602
+Enterprise, AL	27772
+Enterprise, NV	108481
+Enumclaw Plateau, WA	57513
+Enumclaw, WA	11548
+Ephraim, UT	6463
+Ephrata, PA	13837
+Ephrata, WA	8031
+Erie, CO	20493
+Erie, PA	99452
+Erlanger, KY	18647
+Erlton-Ellisburg, NJ	8327
+Erwin, NY	8037
+Erwin, TN	6021
+Escalon, CA	7388
+Escanaba, MI	12413
+Escondido, CA	150243
+Esopus, NY	9041
+Espanola, NM	10130
+Essex Junction, VT	9881
+Essex, CT	6683
+Essex, MD	39262
+Essex, VT	19587
+Estelle, LA	16377
+Estero Island, FL	11528
+Estero, FL	22612
+Estes Park, CO	6165
+Estherville, IA	6121
+Etowah, NC	6944
+Ettrick, VA	6682
+Euclid, OH	47893
+Eudora, KS	6303
+Eufaula, AL	12781
+Eugene, OR	160561
+Euless, TX	53630
+Eunice, LA	10330
+Eureka, CA	26925
+Eureka, MO	10543
+Eustis, FL	19455
+Evans, CO	20473
+Evans, GA	29011
+Evans, NY	16356
+Evanston, IL	75658
+Evanston, WY	12190
+Evansville, IN	120346
+Everett, GA	16769
+Everett, MA	44231
+Everett, WA	106736
+Evergreen Park, IL	19935
+Evergreen, CO	9038
+Evergreen, MT	7616
+Everman, TX	6315
+Ewa Beach, HI	14955
+Ewa Gentry, HI	22690
+Ewa Villages, HI	6108
+Ewa, HI	279683
+Ewing, NJ	36909
+Excelsior Springs, MO	11488
+Exeter, CA	10558
+Exeter, NH	9242
+Exeter, RI	6425
+Fabens, TX	8257
+Fair Haven, NJ	6048
+Fair Lakes, VA	7942
+Fair Lawn, NJ	33549
+Fair Oaks Ranch, TX	6914
+Fair Oaks, CA	30912
+Fair Oaks, GA	8225
+Fair Oaks, VA	30223
+Fair Plain, MI	7631
+Fairacres, NM	6061
+Fairbanks, AK	32469
+Fairborn, OH	33329
+Fairburn, GA	13696
+Fairdale, KY	7853
+Fairdealing, KY	6279
+Fairfax Station, VA	12030
+Fairfax, CA	7638
+Fairfax, VA	24483
+Fairfield Glade, TN	6989
+Fairfield, AL	10988
+Fairfield, CA	111125
+Fairfield, CT	59404
+Fairfield, IA	9750
+Fairfield, NJ	6856
+Fairfield, OH	42770
+Fairhaven, MA	15873
+Fairhope, AL	18089
+Fairland, MD	23681
+Fairlawn, OH	7426
+Fairless Hills, PA	8466
+Fairmont Mills, SC	8641
+Fairmont, MN	10328
+Fairmont, WV	18740
+Fairmount, CO	7559
+Fairmount, NY	10224
+Fairplay, GA	7348
+Fairview Heights, IL	16901
+Fairview Park, OH	16481
+Fairview Shores, FL	10239
+Fairview, CA	10003
+Fairview, GA	6769
+Fairview, NJ	14317
+Fairview, OR	9218
+Fairview, TN	8224
+Fairview, TX	8361
+Fairwood, WA	7905
+Fall River, MA	88712
+Fallbrook, CA	30534
+Fallon, NV	8349
+Falls Church, VA	13601
+Fallsburg, NY	12870
+Fallston, MD	8958
+Falmouth, ME	11185
+Fanwood, NJ	7657
+Fargo, ND	115863
+Faribault, MN	23594
+Farmers Branch, TX	32560
+Farmersville, CA	10786
+Farmingdale, NY	8619
+Farmington Hills, MI	81435
+Farmington, AR	6477
+Farmington, CT	25340
+Farmington, MI	10554
+Farmington, MN	22571
+Farmington, MO	17915
+Farmington, NM	44445
+Farmington, NY	11825
+Farmington, UT	22159
+Farmingville, NY	15481
+Farmville, VA	8229
+Farr West, UT	6329
+Farragut, TN	21687
+Fate, TX	8812
+Fayette, KY	286518
+Fayetteville, AR	80621
+Fayetteville, GA	16725
+Fayetteville, NC	203948
+Fayetteville, TN	7102
+Feasterville-Trevose, PA	6763
+Federal Heights, CO	12178
+Federal Way, WA	93425
+Felida, WA	7385
+Fellowship, FL	22788
+Fenton, MI	11463
+Fenton, NY	6674
+Fergus Falls, MN	13304
+Ferguson, MO	21086
+Fern Creek, KY	18325
+Fern Park, FL	7704
+Fernandina Beach, FL	12103
+Ferndale, MD	16746
+Ferndale, MI	20256
+Ferndale, WA	12704
+Fernley, NV	19204
+Fernway, PA	12414
+Ferry Pass, FL	28921
+Festus, MO	11885
+Fife, WA	9550
+Fillmore, CA	15420
+Findlay, OH	41098
+Finley, WA	6012
+Finneytown, OH	12741
+Fircrest, WA	6658
+Firebaugh, CA	8300
+Firestone, CO	11537
+Fish Hawk, FL	14087
+Fishers, IN	86325
+Fishersville, VA	7462
+Fisherville, TN	6906
+Fitchburg, MA	40445
+Fitchburg, WI	27154
+Fitzgerald, GA	9039
+Five Corners, WA	18159
+Five Forks, SC	14140
+Flagstaff, AZ	68785
+Flaherty, KY	12202
+Flat Rock, MI	9854
+Flatwoods, KY	7405
+Fleming Island, FL	27126
+Fletcher, NC	7487
+Flint, MI	99002
+Floral Park, NY	15967
+Florence, AL	40215
+Florence, AZ	26912
+Florence, KY	31888
+Florence, OR	8506
+Florence, SC	37961
+Florence-Graham, CA	63387
+Florence-Roebling, NJ	8620
+Floresville, TX	7149
+Florham Park, NJ	11829
+Florida City, FL	12062
+Florida Ridge, FL	18164
+Florin, CA	47513
+Floris, VA	8375
+Florissant, MO	52303
+Flossmoor, IL	9522
+Flower Mound, TX	69650
+Flowery Branch, GA	6385
+Flowing Wells, AZ	16419
+Flowood, MS	8556
+Flushing, MI	8135
+Folcroft, PA	6636
+Foley, AL	16243
+Folsom, CA	75361
+Folsom, PA	8323
+Fond du Lac, WI	42917
+Fontana, CA	204950
+Foothill Farms, CA	33121
+Foothill Ranch, CA	11286
+Fords, NJ	15187
+Forest Acres, SC	10603
+Forest City, FL	13854
+Forest City, NC	7324
+Forest Glen, MD	6582
+Forest Grove, OR	23096
+Forest Hill, TX	12795
+Forest Hills, MI	25867
+Forest Hills, PA	6477
+Forest Lake, MN	19399
+Forest Park, GA	18949
+Forest Park, IL	14196
+Forest Park, OH	18723
+Forest, VA	9106
+Forestdale, AL	10162
+Foresthill-Back Country, CA	7652
+Forestville, MD	12353
+Forestville, OH	10532
+Forney, TX	17536
+Forrest City, AR	14823
+Fort Atkinson, WI	12430
+Fort Belvoir, VA	7100
+Fort Benning South, GA	10887
+Fort Benning, GA	11177
+Fort Bliss, TX	8591
+Fort Bragg, CA	7302
+Fort Bragg, NC	29731
+Fort Campbell North, KY	13685
+Fort Campbell, KY	17198
+Fort Campbell, TN	7148
+Fort Carson, CO	13813
+Fort Collins, CO	156480
+Fort Dix, NJ	7716
+Fort Dodge, IA	24594
+Fort Drum, NY	12955
+Fort Gordon, GA	7663
+Fort Hood, TX	29589
+Fort Hunt, VA	16045
+Fort Irwin, CA	8845
+Fort Knox, KY	10124
+Fort Lauderdale, FL	176013
+Fort Lee, NJ	37026
+Fort Leonard Wood, MO	15061
+Fort Lewis, WA	11046
+Fort Lupton, CO	7783
+Fort Madison, IA	10764
+Fort McCoy-Anthony, FL	20434
+Fort Meade, MD	9327
+Fort Mill, SC	13087
+Fort Mitchell, KY	8266
+Fort Mohave, AZ	14364
+Fort Morgan, CO	11329
+Fort Myers Beach, FL	6811
+Fort Myers, FL	70918
+Fort Oglethorpe, GA	9590
+Fort Payne, AL	14125
+Fort Pierce North, FL	6474
+Fort Pierce, FL	43601
+Fort Polk South, LA	9038
+Fort Riley North, KS	8927
+Fort Riley, KS	7761
+Fort Salonga, NY	10008
+Fort Scott, KS	7874
+Fort Smith, AR	87351
+Fort Stockton, TX	8482
+Fort Thomas, KY	16329
+Fort Valley, GA	8952
+Fort Walton Beach, FL	21558
+Fort Washington, MD	23717
+Fort Wayne, IN	258522
+Fort Worth, TX	812238
+Fortuna Foothills, AZ	26265
+Fortuna, CA	11888
+Foster City, CA	32754
+Fostoria, OH	13182
+Fountain Hills, AZ	23573
+Fountain Inn, SC	8134
+Fountain Valley, CA	57010
+Fountain, CO	27631
+Fountainbleau, FL	59764
+Four Corners, FL	26116
+Four Corners, MD	7945
+Four Corners, OR	15947
+Four Corners, TX	12382
+Fowler, CA	6042
+Fox Lake, IL	10578
+Fox Point, WI	6740
+Framingham, MA	68318
+Francisville, KY	7944
+Franconia, VA	18245
+Frankfort Square, IL	9276
+Frankfort, IL	18446
+Frankfort, IN	16153
+Frankfort, KY	27557
+Franklin Farm, VA	19288
+Franklin Lakes, NJ	10837
+Franklin Park, IL	18404
+Franklin Park, NJ	13295
+Franklin Park, PA	14269
+Franklin Square, NY	29320
+Franklin Town, MA	32836
+Franklin, CA	6149
+Franklin, IN	24356
+Franklin, KY	8695
+Franklin, LA	7368
+Franklin, MA	32079
+Franklin, NH	8428
+Franklin, OH	11811
+Franklin, PA	6350
+Franklin, TN	70612
+Franklin, VA	8526
+Franklin, WI	36278
+Fraser, MI	14622
+Frederick, CO	10927
+Frederick, MD	68400
+Fredericksburg, TX	10886
+Fredericksburg, VA	28350
+Frederickson, WA	18719
+Fredonia, NY	10792
+Freehold, NJ	11973
+Freeland, MI	6969
+Freeport, IL	24851
+Freeport, NY	43304
+Freeport, TX	12191
+Freetown, MA	8870
+Fremont, CA	228758
+Fremont, NE	26500
+Fremont, OH	16448
+French Valley, CA	23067
+Fresno, CA	515986
+Fresno, TX	19069
+Fridley, MN	27670
+Friendly, MD	9250
+Friendswood, TX	38248
+Frisco, TX	145035
+Front Royal, VA	15038
+Frostburg, MD	8684
+Fruit Cove, FL	29362
+Fruita, CO	12761
+Fruitvale, CO	7675
+Fruitville, FL	13224
+Fuller Heights, FL	8758
+Fullerton, CA	139677
+Fullerton, PA	14925
+Fulton, MO	12864
+Fulton, NY	11648
+Fultondale, AL	8908
+Funkstown, MD	12502
+Fuquay-Varina, NC	22644
+Gadsden, AL	36295
+Gaffney, SC	12597
+Gages Lake, IL	10198
+Gahanna, OH	34257
+Gainesville, FL	128460
+Gainesville, GA	36306
+Gainesville, TX	16095
+Gainesville, VA	11481
+Gaithersburg, MD	66816
+Galax, VA	7014
+Galena Park, TX	11178
+Galesburg, IL	31659
+Galion, OH	10175
+Gallatin, TN	33347
+Galliano, LA	7676
+Gallup, NM	22469
+Galt, CA	24817
+Galveston, TX	49608
+Gantt, SC	14229
+Garberville, CA	12402
+Garden Acres, CA	10648
+Garden City Park, NY	7806
+Garden City, GA	8994
+Garden City, ID	11420
+Garden City, KS	27004
+Garden City, MI	27052
+Garden City, NY	22616
+Garden City, SC	9209
+Garden Grove, CA	175078
+Garden Home-Whitford, OR	6674
+Gardena, CA	60395
+Gardendale, AL	13729
+Gardere, LA	10580
+Gardner, KS	20667
+Gardner, MA	20381
+Gardnerville Ranchos, NV	11312
+Garfield Heights, OH	28229
+Garfield, NJ	31486
+Garland, TX	235501
+Garner, NC	27814
+Garnet, CA	7543
+Garrett, IN	6319
+Garrison, MD	8823
+Gary, IN	77909
+Gas City, IN	6032
+Gastonia, NC	73698
+Gates, NY	28400
+Gates-North Gates, NY	14965
+Gatesville, TX	15872
+Gateway, FL	8401
+Gautier, MS	18596
+Geddes, NY	17118
+Genesee, WI	7340
+Geneseo, IL	6537
+Geneseo, NY	8114
+Geneva, IL	21742
+Geneva, NY	13160
+Geneva, OH	6079
+Genoa-Jacks Valley, NV	7326
+George Mason, VA	9496
+Georgetown, DE	6891
+Georgetown, GA	11823
+Georgetown, KY	31653
+Georgetown, MA	8183
+Georgetown, SC	9054
+Georgetown, TX	59102
+Gering, NE	8372
+German Flatts, NY	13258
+Germantown, MD	86395
+Germantown, TN	39267
+Germantown, WI	19901
+Gettysburg, PA	7633
+Gibbs, TN	9586
+Gibsonton, FL	14234
+Gibsonville, NC	6697
+Gifford, FL	9590
+Gig Harbor Peninsula, WA	47018
+Gig Harbor, WA	8375
+Gila River, AZ	14341
+Gilbert, AZ	239277
+Gilberts, IL	7556
+Gilford, NH	7126
+Gillette, WY	31971
+Gilroy, CA	52533
+Girard, OH	9673
+Glades, FL	21290
+Gladeview, FL	11535
+Gladewater, TX	6432
+Gladstone, MO	26800
+Gladstone, OR	11888
+Glasgow, DE	14303
+Glasgow, KY	14339
+Glassboro, NJ	19007
+Glassmanor, MD	17295
+Glastonbury Center, CT	7387
+Glastonbury, CT	34427
+Glen Allen, VA	14774
+Glen Avon, CA	20199
+Glen Burnie, MD	67639
+Glen Carbon, IL	12947
+Glen Cove, NY	27314
+Glen Ellyn, IL	27763
+Glen Ridge, NJ	7681
+Glen Rock, NJ	11901
+Glenarden, MD	6290
+Glencoe, IL	8923
+Glendale Heights, IL	34530
+Glendale, AZ	237517
+Glendale, CA	200167
+Glendale, WI	12887
+Glendora, CA	51442
+Gleneagle, CO	6611
+Glenmont, MD	13529
+Glenn Dale, MD	13466
+Glenn Heights, TX	11915
+Glenolden, PA	7174
+Glenpool, OK	11855
+Glens Falls North, NY	8443
+Glens Falls, NY	14428
+Glenshaw, PA	8981
+Glenside, PA	8384
+Glenvar Heights, FL	16898
+Glenview, IL	46767
+Glenville, NY	29480
+Glenwood Springs, CO	9840
+Glenwood, IL	9036
+Globe, AZ	7375
+Glocester, RI	9746
+Gloucester City, NJ	11317
+Gloucester Point, VA	9402
+Gloucester, MA	29626
+Gloversville, NY	15122
+Godfrey, IL	17782
+Goffstown, NH	17651
+Golconda, NV	11024
+Gold Camp, AZ	10159
+Gold River, CA	7912
+Golden Gate, FL	23961
+Golden Glades, FL	33145
+Golden Hills, CA	8656
+Golden Lakes, FL	7456
+Golden Valley, AZ	8370
+Golden Valley, MN	20866
+Golden, CO	20201
+Goldenrod, FL	12039
+Goldsboro, NC	35947
+Goldsmith-Penwell, TX	21573
+Goleta, CA	30797
+Gonzales, CA	8440
+Gonzales, LA	10457
+Gonzales, TX	7461
+Gonzalez, FL	13273
+Good Hope, CA	9192
+Goodings Grove, IL	22530
+Goodlettsville, TN	16991
+Goodyear, AZ	75664
+Goose Creek, SC	40370
+Gorham, ME	6882
+Goshen, IN	32267
+Goulds, FL	10103
+Gracewood, GA	34147
+Grafton, MA	17765
+Grafton, OH	6077
+Grafton, WI	11531
+Graham, NC	14479
+Graham, TX	8864
+Graham, WA	23491
+Graham-Thrift, WA	62639
+Grain Valley, MO	13236
+Gramling, SC	6304
+Granbury, TX	9052
+Granby, CT	11282
+Granby, NY	6821
+Grand Blanc, MI	8033
+Grand Chute, WI	20919
+Grand Forks, ND	56057
+Grand Haven, MI	10965
+Grand Island, NE	51236
+Grand Island, NY	20374
+Grand Junction, CO	60210
+Grand Ledge, MI	7792
+Grand Prairie, TX	185453
+Grand Rapids, MI	193792
+Grand Rapids, MN	11097
+Grand Rapids, WI	7646
+Grand Terrace, CA	12414
+Grand Valley, CO	6111
+Grandview Heights, OH	7244
+Grandview, MO	25290
+Grandview, WA	11140
+Grandville, MI	15857
+Granger, IN	30465
+Granite Bay, CA	20402
+Granite City, IL	29183
+Grants Lick, KY	7067
+Grants Pass, OR	35272
+Grants, NM	9241
+Grantsville, UT	9838
+Grapevine, TX	50844
+Grass Valley, CA	12878
+Gray, ME	7761
+Gray-Griswold, GA	23626
+Grayslake, IL	21018
+Great Bend, KS	15840
+Great Falls, MT	59152
+Great Falls, VA	15427
+Great Neck Plaza, NY	6918
+Great Neck, NY	10118
+Greater Carrollwood, FL	39086
+Greater Landover, MD	23741
+Greater Newark, DE	70573
+Greater Northdale, FL	23859
+Greater Sun Center, FL	19031
+Greater Upper Marlboro, MD	19407
+Greatwood, TX	11538
+Greece, NY	14519
+Greeley, CO	98596
+Green Bay, WI	104891
+Green Cove Springs, FL	7109
+Green Haven, MD	18140
+Green Hill, TN	6618
+Green Knoll, NJ	6200
+Green River, WY	12630
+Green Valley, AZ	21391
+Green Valley, MD	14037
+Green, OH	25917
+Green, OR	7515
+Greenacres, FL	39157
+Greenbelt, MD	24125
+Greenbriar, VA	8166
+Greenbrier, TN	6685
+Greenburgh, NY	88400
+Greencastle, IN	10362
+Greendale, WI	14332
+Greeneville, TN	15035
+Greenfield Town, MA	17368
+Greenfield, CA	16929
+Greenfield, IN	21398
+Greenfield, MA	13768
+Greenfield, NY	7775
+Greenfield, WI	37157
+Greenfield-Panama, CA	20776
+Greenlawn, NY	13742
+Greensboro, NC	282586
+Greensburg, IN	11817
+Greensburg, PA	14571
+Greentree, NJ	11367
+Greenville, AL	7902
+Greenville, IL	6885
+Greenville, MI	8431
+Greenville, MS	32704
+Greenville, NC	89852
+Greenville, OH	13037
+Greenville, RI	8658
+Greenville, SC	62252
+Greenville, TX	26180
+Greenville, WI	10309
+Greenwich, CT	61171
+Greenwood Village, CO	15385
+Greenwood, AL	14409
+Greenwood, AR	9263
+Greenwood, IN	54491
+Greenwood, MS	15730
+Greenwood, SC	23236
+Greer, SC	27676
+Grenada, MS	12956
+Gresham Park, GA	7432
+Gresham, OR	109892
+Gretna, LA	17845
+Gridley, CA	6578
+Griffin, GA	23329
+Griffith, IN	16516
+Grimes, IA	9786
+Grinnell, IA	9069
+Griswold, CT	11951
+Groesbeck, OH	6788
+Grosse Ile, MI	10483
+Grosse Pointe Farms, MI	9285
+Grosse Pointe Park, MI	11288
+Grosse Pointe Woods, MI	15835
+Groton, CT	9299
+Grove City, OH	38519
+Grove City, PA	8215
+Grove, OK	6717
+Groveland, FL	10460
+Groveland, MA	6459
+Grover Beach, CA	13505
+Groves, TX	15753
+Groveton, VA	14598
+Grovetown, GA	12746
+Guadalupe, AZ	6106
+Guadalupe, CA	7271
+Guilderland, NY	35303
+Guilford, CT	22375
+Gulf Breeze, FL	6195
+Gulf Breeze-Harold, FL	67908
+Gulf Gate Estates, FL	10911
+Gulf Gate-Osprey, FL	30695
+Gulf Hills, MS	7144
+Gulf Shores, AL	10963
+Gulfport, FL	12198
+Gulfport, MS	71750
+Gunbarrel, CO	9263
+Guntersville, AL	8358
+Gurnee, IL	31207
+Guthrie, OK	11096
+Guttenberg, NJ	11481
+Guymon, OK	12128
+Gypsum, CO	6797
+Hacienda Heights, CA	54038
+Hackensack, NJ	44519
+Hackettstown, NJ	9551
+Haddam, CT	8346
+Haddon Heights, NJ	7375
+Haddonfield, NJ	11411
+Hagerstown, MD	73975
+Haiku-Pauwela, HI	8118
+Hailey, ID	8076
+Haines City, FL	22072
+Halawa, HI	14014
+Haledon, NJ	8471
+Hales Corners, WI	7757
+Half Moon Bay, CA	12371
+Half Moon, NC	8352
+Halfmoon, NY	21535
+Halfway, MD	10701
+Halifax, MA	7518
+Hallandale Beach, FL	39051
+Hallandale, FL	36703
+Haltom City, TX	43913
+Ham Lake, MN	15888
+Hamburg, NY	9565
+Hamden, CT	60960
+Hamilton Square, NJ	12784
+Hamilton, AL	6790
+Hamilton, MA	7764
+Hamilton, OH	62486
+Hamlet, NC	6513
+Hamlin, NY	9045
+Hammond, IN	78384
+Hammond, LA	20363
+Hammonton, NJ	14765
+Hampstead, MD	6363
+Hampstead, NH	8523
+Hampton Bays, NY	13603
+Hampton Township, PA	16704
+Hampton, GA	7305
+Hampton, NH	9656
+Hampton, VA	136879
+Hamptons at Boca Raton, FL	12593
+Hamtramck, MI	22099
+Hanahan, SC	19865
+Hanford, CA	55065
+Hannibal, MO	17893
+Hanover Park, IL	38476
+Hanover, MA	13879
+Hanover, NH	8636
+Hanover, NY	7127
+Hanover, PA	15454
+Hapeville, GA	6669
+Happy Valley, OR	17319
+Harahan, LA	9334
+Hardin Valley, TN	16267
+Harker Heights, TX	28526
+Harleton, TX	6345
+Harleysville, PA	9286
+Harlingen, TX	65914
+Harper Woods, MI	13907
+Harriman, TN	6219
+Harrisburg, IL	8914
+Harrisburg, NC	14132
+Harrisburg, PA	49082
+Harrison Township, PA	10421
+Harrison, AR	13130
+Harrison, NJ	15376
+Harrison, NY	28151
+Harrison, OH	10479
+Harrison, TN	7769
+Harrison, WI	10839
+Harrisonburg, VA	52478
+Harrisonville, MO	9983
+Harrisville, UT	6069
+Harrodsburg, KY	8361
+Hartford City, IN	6042
+Hartford, CT	124705
+Hartford, VT	9952
+Hartford, WI	14280
+Hartland, WI	9205
+Hartselle, AL	14459
+Hartsville, SC	7852
+Hartsville/Trousdale County, TN	8002
+Harvard, IL	9230
+Harvard, MA	6520
+Harvey, IL	25347
+Harvey, LA	20348
+Harwich, MA	12243
+Harwood Heights, IL	8675
+Hasbrouck Heights, NJ	12147
+Haslett, MI	19220
+Hastings, MI	7302
+Hastings, MN	22566
+Hastings, NE	24915
+Hastings, NY	9450
+Hastings-on-Hudson, NY	7975
+Hatboro, PA	7426
+Hattiesburg, MS	47016
+Hauppauge, NY	20882
+Havelock, NC	20706
+Haverhill, MA	62488
+Haverstraw, NY	12172
+Havre de Grace, MD	13512
+Havre, MT	9792
+Hawaiian Gardens, CA	14557
+Hawaiian Paradise Park, HI	11404
+Hawley-Noodle, TX	9023
+Hawthorn Woods, IL	7875
+Hawthorne, CA	87583
+Hawthorne, NJ	19048
+Hayden, ID	13870
+Hayesville, OR	19936
+Hays, KS	21044
+Haysville, KS	11112
+Hayward, CA	154612
+Hazel Crest, IL	14182
+Hazel Dell North, WA	11103
+Hazel Dell South, WA	7919
+Hazel Dell, WA	19435
+Hazel Park, MI	16604
+Hazelwood, MO	25666
+Hazleton, PA	24932
+Healdsburg, CA	11656
+Heath, OH	10456
+Heath, TX	7999
+Heber Springs, AR	7174
+Heber, UT	13599
+Hebron, CT	9686
+Hebron, KY	13050
+Helena Valley Southeast, MT	8227
+Helena Valley West Central, MT	7883
+Helena, AL	17883
+Helena, MT	29943
+Helena-West Helena, AR	11320
+Helotes, TX	8364
+Hemet, CA	83032
+Hempstead, NY	55527
+Hempstead, TX	6699
+Henderson, KY	28900
+Henderson, NC	15265
+Henderson, NV	277440
+Henderson, TN	6513
+Henderson, TX	13604
+Hendersonville, NC	13650
+Hendersonville, SC	6123
+Hendersonville, TN	55153
+Henrietta, NY	42581
+Hercules, CA	25086
+Hereford, TX	15216
+Herkimer, NY	7592
+Hermantown, MN	9704
+Hermiston, OR	17137
+Hermitage, PA	16118
+Hermosa Beach, CA	19891
+Hernando, FL	9054
+Hernando, MS	15290
+Herndon, VA	24554
+Herriman, UT	28556
+Herrin, IL	12852
+Hershey, PA	14257
+Hesperia, CA	92749
+Hewitt, TX	14166
+Hewlett, NY	6819
+Hialeah Gardens, FL	23555
+Hialeah, FL	235563
+Hiawatha, IA	7157
+Hibbing, MN	16302
+Hickam Housing, HI	6920
+Hickory Hills, IL	14177
+Hickory, NC	40143
+Hicksville, NY	41547
+Hidalgo, TX	13497
+High Point, NC	108629
+Highland City, FL	10834
+Highland Heights, KY	7194
+Highland Heights, OH	8366
+Highland Park, IL	29871
+Highland Park, MI	10375
+Highland Park, NJ	14436
+Highland Park, TX	8950
+Highland Springs, VA	15711
+Highland Village, TX	15995
+Highland, CA	54651
+Highland, IL	9894
+Highland, IN	23127
+Highland, SC	12102
+Highland, UT	17456
+Highlands Ranch, CO	96713
+Highlands, NY	12492
+Highlands, TX	7522
+Highview, KY	15547
+Hillandale, MD	6043
+Hillcrest Heights, MD	16469
+Hillcrest, NY	7558
+Hilliard, OH	32465
+Hillsboro, IL	6089
+Hillsboro, OH	6550
+Hillsboro, OR	99393
+Hillsboro, TX	8350
+Hillsborough, CA	11413
+Hillsborough, NC	6388
+Hillsdale, MI	8149
+Hillsdale, NJ	10482
+Hillside, IL	8195
+Hillside, NJ	21605
+Hillview, KY	8002
+Hilo, HI	43263
+Hilton Head Island, SC	40039
+Hinesville, GA	34815
+Hinsdale, IL	17446
+Hitchcock, TX	7442
+Hobart, IN	28635
+Hobart, WA	6221
+Hobart, WI	7861
+Hobbs, NM	37118
+Hobe Sound, FL	11521
+Hoboken, NJ	53312
+Hockessin, DE	13527
+Hoffman Estates, IL	52347
+Holbrook, MA	10791
+Holbrook, NY	27195
+Holden, MA	17346
+Holiday City-Berkeley, NJ	12831
+Holiday, FL	22403
+Holladay, UT	27129
+Holland, MI	33644
+Hollins, VA	14673
+Hollis, NH	7684
+Hollister, CA	37086
+Holliston, MA	13547
+Holly Hill, FL	11765
+Holly Springs, GA	10237
+Holly Springs, MS	7574
+Holly Springs, NC	30157
+Holly, MI	6195
+Hollymead, VA	7690
+Hollywood, FL	148047
+Holmen, WI	9564
+Holt, MI	23973
+Holtsville, NY	19714
+Holtville, CA	6290
+Holualoa, HI	8538
+Holyoke, MA	40124
+Home Gardens, CA	11570
+Homeacre-Lyndora, PA	6906
+Homeland Park, SC	6296
+Homer Glen, IL	24364
+Homestead Meadows South, TX	7247
+Homestead, FL	65524
+Homewood, AL	25802
+Homewood, IL	19464
+Homosassa Springs, FL	13791
+Hondo, TX	9056
+Honolulu, HI	374701
+Hood River, OR	7476
+Hooper, UT	8107
+Hoosick, NY	6924
+Hoover, AL	84353
+Hopatcong, NJ	14684
+Hope Hull, AL	8913
+Hope Mills, NC	16301
+Hope, AR	10004
+Hopewell, VA	22196
+Hopkins, MN	18056
+Hopkins, SC	7639
+Hopkinsville, KY	32634
+Hopkinton, RI	8188
+Hoquiam, WA	8389
+Horizon City, TX	19332
+Horizon West, FL	14000
+Horn Lake, MS	26766
+Hornell, NY	8404
+Hornsby Bend, TX	6791
+Horrell Hill, SC	12811
+Horseheads, NY	6678
+Horsham, PA	14842
+Hot Springs Village, AR	12807
+Hot Springs, AR	35673
+Houghton, MI	7932
+Houma, LA	34124
+Houston, TX	2239558
+Howard, WI	18987
+Howell, MI	9598
+Howey-in-the-Hills-Okahumpka, FL	16323
+Howland Center, OH	6351
+Hubbard, OH	7695
+Huber Heights, OH	38162
+Hudson Falls, NY	7225
+Hudson, FL	12158
+Hudson, MA	14907
+Hudson, NH	7336
+Hudson, NY	6576
+Hudson, OH	22448
+Hudson, WI	13415
+Hudsonville, MI	7323
+Hueytown, AL	15815
+Hughson, CA	7227
+Hugo, MN	14239
+Hull, MA	10293
+Humble, TX	15616
+Humboldt, AZ	6646
+Humboldt, TN	8348
+Hunters Creek, FL	14321
+Huntersville, NC	51567
+Huntingburg, IN	6042
+Huntingdon, PA	7037
+Huntington Beach, CA	200809
+Huntington Park, CA	59362
+Huntington Station, NY	33029
+Huntington Woods, MI	6357
+Huntington, IN	17166
+Huntington, NY	18046
+Huntington, VA	11267
+Huntington, WV	48807
+Huntley, IL	25603
+Huntsville, AL	188226
+Huntsville, GA	22178
+Huntsville, TX	40435
+Huron, CA	6806
+Huron, OH	7045
+Huron, SD	13163
+Hurricane, UT	15032
+Hurricane, WV	6396
+Hurst, TX	38733
+Hutchinson Island, FL	11192
+Hutchinson, KS	41642
+Hutchinson, MN	13872
+Hutto, TX	21170
+Hyattsville, MD	18420
+Hybla Valley, VA	15801
+Hyde Park, NY	21571
+Hyrum, UT	7818
+Idabel, OK	7010
+Idaho Falls, ID	58691
+Idyllwild, CA	15608
+Idylwood, VA	17288
+Ilchester, MD	23476
+Ilion, NY	7890
+Immokalee, FL	24154
+Imperial Beach, CA	27149
+Imperial, CA	16811
+Incline Village, NV	11844
+Incline Village-Crystal Bay, NV	11844
+Independence, KS	9162
+Independence, KY	26378
+Independence, MO	117494
+Independence, OH	7136
+Independence, OR	8768
+Independent Hill, VA	7419
+Indian Harbour Beach, FL	8334
+Indian Mound-Bumpus Mills, TN	6436
+Indian River Estates, FL	6220
+Indian Trail, NC	36360
+Indian Wells, AZ	8247
+Indiana, PA	14194
+Indianapolis, IN	848788
+Indianola, IA	15305
+Indianola, MS	10078
+Indiantown, FL	6083
+Indio, CA	85633
+Ingleside, TX	9639
+Inglewood, CA	111905
+Inglewood-Finn Hill, WA	22707
+Inkster, MI	24786
+Inniswold, LA	6180
+Innsbrook, VA	7753
+Interior County, FL	36733
+Interlachen-Florahome, FL	24964
+Interlaken, CA	7321
+International Falls, MN	6171
+Inver Grove Heights, MN	34709
+Inverness Highlands South, FL	6542
+Inverness, FL	7162
+Inverness, IL	7592
+Inwood, FL	6403
+Inwood, NY	9792
+Iona, FL	15369
+Ione, CA	6983
+Ionia, MI	11439
+Iowa City, IA	73415
+Iowa Park, TX	6391
+Irmo, SC	11893
+Iron Mountain, MI	7554
+Irondale, AL	12444
+Irondale, GA	7446
+Irondequoit, NY	51692
+Ironton, OH	10995
+Irvine, CA	248531
+Irving, TX	232406
+Irvington, NJ	58920
+Irvington, NY	6581
+Iselin, NJ	18695
+Ishpeming, MI	6532
+Isla Vista, CA	23096
+Islamorada, FL	6428
+Island Lake, IL	8031
+Islip, NY	18689
+Issaquah Plateau, WA	53651
+Issaquah, WA	34056
+Itasca, IL	8800
+Ithaca, NY	30720
+Ives Estates, FL	19525
+Ivins, UT	7665
+Ivylog, GA	6791
+Jacinto City, TX	10809
+Jackson Hole, WY	19309
+Jackson, MI	33200
+Jackson, MO	14677
+Jackson, MS	171155
+Jackson, OH	6284
+Jackson, TN	67319
+Jackson, WI	6802
+Jackson, WY	10449
+Jacksonville Beach, FL	22665
+Jacksonville, AL	12250
+Jacksonville, AR	28808
+Jacksonville, FL	853382
+Jacksonville, IL	19159
+Jacksonville, NC	69047
+Jacksonville, TX	14675
+James Island, SC	37514
+Jamesburg, NJ	6021
+Jamestown district, VA	11926
+Jamestown, ND	15446
+Jamestown, NY	30429
+Jamul, CA	6163
+Janesville, WI	64009
+Jarrell, TX	8906
+Jasmine Estates, FL	18989
+Jasper, AL	14109
+Jasper, IN	15325
+Jasper, TX	7637
+Jeannette, PA	9400
+Jefferson City, MO	43132
+Jefferson City, TN	8370
+Jefferson Hills, PA	11232
+Jefferson Valley-Yorktown, NY	14142
+Jefferson, GA	9867
+Jefferson, LA	11193
+Jefferson, VA	28287
+Jefferson, WI	7955
+Jeffersontown, KY	26949
+Jeffersonville, IN	46440
+Jemez, NM	6204
+Jenison, MI	16538
+Jenks, OK	19951
+Jennings Lodge, OR	7315
+Jennings, LA	10183
+Jennings, MO	14737
+Jensen Beach, FL	11707
+Jericho, NY	13567
+Jerome, ID	11189
+Jersey City, NJ	262146
+Jersey Village, TX	7906
+Jerseyville, IL	8532
+Jessup, MD	7137
+Jesup, GA	10285
+Johns Creek, GA	83102
+Johns Island, SC	13999
+Johnsburg, IL	6297
+Johnson City, NY	14832
+Johnson City, TN	65813
+Johnson Lane, NV	6490
+Johnston, IA	20359
+Johnston, RI	28769
+Johnstown, CO	13306
+Johnstown, NY	8389
+Johnstown, PA	20184
+Joliet, IL	147928
+Jollyville, TX	16151
+Jonesboro, AR	72210
+Joplin, MO	51316
+Joppatowne, MD	12616
+Joshua Tree, CA	7414
+Joshua, TX	6002
+Junction City, KS	24665
+Juneau, AK	32406
+Juno, GA	15063
+Jupiter Farms, FL	11994
+Jupiter, FL	60681
+Jurupa, CA	112225
+Justice, IL	13022
+Kabletown district, WV	12110
+Kahului, HI	26337
+Kailua, HI	11975
+Kalamazoo, MI	75922
+Kalaoa, HI	9644
+Kalifornsky, AK	7850
+Kalispell, MT	21518
+Kaneohe Station, HI	9517
+Kaneohe, HI	34597
+Kankakee, IL	26860
+Kannapolis, NC	45245
+Kansas City, KS	149636
+Kansas City, MO	470800
+Kapaa, HI	10699
+Kapolei, HI	15186
+Karns, TN	11119
+Kasson, MN	6074
+Kathleen, FL	6332
+Katy, TX	15591
+Kau, HI	6768
+Kaufman, TX	6982
+Kaukauna, WI	15799
+Kaysville, UT	29494
+Keansburg, NJ	9872
+Kearney, MO	9261
+Kearney, NE	32469
+Kearns, UT	35731
+Kearny, NJ	41837
+Keavy, KY	8991
+Keene, NH	23034
+Keene, TX	6153
+Keizer, OR	37303
+Keller, TX	43924
+Kelso, WA	11788
+Kemp Mill, MD	12564
+Ken Caryl, CO	32438
+Kenai, AK	7568
+Kendale Lakes, FL	56148
+Kendale Lakes-Lindgren Acres, FL	341815
+Kendall Park, NJ	9339
+Kendall West, FL	36154
+Kendall, FL	75371
+Kendall-Perrine, FL	169007
+Kendallville, IN	9905
+Kenilworth, NJ	8153
+Kenmore, NY	15236
+Kenmore, WA	21839
+Kennedale, TX	7394
+Kennedy Township, PA	7152
+Kenner, LA	67064
+Kennesaw, GA	32400
+Kennett Square, PA	6151
+Kennett, MO	10796
+Kennewick, WA	77421
+Kenosha, WI	99894
+Kensington, CT	8459
+Kent, NY	13507
+Kent, OH	29639
+Kent, WA	125560
+Kentfield, CA	6485
+Kenton, OH	8242
+Kentwood, MI	50764
+Kenwood, OH	6981
+Keokuk, IA	10692
+Kerman, CA	14394
+Kermit, TX	6286
+Kernersville, NC	23739
+Kerrville, TX	22905
+Kersey-Gill, CO	7273
+Ketchikan, AK	8245
+Kettering, MD	12790
+Kettering, OH	55705
+Kewanee, IL	12596
+Key Biscayne, FL	12924
+Key Largo, FL	10433
+Key West, FL	25704
+Keyport, NJ	7162
+Keystone Lake, OK	11275
+Keystone, FL	24039
+Kihei, HI	20881
+Kilgore, TX	14948
+Kill Devil Hills, NC	6931
+Killeen, TX	138154
+Killingly, CT	17370
+Killingworth, CT	6525
+Kimberly, WI	6691
+King City, CA	13580
+King of Prussia, PA	19936
+King, NC	6887
+Kingman, AZ	28549
+Kings Grant, NC	8113
+Kings Mountain, NC	10644
+Kings Park West, VA	13390
+Kings Park, NY	17282
+Kings Point, FL	13597
+Kingsburg, CA	11732
+Kingsbury, NY	12671
+Kingsgate, WA	13065
+Kingsland, GA	16416
+Kingsland, TX	6030
+Kingsport, TN	53028
+Kingston, NH	6025
+Kingston, NY	23557
+Kingston, PA	12994
+Kingston, RI	6974
+Kingstowne, VA	15556
+Kingsville, TX	26529
+Kinnelon, NJ	10381
+Kinston, NC	21392
+Kirby, TX	8442
+Kirkland, NY	10315
+Kirkland, WA	85763
+Kirksville, MO	17633
+Kirkwood, MO	27660
+Kirtland, NM	7875
+Kirtland, OH	6819
+Kiryas Joel, NY	22246
+Kissimmee, FL	66722
+Klahanie, WA	10674
+Klamath Falls, OR	21119
+Knightdale, NC	13871
+Knik-Fairview, AK	14923
+Knob Creek, TN	6543
+Knoxville, IA	7244
+Knoxville, TN	184281
+Kodiak, AK	6304
+Kokomo, IN	57085
+Koolauloa, HI	19409
+Koolaupoko, HI	121180
+Kosciusko, MS	7237
+Kronenwetter, WI	7427
+Kula, HI	10724
+Kulpsville, PA	8194
+Kuna, ID	16999
+Kyle, TX	32881
+La Belle, FL	19514
+La Canada Flintridge, CA	20662
+La Crescenta-Montrose, CA	19653
+La Crosse, WI	52440
+La Fayette, GA	7169
+La Feria, TX	7308
+La Follette, TN	7131
+La Grande, OR	13026
+La Grange Park, IL	13665
+La Grange, IL	15759
+La Grange, KY	8516
+La Grange, NY	15730
+La Habra, CA	62066
+La Homa, TX	11985
+La Junta, CO	6964
+La Marque, TX	15521
+La Mesa, CA	59177
+La Mirada, CA	49459
+La Palma, CA	15911
+La Plata, MD	8988
+La Porte, IN	22007
+La Porte, TX	35039
+La Presa, CA	34169
+La Puente, CA	40735
+La Quinta, CA	39964
+La Riviera, CA	10802
+La Rue-Poynor, TX	6714
+La Salle, IL	9328
+La Sara, TX	7190
+La Vergne, TN	34274
+La Verne, CA	32288
+La Vista, NE	17636
+LaGrange, GA	30557
+Labelle, TX	10921
+Lacey, WA	45446
+Laceys Spring, AL	9055
+Lackawanna, NY	17955
+Lackland AFB, TX	9918
+Lacombe, LA	8679
+Laconia, NH	16067
+Lacy-Lakeview, TX	6633
+Ladera Heights, CA	6498
+Ladera Ranch, CA	22980
+Ladson, SC	13790
+Ladue, MO	8576
+Lady Lake, FL	14455
+Lafayette, CA	25473
+Lafayette, CO	27081
+Lafayette, IN	70654
+Lafayette, LA	126066
+Lago Vista, TX	6478
+Laguna Beach, CA	23341
+Laguna Hills, CA	30972
+Laguna Niguel, CA	65448
+Laguna West-Lakeside, CA	9395
+Laguna Woods, CA	16415
+Laguna, CA	38309
+Lahaina, HI	11704
+Laie, HI	6138
+Lake Arbor, MD	9776
+Lake Arrowhead, CA	12424
+Lake Barcroft, VA	9558
+Lake Butter, FL	8339
+Lake Carmel, NY	8282
+Lake Charles, LA	74889
+Lake City, FL	12100
+Lake City, SC	6732
+Lake Dallas, TX	7429
+Lake Elmo, MN	8306
+Lake Elsinore, CA	60029
+Lake Forest Park, WA	13184
+Lake Forest, CA	80148
+Lake Forest, IL	19379
+Lake Geneva, WI	7746
+Lake Grove, NY	11241
+Lake Hallie, WI	6565
+Lake Havasu City, AZ	53103
+Lake Jackson, TX	27604
+Lake Lorraine, FL	7010
+Lake Los Angeles, CA	12328
+Lake Lucerne, FL	9919
+Lake Magdalene, FL	28509
+Lake Mary, FL	15801
+Lake Mathews, CA	21561
+Lake Mohawk, NJ	9916
+Lake Mohegan, NY	6010
+Lake Monticello, VA	9920
+Lake Morton-Berrydale, WA	10160
+Lake Norman of Catawba, NC	7411
+Lake Oswego, OR	37999
+Lake Park, FL	8448
+Lake Purdy, AL	7362
+Lake Ridge, VA	41058
+Lake Ronkonkoma, NY	20155
+Lake Shore, MD	19477
+Lake Shore, WA	6571
+Lake St. Louis, MO	15014
+Lake Station, IN	12175
+Lake Stevens, WA	30284
+Lake Stickney, WA	7777
+Lake Tahoe, CA	16057
+Lake Tapps, WA	11859
+Lake Villa, IL	8825
+Lake Wales, FL	15140
+Lake Worth Corridor, FL	20788
+Lake Worth, FL	37097
+Lake Wylie, SC	8841
+Lake Zurich, IL	20054
+Lake in the Hills, IL	28893
+Lake of the Woods, VA	7177
+Lakeland Highlands, FL	11056
+Lakeland North, WA	12942
+Lakeland South, WA	11574
+Lakeland Village, CA	11541
+Lakeland, FL	102346
+Lakeland, TN	12564
+Lakemoor, IL	6005
+Lakes by the Bay, FL	9835
+Lakes of the Four Seasons, IN	7033
+Lakes, AK	8364
+Lakeside, CA	20648
+Lakeside, FL	30943
+Lakeside, VA	11849
+Lakeville, MA	10602
+Lakeville, MN	59866
+Lakeway, TX	13685
+Lakewood Park, FL	11323
+Lakewood, CA	81653
+Lakewood, CO	149643
+Lakewood, NJ	53805
+Lakewood, OH	50926
+Lakewood, WA	59610
+Lamar, CO	7608
+Lambertville, MI	9953
+Lamesa, TX	9440
+Lamont, CA	15120
+Lampasas, TX	7223
+Lancaster, CA	161043
+Lancaster, MA	8055
+Lancaster, NY	10294
+Lancaster, OH	39595
+Lancaster, PA	59302
+Lancaster, SC	8960
+Lancaster, TX	38453
+Land O' Lakes, FL	31996
+Landen, OH	6782
+Lander, WY	7642
+Landover, MD	23078
+Lanett, AL	6447
+Langdale, AL	13528
+Langley Park, MD	18755
+Lanham, MD	10157
+Lanham-Seabrook, MD	18858
+Lanier, TN	11534
+Lansdale, PA	16487
+Lansdowne, MD	8409
+Lansdowne, PA	10641
+Lansdowne, VA	11253
+Lansdowne-Baltimore Highlands, MD	16370
+Lansing, IL	28522
+Lansing, KS	11713
+Lansing, MI	114620
+Lantana, FL	10996
+Lantana, TN	6822
+Lantana, TX	6874
+Lapeer, MI	8762
+Laplace, LA	29872
+Laramie, WY	32081
+Larchmont, NY	6111
+Laredo, TX	252309
+Largo, FL	79019
+Largo, MD	10709
+Larkfield-Wikiup, CA	8884
+Larkspur, CA	12325
+Larose, LA	7400
+Las Cruces, NM	101408
+Las Vegas, NM	13518
+Las Vegas, NV	613599
+Lascassas, TN	11822
+Lathemtown, GA	13132
+Lathrop, CA	20075
+Latimer, MS	6079
+Latrobe, PA	8129
+Lauderdale Lakes, FL	34410
+Lauderdale-by-the-Sea, FL	6388
+Lauderhill, FL	70626
+Laughlin, NV	7323
+Laurel Hill, VA	6855
+Laurel, FL	8171
+Laurel, MD	26160
+Laurel, MS	18868
+Laurel, MT	6936
+Laurel, VA	16713
+Laurence Harbor, NJ	6536
+Laurens, SC	9182
+Laurinburg, NC	15593
+Lawndale, CA	33442
+Lawrence, IN	47550
+Lawrence, KS	92763
+Lawrence, MA	78197
+Lawrence, NY	6553
+Lawrenceburg, KY	11093
+Lawrenceburg, TN	10498
+Lawrenceville, GA	30212
+Lawton, OK	97017
+Layton, UT	72231
+Le Mars, IA	9764
+Le Ray, NY	21782
+Lea Hill, WA	11609
+Leacock-Leola-Bareville, PA	7214
+League City, TX	94403
+Lealman, FL	19879
+Leander, TX	34172
+Leavenworth, KS	36000
+Leavenworth-Lake Wenatchee, WA	6255
+Leawood, KS	34395
+Lebanon, CT	7308
+Lebanon, IN	15836
+Lebanon, ME	6031
+Lebanon, MO	14650
+Lebanon, NH	13589
+Lebanon, OH	20434
+Lebanon, OR	15982
+Lebanon, PA	25573
+Lebanon, TN	29427
+Ledgeview, WI	6555
+Ledyard, CT	15051
+Lee's Summit, MO	93864
+Lee, NY	6486
+Leeds, AL	11939
+Leesburg, FL	21524
+Leesburg, VA	49496
+Leesville, LA	6528
+Lehi, UT	56275
+Lehigh Acres, FL	86784
+Leicester, MA	10970
+Leisure City, FL	22655
+Leisure World, MD	8749
+Leitchfield, KY	6872
+Leland, NC	17015
+Lemay, MO	16645
+Lemmon Valley-Golden Valley, NV	8158
+Lemon Grove, CA	26511
+Lemon Hill, CA	13729
+Lemont, IL	16661
+Lemoore Station, CA	7438
+Lemoore, CA	25186
+Lenexa, KS	51042
+Lennox, CA	22753
+Lenoir City, TN	9034
+Lenoir, NC	17920
+Lenox, NY	9122
+Leominster, MA	41150
+Leon Valley, TX	11015
+Leonardtown, MD	12515
+Leonia, NJ	9139
+Levelland, TX	13954
+Levittown, NY	51881
+Levittown, PA	52983
+Lewisboro, NY	12411
+Lewisburg, TN	11371
+Lewiston, ID	32482
+Lewiston, ME	36299
+Lewistown, PA	8297
+Lewisville, NC	13342
+Lewisville, TX	102889
+Lexington Park, MD	11626
+Lexington, MA	31394
+Lexington, NC	19257
+Lexington, NE	10146
+Lexington, SC	19893
+Lexington, TN	7825
+Lexington, VA	7311
+Lexington-Fayette, KY	310797
+Liberal, KS	21012
+Liberty Lake, WA	8637
+Liberty, MO	30376
+Liberty, TX	8919
+Libertyville, IL	20512
+Lighthouse Point, FL	10953
+Lihue, HI	6455
+Lilburn, GA	12543
+Lima, OH	38265
+Lincoln City, OR	8036
+Lincoln Park, MI	37231
+Lincoln Park, NJ	10482
+Lincoln Village, OH	9032
+Lincoln, AL	6438
+Lincoln, CA	45902
+Lincoln, IL	14162
+Lincoln, MA	6362
+Lincoln, NE	272996
+Lincoln, RI	21105
+Lincolnia, VA	22855
+Lincolnshire, IL	7292
+Lincolnton, NC	10732
+Lincolnwood, IL	12687
+Lincroft, NJ	6135
+Linda Rural, CA	9329
+Linda, CA	17773
+Linden, NJ	41651
+Lindenhurst, IL	14468
+Lindenhurst, NY	27321
+Lindenwold, NJ	17417
+Lindon, UT	10723
+Lindsay, CA	13192
+Linganore, MD	8543
+Linganore-Bartonsville, MD	14343
+Linglestown, PA	6334
+Lino Lakes, MN	20948
+Linthicum, MD	10324
+Linton Hall, VA	35725
+Linwood, NJ	7052
+Lionville-Marchwood, PA	6189
+Lisbon, ME	9009
+Lisbon, WI	10157
+Lisle, IL	22827
+Litchfield, IL	6930
+Litchfield, MN	6668
+Litchfield, NH	8271
+Lithia Springs, GA	15491
+Lititz, PA	9397
+Little Canada, MN	10228
+Little Chute, WI	10813
+Little Colorado, AZ	19982
+Little Cottonwood Creek Valley, UT	8033
+Little Elm, TX	35414
+Little Falls, MN	8201
+Little Falls, NJ	10772
+Little Ferry, NJ	10866
+Little River, SC	8960
+Little Rock, AR	197706
+Littlefield, TX	6180
+Littleton, CO	44669
+Littleton, MA	8924
+Live Oak, CA	17158
+Live Oak, FL	6969
+Live Oak, TX	15116
+Livermore, CA	86870
+Livingston, CA	13815
+Livingston, MT	7245
+Livingston, NJ	26590
+Livingston-New Willard, TX	40554
+Livonia, MI	94958
+Lizella, GA	18098
+Lloyd, NY	10863
+Lochearn, MD	25333
+Lock Haven, PA	9862
+Lockhart, FL	13060
+Lockhart, TX	13232
+Lockport, IL	25119
+Lockport, NY	20743
+Lockwood, MT	6797
+Lodi, CA	63950
+Lodi, NJ	24654
+Logan, OH	7154
+Logan, UT	48997
+Logansport, IN	18019
+Loganville, GA	11022
+Loma Linda, CA	23853
+Lombard, IL	43893
+Lomita, CA	20768
+Lompoc Valley, CA	58405
+Lompoc, CA	44013
+London, KY	8126
+London, OH	10056
+Londonderry, NH	11037
+Londontowne, MD	7911
+Lone Tree, CO	13545
+Long Beach, CA	473577
+Long Beach, MS	15448
+Long Beach, NY	33664
+Long Branch, NJ	30522
+Long Branch, VA	7593
+Long Grove, IL	8181
+Long Island, AL	6081
+Longboat Key, FL	7143
+Longmeadow, MA	15784
+Longmont, CO	90237
+Longs, SC	7123
+Longview, TX	81593
+Longview, WA	36483
+Longwood, FL	13877
+Loomis Basin-Folsom Lake, CA	89014
+Loomis, CA	6728
+Loon Lake, WA	8931
+Lorain, OH	63776
+Lorton, VA	18610
+Los Alamitos, CA	11716
+Los Alamos, NM	12019
+Los Altos Hills, CA	8396
+Los Altos, CA	30288
+Los Angeles, CA	3928864
+Los Banos, CA	37126
+Los Fresnos, TX	6447
+Los Gatos, CA	30735
+Los Lunas, NM	15206
+Los Osos, CA	14276
+Los Ranchos de Albuquerque, NM	6063
+Louisville, CO	20112
+Louisville, KY	262764
+Louisville, MS	6325
+Louisville, OH	9147
+Lovejoy, GA	6406
+Loveland, CO	72651
+Loveland, OH	12405
+Loves Park, IL	23551
+Lovington, NM	11840
+Lowell, AR	8334
+Lowell, IN	9402
+Lowell, MA	109945
+Lower Allen, PA	6694
+Lower Burrell, PA	11531
+Lower Christiana, DE	38118
+Lower Keys, FL	10859
+Lower Peninsula, WA	14867
+Lower Rutherford Creek, TN	7726
+Lowes Island, VA	10756
+Lubbock, TX	243839
+Lucas Valley-Marinwood, CA	6094
+Lucas, TX	6554
+Ludington, MI	8078
+Ludlow, MA	21103
+Lufkin, TX	36141
+Lugoff, SC	7434
+Luling, LA	12119
+Lumberton, NC	21716
+Lumberton, TX	12312
+Lutherville, MD	6504
+Lutherville-Timonium, MD	16464
+Lutz, FL	19344
+Lyles-Wrigley, TN	6544
+Lynbrook, NY	19558
+Lynchburg, TN	6313
+Lynchburg, VA	79047
+Lynden, WA	13165
+Lyndhurst, NJ	19390
+Lyndhurst, OH	13733
+Lyndon, KY	11311
+Lynn Haven, FL	19792
+Lynn, MA	92137
+Lynnfield, MA	11596
+Lynnwood, WA	36687
+Lynwood, CA	71839
+Lynwood, IL	9313
+Lyons, IL	10773
+Lysander, NY	21759
+Mableton, GA	37115
+Macclenny, FL	6417
+Macedonia, OH	11579
+Macedonia, SC	6803
+Machesney Park, IL	23036
+Mack, OH	11585
+Macomb, IL	18943
+Macon, GA	89981
+Madeira, OH	8936
+Madera Acres, CA	9163
+Madera, CA	63605
+Madison Crossroads, AL	10779
+Madison Heights, MI	30267
+Madison Heights, VA	11285
+Madison Park, NJ	7144
+Madison, AL	46450
+Madison, CT	18269
+Madison, IN	12035
+Madison, MS	25455
+Madison, NJ	16122
+Madison, SD	7126
+Madison, WI	245691
+Madisonville, KY	19622
+Madras, OR	6533
+Magalia, CA	11310
+Magna, UT	26505
+Magnolia, AR	11489
+Mahomet, IL	7955
+Mahopac, NY	8369
+Mahtomedi, MN	8064
+Maili, HI	9488
+Maitland, FL	16823
+Makaha, HI	8278
+Makakilo City, HI	13511
+Makakilo, HI	18248
+Makawao, HI	7184
+Malden, MA	60859
+Malibu, CA	12958
+Malta, NY	14765
+Maltby, WA	10830
+Malvern, AR	10826
+Malverne, NY	8570
+Mamakating, NY	12085
+Mamaroneck, NY	19302
+Mammoth Lakes, CA	8009
+Manassas Park, VA	15174
+Manassas, VA	42081
+Manchester, CT	58241
+Manchester, MO	18197
+Manchester, NH	110448
+Manchester, TN	10349
+Manchester, VA	10804
+Mandan, ND	20820
+Mandeville, LA	12236
+Mango, FL	11313
+Manhasset, NY	8080
+Manhattan Beach, CA	35881
+Manhattan, IL	7302
+Manhattan, KS	56078
+Manhattan, NY	1621897
+Manistee, MI	6098
+Manitowoc, WI	33102
+Mankato, MN	40411
+Manor, TX	6920
+Manorhaven, NY	6700
+Manorville, NY	14314
+Mansfield Center, MA	7360
+Mansfield, CT	26543
+Mansfield, MA	23184
+Mansfield, OH	46824
+Mansfield, TX	62246
+Manteca, CA	73494
+Manteno, IL	9026
+Mantua, VA	7135
+Manvel, TX	7165
+Manville, NJ	10388
+Maple Glen, PA	6742
+Maple Grove, MN	66945
+Maple Heights, OH	22735
+Maple Valley, WA	25125
+Mapleton, UT	9071
+Maplewood, MN	40199
+Maplewood, MO	7959
+Maplewood, NJ	23170
+Maquoketa, IA	6012
+Marana, AZ	39888
+Marathon, FL	8708
+Marble Falls, TX	6185
+Marblehead, MA	19808
+Marco Island, FL	18357
+Marcy, NY	8982
+Marengo, IL	7508
+Margate City, NJ	6333
+Margate, FL	56061
+Marianna, FL	9249
+Maricopa, AZ	47442
+Marietta, GA	60014
+Marietta, OH	13954
+Marina del Rey, CA	8866
+Marina, CA	20817
+Marinette, WI	10897
+Marion, AR	12321
+Marion, IA	36774
+Marion, IL	17438
+Marion, IN	29308
+Marion, NC	7885
+Marion, OH	36620
+Marion, SC	6751
+Markham, IL	12688
+Marlboro Village, MD	9438
+Marlborough, CT	6404
+Marlborough, MA	39612
+Marlborough, NY	8808
+Marlton, MD	9031
+Marlton, NJ	10133
+Marquette, MI	21441
+Marrero, LA	33141
+Marshall, MI	7035
+Marshall, MN	13641
+Marshall, MO	13042
+Marshall, TX	24701
+Marshalltown, IA	27727
+Marshfield, MO	6977
+Marshfield, WI	18691
+Martha Lake, WA	15473
+Martha-Laguardo, TN	13271
+Martin, TN	11322
+Martinez, CA	37567
+Martinez, GA	35795
+Martins Ferry, OH	6814
+Martinsburg, WV	17743
+Martinsville, IN	11744
+Martinsville, NJ	11980
+Martinsville, VA	13711
+Marumsco, VA	35036
+Marvin, NC	6060
+Maryland City, MD	16093
+Maryland Heights, MO	27405
+Marysville Rural, CA	7361
+Marysville, CA	12231
+Marysville, MI	9793
+Marysville, OH	22708
+Marysville, WA	65087
+Maryville, IL	7826
+Maryville, MO	12007
+Maryville, TN	28329
+Mascoutah, IL	7869
+Mashpee, MA	14006
+Mason City, IA	27458
+Mason, MI	8319
+Mason, OH	31613
+Masonboro, NC	13958
+Massapequa Park, NY	17206
+Massapequa, NY	21685
+Massena, NY	10723
+Massillon, OH	32274
+Mastic Beach, NY	14874
+Mastic, NY	15481
+Matanzas, FL	15969
+Matawan, NJ	8718
+Mather, CA	108400
+Mattapoisett, MA	6045
+Matteson, IL	19156
+Matthews, NC	30008
+Mattoon, IL	18211
+Mattydale, NY	6446
+Maud-Elliot Creek, TX	10147
+Mauldin, SC	24823
+Maumee, OH	14036
+Maumelle, AR	17804
+Mayfield Heights, OH	18849
+Mayfield, KY	10122
+Mayland-Pleasant Hill, TN	7422
+Maynard, MA	10106
+Mayo, MD	8298
+Mays Chapel, MD	11420
+Maysville, KY	8851
+Maywood, CA	27937
+Maywood, IL	24133
+Maywood, NJ	9746
+McAlester, OK	18247
+McAllen, TX	138596
+McAlpin-Wellborn, FL	7833
+McCandless Township, PA	27661
+McComb, MS	12703
+McCook, NE	7611
+McDonough, GA	23004
+McFarland, CA	13605
+McFarland, WI	8182
+McGregor, FL	7406
+McHenry, IL	26630
+McKees Rocks, PA	6046
+McKeesport, PA	19561
+McKinleyville, CA	15177
+McKinney, TX	156767
+McLean, VA	48115
+McMinnville, OR	33393
+McMinnville, TN	13620
+McNair, VA	17513
+McPherson, KS	13189
+Mead Valley, CA	18510
+Mead, WA	7275
+Meadow Lakes, AK	7570
+Meadow Woods, FL	25558
+Meadowbrook, AL	8769
+Meadowbrook, VA	18312
+Meadows Place, TX	6958
+Meadville, PA	13238
+Mebane, NC	13277
+Mecca, CA	8577
+Mechanicsburg, PA	8969
+Mechanicstown, NY	6858
+Mechanicsville, VA	36348
+Medfield, MA	6483
+Medford, MA	57437
+Medford, NY	24142
+Medford, OR	78557
+Medina, OH	26523
+Medulla, FL	8892
+Medway, MA	12752
+Mehlville, MO	28380
+Melbourne Shores-Floridana Beach, FL	7307
+Melbourne, FL	78490
+Melissa, TX	6703
+Melrose Park, FL	7616
+Melrose Park, IL	25511
+Melrose, MA	27969
+Melville, NY	18985
+Melvindale, MI	10441
+Memphis, FL	7848
+Memphis, TN	656861
+Menasha, WI	17604
+Mendon, NY	9152
+Mendota Heights, MN	11222
+Mendota, CA	11412
+Mendota, IL	7254
+Menifee, CA	85182
+Menlo Park, CA	33309
+Menominee, MI	8458
+Menomonee Falls, WI	35974
+Menomonie, WI	16237
+Mentone, CA	8720
+Mentor, OH	46870
+Mentor-on-the-Lake, OH	7412
+Mequon, WI	23509
+Merced, CA	81743
+Mercedes, TX	16591
+Mercer Island, WA	24326
+Mercerville, NJ	13230
+Mercerville-Hamilton Square, NJ	27308
+Meriden, CT	60293
+Meridian, ID	87743
+Meridian, MS	40196
+Meridianville, AL	6021
+Merriam, KS	11290
+Merrick, NY	22097
+Merrifield, VA	15212
+Merrill, WI	9364
+Merrillville, IN	35450
+Merrimac, MA	6338
+Merrimack, NH	25494
+Merritt Island, FL	34743
+Merrydale, LA	9772
+Mesa, AZ	464704
+Mesquite, NV	16970
+Mesquite, TX	144416
+Metairie, LA	138481
+Methuen, MA	49112
+Metropolis, IL	6390
+Metropolitan Government, TN	620916
+Metuchen, NJ	13826
+Mexia, TX	7501
+Mexico, MO	11664
+Miami Beach, FL	91732
+Miami Lakes, FL	30791
+Miami Shores, FL	10861
+Miami Springs, FL	14415
+Miami, FL	430332
+Miami, OK	13671
+Miamisburg, OH	20092
+Micco, FL	9052
+Michigan City, IN	31487
+Middle Island, NY	10483
+Middle Keys, FL	11111
+Middle River, MD	25191
+Middle Valley, TN	12684
+Middleborough Center, MA	7319
+Middleborough, MA	23116
+Middleburg Heights, OH	15751
+Middleburg, FL	13008
+Middleburg-Clay Hill, FL	37033
+Middlebury, CT	7575
+Middlebury, VT	6588
+Middlesborough, KY	9872
+Middlesex, NJ	13888
+Middleton, ID	6420
+Middleton, MA	8987
+Middleton, WI	18671
+Middletown district, WV	18006
+Middletown, CT	47043
+Middletown, DE	19910
+Middletown, KY	7422
+Middletown, MD	9350
+Middletown, NY	27728
+Middletown, OH	48791
+Middletown, PA	8870
+Middletown, RI	16150
+Midland Park, NJ	7305
+Midland Rural, TX	27540
+Midland, MI	41957
+Midland, TX	128037
+Midland, WA	8962
+Midlothian, IL	14911
+Midlothian, TX	20934
+Midvale, UT	31725
+Midway City, CA	8485
+Midwest City, OK	57039
+Mila Doce, TX	6222
+Milan, TN	7834
+Miles City, MT	8758
+Milford Mill, MD	29042
+Milford, CT	51857
+Milford, DE	10179
+Milford, MA	25055
+Milford, MI	6461
+Milford, NH	8835
+Milford, OH	6892
+Mililani Mauka, HI	21039
+Mililani Town, HI	27629
+Mill Creek East, WA	15709
+Mill Creek, WA	19200
+Mill Plain, WA	8872
+Mill Valley, CA	14403
+Millbrae, CA	22703
+Millbrook, AL	15169
+Millburn, NJ	19187
+Millbury, MA	13261
+Millcreek, UT	62139
+Milledgeville, GA	19211
+Miller Place, NY	12339
+Millersville, PA	8482
+Millersville, TN	6660
+Milliken, CO	6091
+Millington, TN	11080
+Millis, MA	7891
+Mills River, NC	7085
+Milltown, NJ	7032
+Millville, NJ	28497
+Milo, NY	7006
+Milpitas, CA	73672
+Milton, FL	9445
+Milton, GA	36662
+Milton, MA	27003
+Milton, PA	6982
+Milton, WA	7360
+Milton-Freewater, OR	7088
+Milwaukee, WI	599642
+Milwaukie, OR	20640
+Mims, FL	7058
+Minden, LA	12808
+Mineola, NY	19028
+Mineral Wells, TX	15362
+Mingus Mountain, AZ	30649
+Minneapolis, MN	407207
+Minnehaha, WA	9771
+Minneola, FL	10351
+Minnetonka, MN	51486
+Minnetrista, MN	6885
+Minooka, IL	11194
+Minot, ND	47997
+Mint Hill, NC	25076
+Mira Loma, CA	21930
+Mira Monte, CA	6854
+Miramar Beach, FL	6146
+Miramar, FL	134989
+Mishawaka, IN	48174
+Mission Bend, TX	36501
+Mission Viejo, CA	97209
+Mission, KS	9501
+Mission, TX	82431
+Missoula, MT	69821
+Missouri City, TX	71710
+Mitchell, SD	15693
+Mitchellville, MD	10967
+Moapa Valley, NV	6924
+Moberly, MO	13890
+Mobile, AL	194675
+Modesto, CA	209286
+Mokena, IL	19447
+Molalla, OR	8422
+Moline, IL	42685
+Monahans, TX	7617
+Moncks Corner, SC	9460
+Monessen, PA	7529
+Monett, MO	8934
+Monfort Heights, OH	11948
+Monmouth, IL	9527
+Monmouth, OR	9950
+Monona, WI	7859
+Monroe, CT	19479
+Monroe, GA	13664
+Monroe, LA	49601
+Monroe, MI	20198
+Monroe, NC	34331
+Monroe, NY	8562
+Monroe, OH	13279
+Monroe, WA	17899
+Monroe, WI	10781
+Monroeville, AL	6189
+Monroeville, PA	28285
+Monrovia, CA	37415
+Monsey, NY	18412
+Monson, MA	8560
+Montague, MA	8437
+Montalba-Tennessee Colony, TX	18295
+Montclair, CA	38465
+Montclair, NJ	37837
+Montclair, VA	19570
+Montebello, CA	63929
+Montecito, CA	8965
+Monterey Park, CA	61458
+Monterey, CA	28276
+Montevallo, AL	6601
+Montgomery Village, MD	32032
+Montgomery, AL	200481
+Montgomery, IL	19301
+Montgomery, OH	10440
+Montgomeryville, PA	12624
+Monticello, AR	9696
+Monticello, KY	6095
+Monticello, MN	13136
+Monticello, NY	6651
+Montpelier, VT	7671
+Montrose, CO	19045
+Montrose, VA	7993
+Montvale, NJ	8148
+Montville, CT	19571
+Monument, CO	6391
+Moody, AL	12457
+Moore, OK	59196
+Moorestown-Lenola, NJ	14217
+Mooresville, IN	9576
+Mooresville, NC	35300
+Moorhead, MN	39857
+Moorpark, CA	35550
+Moraga, CA	17270
+Moraine, OH	6365
+Moreau, NY	14728
+Morehead City, NC	9258
+Morehead, KY	6978
+Moreland, ID	9573
+Moreno Valley, CA	202976
+Morgan City, LA	11943
+Morgan Hill, CA	42068
+Morganton, NC	16690
+Morgantown, WV	31073
+Morrilton, AR	6748
+Morris Chapel, AL	11091
+Morris, IL	14135
+Morristown, NJ	19085
+Morristown, TN	29304
+Morrisville, NC	22772
+Morrisville, PA	8631
+Morro Bay, CA	10544
+Morrow, GA	7167
+Morton Grove, IL	23497
+Morton, IL	16499
+Moscow, ID	24767
+Moses Lake, WA	21713
+Moss Bluff, LA	11557
+Moss Point, MS	13671
+Mossy Creek, GA	7112
+Moultrie, GA	14507
+Mound, MN	9302
+Mounds View, MN	12657
+Moundsville, WV	8891
+Mount Airy, MD	9388
+Mount Airy, NC	10383
+Mount Baldy-Wrightwood, CA	6995
+Mount Carmel, IL	7034
+Mount Clemens, MI	16408
+Mount Dora, FL	13182
+Mount Healthy, OH	6061
+Mount Holly, NC	14016
+Mount Hood, OR	11559
+Mount Hope, NY	7018
+Mount Horeb, WI	7388
+Mount Ivy, NY	6878
+Mount Joy, PA	8008
+Mount Juliet, TN	29387
+Mount Kisco, NY	11103
+Mount Lebanon, PA	31469
+Mount Olympus, UT	7902
+Mount Pleasant, IA	8647
+Mount Pleasant, MI	25971
+Mount Pleasant, NY	43724
+Mount Pleasant, SC	77796
+Mount Pleasant, TX	16021
+Mount Pleasant, WI	26293
+Mount Prospect, IL	54951
+Mount Rainier, MD	8430
+Mount Sinai, NY	12118
+Mount Sterling, KY	7178
+Mount Vernon, IL	15177
+Mount Vernon, IN	6573
+Mount Vernon, NY	68458
+Mount Vernon, OH	16788
+Mount Vernon, VA	12416
+Mount Vernon, WA	33132
+Mount Vista, WA	7850
+Mount Washington, KY	12246
+Mountain Brook, AL	20734
+Mountain Empire, CA	6830
+Mountain Home, AR	12278
+Mountain Home, ID	13780
+Mountain House, CA	9675
+Mountain Top, PA	10982
+Mountain View, CA	79378
+Mountainside, NJ	6837
+Mountlake Terrace, WA	20817
+Mukilteo, WA	20993
+Mukwonago, WI	7595
+Mulvane, KS	6289
+Muncie, IN	70211
+Mundelein, IL	31562
+Munford, TN	6055
+Munhall, PA	11305
+Municipality of Monroeville, PA	27973
+Municipality of Murrysville, PA	18536
+Munster, IN	23103
+Murfreesboro, TN	120954
+Murillo, TX	7344
+Murphy, MO	8690
+Murphy, TX	20230
+Murphysboro, IL	7811
+Murray, KY	18630
+Murray, UT	48822
+Murraysville, NC	14215
+Murrayville, GA	16222
+Murrells Inlet, SC	7547
+Murrieta, CA	108368
+Murrysville, PA	20162
+Muscatine, IA	23888
+Muscle Shoals, AL	13614
+Muscoy, CA	10644
+Muskego, WI	24621
+Muskegon Heights, MI	10799
+Muskegon, MI	38393
+Muskogee, OK	38616
+Mustang, OK	19638
+Myakka, FL	22834
+Myers Corner, NY	6790
+Myrtle Beach, SC	29992
+Myrtle Grove, FL	15870
+Myrtle Grove, NC	8875
+Mystic Island, NJ	8493
+Nacogdoches, TX	33687
+Nampa, ID	88211
+Nanakuli, HI	12666
+Nanticoke, PA	10301
+Nantucket, MA	7446
+Nanuet, NY	17882
+Napa, CA	80011
+Naperville, IL	146128
+Napili-Honokowai, HI	7261
+Naples, FL	20968
+Napoleon, OH	8646
+Nappanee, IN	6715
+Naranja, FL	8303
+Narragansett, RI	15868
+Nashua, NH	87259
+Nashville-Davidson, TN	644014
+Natchez, MS	15269
+Natchitoches, LA	18384
+Natick, MA	33006
+National City, CA	60343
+Naugatuck, CT	31659
+Navarre, FL	31378
+Navasota, TX	7351
+Neabsco, VA	12068
+Nebraska City, NE	7265
+Nederland, TX	17108
+Needham, MA	28886
+Neenah, WI	25855
+Nelson-Tate-Marble Hill, GA	11268
+Neosho, MO	12134
+Neptune Beach, FL	7180
+Nesconset, NY	13387
+Nether Providence Township, PA	13527
+Nevada, IA	6779
+Nevada, MO	8295
+Nevils-Stilson, GA	7249
+New Albany, IN	36589
+New Albany, MS	8708
+New Albany, OH	9202
+New Baltimore, MI	12269
+New Baltimore, VA	8119
+New Bedford, MA	94845
+New Berlin, WI	39842
+New Bern, NC	30291
+New Braunfels, TX	66394
+New Brighton, MN	22266
+New Britain, CT	72878
+New Brunswick, NJ	57080
+New Canaan, CT	19738
+New Carrollton, MD	12708
+New Cassel, NY	14059
+New Castle, IN	17653
+New Castle, NY	17569
+New Castle, PA	22575
+New City, NY	33559
+New Cumberland, PA	7271
+New Fairfield, CT	13881
+New Franklin, OH	14292
+New Hartford, CT	6970
+New Haven, CT	130282
+New Haven, IN	15608
+New Hope, MN	20792
+New Hyde Park, NY	9799
+New Iberia, LA	30745
+New Kensington, PA	12796
+New Kingman-Butler, AZ	12134
+New Lenox, IL	25426
+New London, CT	27374
+New London, WI	7216
+New Milford, CT	6523
+New Milford, NJ	16678
+New Orleans, LA	384320
+New Paltz, NY	6966
+New Philadelphia, OH	17438
+New Port Richey East, FL	10036
+New Port Richey, FL	15527
+New Prague, MN	7546
+New Providence, NJ	12422
+New Richmond, WI	8679
+New River, AZ	14952
+New Rochelle, NY	79637
+New Scotland, NY	8648
+New Smyrna Beach, FL	23658
+New Square, NY	7691
+New Territory, TX	15186
+New Ulm, MN	13258
+New Windsor, NY	8922
+New York, NY	8491079
+Newark, CA	44723
+Newark, DE	33008
+Newark, NJ	280579
+Newark, NY	8902
+Newark, OH	47839
+Newberg, OR	22692
+Newberry, SC	10268
+Newberry-Baker, CA	15792
+Newburg, KY	21162
+Newburgh, NY	28358
+Newbury, MA	6666
+Newburyport, MA	17926
+Newcastle, OK	9155
+Newcastle, WA	11201
+Newhall, CA	192980
+Newington Forest, VA	12442
+Newington, CT	30562
+Newington, VA	12943
+Newman, CA	10748
+Newnan, GA	36203
+Newport Beach, CA	87266
+Newport East, RI	11769
+Newport News, VA	182965
+Newport, AR	7783
+Newport, KY	15426
+Newport, OR	10116
+Newport, RI	24089
+Newport, TN	6880
+Newstead, NY	8594
+Newton, IA	15150
+Newton, KS	19120
+Newton, MA	88287
+Newton, NC	13005
+Newton, NJ	7878
+Niagara Falls, NY	49219
+Niagara, NY	8378
+Nibley, UT	6172
+Niceville, FL	14387
+Nicholasville, KY	29097
+Niles, IL	30000
+Niles, MI	11400
+Niles, OH	18778
+Nipomo, CA	16714
+Nitro, WV	6837
+Nixa, MO	20570
+Noble, OK	6583
+Noblesville, IN	57584
+Nogales, AZ	20407
+Nolensville, TN	6423
+Norco, CA	26959
+Norcross, GA	16349
+Norfolk, MA	11227
+Norfolk, NE	24444
+Norfolk, VA	245428
+Norland, FL	24978
+Normal, IL	54594
+Norman, OK	118040
+Normandy Park, WA	6615
+Norridge, IL	14674
+Norristown, PA	34484
+North Adams, MA	13354
+North Albany, OR	7286
+North Amherst, MA	6819
+North Amityville, NY	17862
+North Andover, MA	28352
+North Andrews Gardens, FL	10337
+North Antelope Valley, CA	153969
+North Arlington, NJ	15723
+North Atlanta, GA	40456
+North Attleborough Center, MA	17061
+North Attleborough, MA	28712
+North Auburn, CA	13022
+North Augusta, SC	22300
+North Aurora, CO	48131
+North Aurora, IL	17342
+North Babylon, NY	17509
+North Bay Shore, NY	18944
+North Bay Village, FL	7871
+North Beach, WA	6371
+North Bellmore, NY	19941
+North Bellport, NY	11545
+North Bend, OR	9543
+North Bend, WA	6578
+North Bethesda, MD	43828
+North Branch, MN	10160
+North Branford, CT	14407
+North Brunswick Township, NJ	37594
+North Caldwell, NJ	6783
+North Canton, OH	17490
+North Castle, NY	11841
+North Charleston, SC	106749
+North Chicago, IL	30395
+North Cleveland, OK	102211
+North Coast, CA	376527
+North Coastal, CA	20764
+North College Hill, OH	9362
+North Creek, WA	28560
+North Davis, UT	179550
+North Decatur, GA	16698
+North Druid Hills, GA	18947
+North El Dorado, CA	31656
+North Elba, NY	8957
+North Fair Oaks, CA	14687
+North Fort Myers, FL	39407
+North Gates, NY	9512
+North Greenbush, NY	12075
+North Haledon, NJ	8512
+North Haven, CT	24093
+North Hempstead, NY	226322
+North Highlands, CA	42694
+North Kensington, MD	9514
+North Kingstown, RI	26486
+North Kohala, HI	7013
+North Kona, HI	33155
+North Las Vegas, NV	230788
+North Lauderdale, FL	43214
+North Liberty, IA	15386
+North Lindenhurst, NY	11652
+North Little Rock, AR	66810
+North Logan, UT	9874
+North Lynnwood, WA	16574
+North Madison, OH	8547
+North Mankato, MN	13432
+North Marshall, OK	8211
+North Massapequa, NY	17886
+North Merrick, NY	12272
+North Miami Beach, FL	43664
+North Miami, FL	61420
+North Myrtle Beach, SC	15174
+North New Hyde Park, NY	14899
+North Ogden, UT	18172
+North Ogeechee, GA	6547
+North Okeechobee, FL	8151
+North Olmsted, OH	32130
+North Palm Beach, FL	12483
+North Patchogue, NY	7246
+North Peninsula, FL	31503
+North Pinal, AZ	100105
+North Plainfield, NJ	22029
+North Platte, NE	24327
+North Port, FL	60380
+North Potomac, MD	24410
+North Providence, RI	32691
+North Randall, TX	15016
+North Reading, MA	14892
+North Richland Hills, TX	68529
+North Ridgeville, OH	31871
+North Riverside, IL	6698
+North Rockdale, GA	9090
+North Royalton, OH	30327
+North Salt Lake, UT	19193
+North Sarasota, FL	6982
+North Siuslaw, OR	11623
+North Smithfield, RI	11967
+North Springfield, VA	7274
+North St. Paul, MN	12224
+North Star, DE	7980
+North Syracuse, NY	6882
+North Tonawanda, NY	30929
+North Tulsa, OK	10669
+North Tustin, CA	24917
+North Valley Stream, NY	16628
+North Valley, NM	11333
+North Valleys, NV	40467
+North Vernon, IN	6636
+North Versailles, PA	10603
+North Wantagh, NY	11960
+North Weeki Wachee, FL	8524
+North Westside, FL	110020
+North Whidbey, WA	39094
+North Whitfield, GA	10574
+Northampton, MA	28554
+Northampton, PA	9915
+Northborough, MA	6167
+Northbridge, MA	15707
+Northbrook, IL	33655
+Northbrook, OH	10668
+Northdale, FL	22079
+Northeast Brazos, TX	12491
+Northeast Cobb, GA	169756
+Northeast Harris, TX	50134
+Northeast Jefferson, CO	451811
+Northeast Leon, FL	49416
+Northeast Marin, CA	54172
+Northeast Rockwall, TX	10765
+Northeast Tarrant, TX	472730
+Northeast Umatilla, OR	10786
+Northeast Wharton, TX	6046
+Northeast Wilson, TN	12940
+Northeast Yakima, WA	6825
+Northfield, MN	20356
+Northfield, NJ	8604
+Northgate, OH	7377
+Northglenn, CO	38596
+Northlake, IL	12372
+Northport, AL	24709
+Northport, NY	7411
+Northridge, OH	7572
+Northview, MI	14541
+Northville, MI	6014
+Northwest Bell, TX	10042
+Northwest Benton, WA	13232
+Northwest Clackamas, OR	248034
+Northwest Dade, FL	113920
+Northwest Grayson, TX	22934
+Northwest Harborcreek, PA	8949
+Northwest Harris, TX	464301
+Northwest Jackson, OR	7722
+Northwest Josephine, OR	6605
+Northwest Leon, FL	23081
+Northwest Marin, CA	9291
+Northwest Rockwall, TX	36894
+Northwest Umatilla, OR	31857
+Northwest Yakima, WA	8412
+Norton Shores, MI	24081
+Norton, MA	19031
+Norton, OH	12042
+Norwalk, CA	107096
+Norwalk, CT	88145
+Norwalk, IA	9859
+Norwalk, OH	16898
+Norway, WI	7948
+Norwell, MA	10506
+Norwich, CT	40178
+Norwich, NY	7009
+Norwood, MA	28602
+Norwood, OH	19405
+Novato, CA	55005
+Novi, MI	58416
+Nuevo, CA	6447
+Nurillo, TX	6188
+Nutley, NJ	26562
+Nyack, NY	7002
+O'Fallon, IL	29069
+O'Fallon, MO	84009
+O'Hara Township, PA	8440
+Oak Bay, WA	9384
+Oak Brook, IL	8065
+Oak Creek, WI	35053
+Oak Forest, IL	28174
+Oak Grove, KY	7515
+Oak Grove, MN	8324
+Oak Grove, MO	7873
+Oak Grove, OR	16629
+Oak Grove, SC	10291
+Oak Harbor, WA	22306
+Oak Hill, WV	8175
+Oak Hills Place, LA	8195
+Oak Hills, CA	8879
+Oak Hills, OR	11333
+Oak Island, NC	7345
+Oak Lawn, IL	57034
+Oak Park, CA	13811
+Oak Park, IL	52008
+Oak Park, MI	29834
+Oak Ridge, FL	22685
+Oak Ridge, NC	6604
+Oak Ridge, TN	29303
+Oakbrook, KY	9036
+Oakdale, CA	21854
+Oakdale, LA	7723
+Oakdale, MN	28033
+Oakdale, NY	7974
+Oakhurst-North Fork, CA	30244
+Oakland Park, FL	43800
+Oakland, CA	413775
+Oakland, NJ	13046
+Oakland, TN	7316
+Oakleaf Plantation, FL	20315
+Oakley, CA	39224
+Oakmont, PA	6426
+Oakton, VA	34166
+Oakville, CT	9047
+Oakville, MO	36143
+Oakway, SC	9155
+Oakwood, OH	9083
+Oasis, CA	6890
+Oatfield, OR	13415
+Oberlin, OH	8251
+Ocala, FL	57586
+Ocean Acres, NJ	16142
+Ocean City, MD	7089
+Ocean City, NJ	11374
+Ocean Pines, MD	11710
+Ocean Pointe, HI	8361
+Ocean Springs, MS	17530
+Oceano, CA	7286
+Oceanside, CA	174558
+Oceanside, NY	32109
+Ochoco, OR	16508
+Ocoee, FL	41073
+Oconomowoc, WI	16319
+Odenton, MD	37132
+Odessa, FL	7267
+Odessa, TX	114597
+Oelwein, IA	6181
+Ogden Valley, UT	6580
+Ogden, NC	6766
+Ogden, NY	19856
+Ogden, UT	84316
+Ogdensburg, NY	10895
+Oil City, PA	10227
+Oildale, CA	32684
+Ojai, CA	7627
+Ojus, FL	18036
+Okemos, MI	21369
+Oklahoma City, OK	620602
+Okmulgee, OK	12227
+Okolona, KY	18261
+Olathe, KS	133062
+Old Bridge, NJ	23753
+Old Forge, PA	8216
+Old Greenwich, CT	6611
+Old Jamestown, MO	19184
+Old Jefferson, LA	6980
+Old Lyme, CT	7603
+Old Orchard Beach, ME	8624
+Old Saybrook, CT	10242
+Old Town, ME	7693
+Oldsmar, FL	13913
+Olean, NY	14043
+Olive Branch, MS	35457
+Olivehurst, CA	13656
+Olivette, MO	7845
+Olmsted Falls, OH	8883
+Olney, IL	9026
+Olney, MD	33844
+Olympia Heights, FL	13488
+Olympia, WA	49218
+Olympic, WA	6212
+Omaha, NE	446599
+Onalaska, WI	18385
+Oneida, NY	11192
+Oneonta, AL	6627
+Oneonta, NY	13838
+Onondaga, NY	23101
+Ontario, CA	169089
+Ontario, NY	10136
+Ontario, OH	6127
+Ontario, OR	10982
+Oolagah-Talala, OK	6079
+Opa-locka North, FL	6760
+Opa-locka, FL	16460
+Opelika, AL	29171
+Opelousas, LA	16617
+Opp, AL	6677
+Opportunity, WA	27300
+Oquirrh, UT	11558
+Oradell, NJ	8161
+Orange City, FL	11056
+Orange City, IA	6151
+Orange Cove, CA	9584
+Orange Lake, NY	6982
+Orange Park, FL	8606
+Orange, CA	139812
+Orange, CT	13956
+Orange, NJ	31907
+Orange, TX	18913
+Orangeburg, SC	13553
+Orangetown, NY	49212
+Orangevale, CA	33960
+Orchard Mesa, CO	6836
+Orchard, ID	18120
+Orchards, WA	19556
+Orcutt, CA	28905
+Oregon City, OR	35266
+Oregon, OH	20196
+Oregon, WI	9871
+Orem, UT	91781
+Orinda, CA	19003
+Orland Hills, IL	7277
+Orland Park, IL	58666
+Orland, CA	7512
+Orlando, FL	262372
+Orlovista, FL	6123
+Ormond Beach, FL	39075
+Ormond-By-The-Sea, FL	7406
+Oro Valley, AZ	42018
+Orono, ME	9474
+Orono, MN	7898
+Orosi, CA	8262
+Oroville East, CA	8280
+Oroville, CA	16220
+Orrville, OH	8456
+Orting, WA	7266
+Osceola, AR	7320
+Oshkosh, WI	66621
+Oskaloosa, IA	11541
+Osprey, FL	6100
+Ossining, NY	25359
+Oswego, IL	33099
+Oswego, NY	17988
+Othello, WA	7703
+Otis Orchards-East Farms, WA	6220
+Otsego, MN	15047
+Ottawa, IL	18428
+Ottawa, KS	12403
+Ottumwa, IA	24682
+Overland Park, KS	184525
+Overland, MO	15985
+Overlea, MD	12275
+Oviedo, FL	38020
+Owasso, OK	33773
+Owatonna, MN	25625
+Owensboro, KY	58374
+Owings Mills, MD	30622
+Owosso, MI	14779
+Oxford, AL	21155
+Oxford, CT	12683
+Oxford, MA	6103
+Oxford, MS	21757
+Oxford, NC	8713
+Oxford, OH	21782
+Oxnard, CA	205437
+Oxon Hill, MD	17722
+Oxon Hill-Glassmanor, MD	36653
+Oyster Bay, NY	6707
+Ozark, AL	14700
+Ozark, MO	18871
+Pace, FL	20039
+Pacific Grove, CA	15601
+Pacific, MO	7113
+Pacific, WA	7079
+Pacifica, CA	39088
+Paducah, KY	24978
+Page, AZ	7440
+Pahoa-Kalapana, HI	9986
+Pahokee, FL	6029
+Pahrump, NV	36441
+Paine Field-Lake Stickney, WA	27052
+Painesville, OH	19840
+Palatine, IL	69387
+Palatka, FL	10387
+Palestine, TX	18393
+Palisades Park, NJ	20471
+Palm Bay, FL	105838
+Palm Beach Gardens, FL	51919
+Palm Beach, FL	8503
+Palm City, FL	23120
+Palm Coast, FL	80600
+Palm Desert, CA	51202
+Palm Harbor, FL	57439
+Palm River-Clair Mel, FL	21024
+Palm River-East Tampa, FL	28996
+Palm Springs, CA	46854
+Palm Springs, FL	21728
+Palm Valley, FL	20019
+Palmdale, CA	158279
+Palmer Town, MA	12174
+Palmer, AK	6515
+Palmetto Bay, FL	24513
+Palmetto Estates, FL	13535
+Palmetto, FL	13082
+Palmyra, NJ	7333
+Palmyra, PA	7436
+Palo Alto, CA	66955
+Palomar-Julian, CA	6523
+Palos Heights, IL	12597
+Palos Hills, IL	17627
+Palos Verdes Estates, CA	13680
+Palos Verdes, CA	91593
+Pampa, TX	18399
+Panama City Beach, FL	12408
+Panama City Beaches, FL	29429
+Panama City, FL	37681
+Panthersville, GA	9749
+Papago, AZ	8799
+Papillion, NE	23270
+Paradise Valley, AZ	13663
+Paradise, CA	26449
+Paradise, NV	223167
+Paragould, AR	27465
+Paramount, CA	55406
+Paramus, NJ	26832
+Paris, IL	8498
+Paris, KY	9747
+Paris, TN	10156
+Paris, TX	24895
+Park City, IL	7440
+Park City, KS	7556
+Park City, UT	8058
+Park Forest Village, PA	9660
+Park Forest, IL	22034
+Park Hills, MO	8618
+Park Ridge, IL	37856
+Park Ridge, NJ	8841
+Parker, CO	49857
+Parker, SC	11431
+Parkersburg, WV	30981
+Parkland, FL	28131
+Parkland, WA	35803
+Parkville, MD	30734
+Parkville, MO	6098
+Parkville, PA	6706
+Parkway, CA	14670
+Parkway-South Sacramento, CA	40720
+Parkwood, WA	7126
+Parlier, CA	14990
+Parma Heights, OH	20330
+Parma, NY	15633
+Parma, OH	80015
+Parole, MD	15922
+Parrish, FL	9754
+Parsons, KS	10174
+Pasadena Hills, FL	7570
+Pasadena, CA	140881
+Pasadena, MD	24287
+Pasadena, TX	153887
+Pascagoula, MS	22224
+Pasco, WA	68648
+Paso Robles, CA	42751
+Passaic, NJ	71509
+Pataskala, OH	15192
+Patchogue, NY	12364
+Paterson, NJ	146753
+Patterson, CA	21212
+Patterson, LA	6107
+Patterson, NY	12023
+Pauline, SC	10205
+Pauls Valley, OK	6070
+Pauma Valley, CA	7475
+Pawtucket, RI	71499
+Paxton-Darlington, FL	9989
+Payette, ID	7422
+Payson, AZ	15245
+Payson, UT	19331
+Pea Ridge, WV	6650
+Peabody, MA	52376
+Peachtree City, GA	35063
+Pearl City, HI	47698
+Pearl River, NY	15876
+Pearl, MS	26388
+Pearland, TX	103441
+Pearsall, TX	9852
+Pebble Creek, FL	7622
+Pecan Grove, TX	15963
+Pecos, TX	9213
+Pedley, CA	12672
+Peekskill, NY	24058
+Pekin, IL	33824
+Pelham, AL	22699
+Pelham, NH	12897
+Pelham, NY	7025
+Pelican Bay, FL	6346
+Pell City, AL	13573
+Pella, IA	10337
+Pembroke Park, FL	6287
+Pembroke Pines, FL	164626
+Pembroke, MA	17837
+Pembroke, NH	7115
+Pendleton, CA	38073
+Pendleton, NY	6397
+Pendleton, OR	16904
+Penfield, NY	36242
+Peninsula, WA	9048
+Penn Hills, PA	44614
+Pennsauken, NJ	36434
+Pennsville, NJ	11888
+Pensacola, FL	53068
+Peoria Heights, IL	6020
+Peoria, AZ	166934
+Peoria, IL	115828
+Pepper Pike, OH	6205
+Perinton, NY	46462
+Perkasie, PA	8484
+Perris Valley, CA	190588
+Perris, CA	73756
+Perry Hall, MD	28474
+Perry Heights, OH	8441
+Perry, FL	7031
+Perry, GA	15144
+Perry, IA	8151
+Perrysburg, OH	21368
+Perryton, TX	9260
+Perryville, MO	8394
+Perth Amboy, NJ	52328
+Peru, IL	10016
+Peru, IN	11079
+Petal, MS	10727
+Petaluma, CA	59953
+Petersburg, VA	32701
+Pewaukee, WI	13942
+Pflugerville, TX	54644
+Pharr, TX	75382
+Phelan, CA	14304
+Phenix City, AL	37540
+Philadelphia, MS	7402
+Philadelphia, PA	1560297
+Philema, GA	8620
+Philipstown, NY	9662
+Phillipsburg, NJ	14570
+Phoenix, AZ	1537058
+Phoenix, GA	6227
+Phoenixville, PA	16599
+Picayune, MS	10749
+Pickerington, OH	19408
+Picnic Point, WA	8809
+Picnic Point-North Lynnwood, WA	25465
+Pico Rivera, CA	64235
+Picture Rocks, AZ	9563
+Piedmont, CA	11236
+Piedmont, DE	30902
+Piedmont, OK	6734
+Pierre, SD	14054
+Pierson-Seville, FL	9624
+Pigeon Forge, TN	6132
+Pike Creek Valley, DE	11217
+Pike Creek, DE	7898
+Pike Creek-Central Kirkwood, DE	44493
+Pike Road, AL	7933
+Pikesville, MD	30764
+Pikeville, KY	7327
+Pimmit Hills, VA	6094
+Pine Bluff, AR	45332
+Pine Castle, FL	10805
+Pine Grove, KY	6249
+Pine Grove-Silver Lake, CA	10703
+Pine Hill, NJ	10464
+Pine Hills, FL	60076
+Pine Lake Park, NJ	8707
+Pine Ridge, FL	9598
+Pinecrest, FL	19251
+Pinehurst, MA	7152
+Pinehurst, NC	15434
+Pinellas Park, FL	50946
+Piner-Visalia, KY	7429
+Pineville, LA	14425
+Pineville, NC	8236
+Pinewood, FL	16520
+Piney Green, NC	13293
+Pinole, CA	19100
+Pinon Hills, CA	7272
+Pinson, AL	7143
+Piqua, OH	20759
+Pismo Beach, CA	7931
+Pitman, NJ	8895
+Pittsburg, CA	68140
+Pittsburg, KS	20394
+Pittsburgh, PA	305412
+Pittsfield, MA	43697
+Pittston, PA	7685
+Placentia, CA	52397
+Placerville, CA	10556
+Plain City, UT	6214
+Plainedge, NY	8817
+Plainfield, CT	15405
+Plainfield, IL	42138
+Plainfield, IN	30409
+Plainfield, NJ	50955
+Plainview, NY	26217
+Plainview, TX	21166
+Plainville, CT	17716
+Plainville, MA	8264
+Plaistow, NH	7609
+Plano, IL	11175
+Plano, TX	278480
+Plant City, FL	36627
+Plantation, FL	91457
+Plaquemine, LA	6963
+Platteville, WI	12281
+Plattsburgh, NY	19740
+Plattsmouth, NE	6487
+Pleasant Grove, AL	10325
+Pleasant Grove, UT	37064
+Pleasant Hill, CA	34497
+Pleasant Hill, IA	9159
+Pleasant Hill, MO	8250
+Pleasant Hills, PA	8284
+Pleasant Prairie, WI	20400
+Pleasant View, UT	8948
+Pleasanton, CA	77682
+Pleasanton, TX	9638
+Pleasantville, NJ	20467
+Pleasantville, NY	7154
+Pleasure Ridge Park, KY	26433
+Plover, WI	12326
+Plum, PA	27532
+Plymouth Meeting, PA	6177
+Plymouth Township, MI	26751
+Plymouth, CT	12243
+Plymouth, IN	10095
+Plymouth, MA	7494
+Plymouth, MI	8933
+Plymouth, MN	75057
+Plymouth, WI	8433
+Pocahontas, AR	6474
+Pocatello, ID	54292
+Poinciana, FL	53193
+Point Pleasant, NJ	18665
+Pollock Pines, CA	6871
+Pollok, TX	9456
+Pomfret, NY	14965
+Pomona, CA	153350
+Pomona, NJ	7124
+Pompano Beach Highlands, FL	6964
+Pompano Beach, FL	106105
+Pompey, NY	7080
+Pompton Lakes, NJ	11166
+Ponca City, OK	24766
+Ponchatoula, LA	6907
+Ponte Vedra, FL	37924
+Pontiac, IL	11599
+Pontiac, MI	59808
+Pontiac, SC	49247
+Pooler, GA	22251
+Pooler-Burroughs, GA	30395
+Pope, TN	7332
+Poplar Bluff, MO	17242
+Poquoson, VA	12048
+Port Angeles, WA	19256
+Port Arthur, TX	54548
+Port Charlotte, FL	54392
+Port Chester, NY	29522
+Port Clinton, OH	6009
+Port Hueneme, CA	22139
+Port Huron, MI	29168
+Port Jefferson Station, NY	7838
+Port Jefferson, NY	7835
+Port Jervis, NY	8638
+Port Lavaca, TX	12399
+Port Neches, TX	12755
+Port Orange, FL	58742
+Port Orchard, WA	13266
+Port Royal, SC	11870
+Port Salerno, FL	10091
+Port St. John, FL	12267
+Port St. Lucie, FL	174110
+Port St. Lucie-River Park, FL	6968
+Port Townsend, WA	9255
+Port Washington, NY	15846
+Port Washington, WI	11586
+Port Wentworth, GA	7080
+Portage Lakes, OH	6968
+Portage, IN	36760
+Portage, MI	47837
+Portage, WI	10178
+Portales, NM	12233
+Porter, NY	6771
+Porters Neck, NC	6204
+Porterville, CA	55466
+Portland, IN	6204
+Portland, ME	66666
+Portland, OR	619360
+Portland, TN	12218
+Portland, TX	15915
+Portola Hills, CA	6618
+Portsmouth, NH	21598
+Portsmouth, OH	20326
+Portsmouth, RI	17389
+Portsmouth, VA	96004
+Posen, IL	6021
+Post Falls, ID	29896
+Poteau, OK	8665
+Potomac, MD	44965
+Potsdam, NY	9617
+Pottstown, PA	22684
+Pottsville, PA	13940
+Poughkeepsie, NY	30513
+Poulsbo, WA	9702
+Poway, CA	49848
+Powder Springs, GA	14590
+Powderville, SC	7618
+Powell Valley, TN	6811
+Powell, OH	12511
+Powell, TN	15078
+Powell, WY	6407
+Prairie Ridge, WA	11464
+Prairie View, TX	6197
+Prairie Village, KS	21877
+Prairieville, LA	26895
+Pratt, KS	6963
+Prattville, AL	35317
+Prescott Valley, AZ	41075
+Prescott, AZ	40958
+Presque Isle, ME	9317
+Price, UT	8358
+Prichard, AL	22312
+Prien, LA	7810
+Princeton Meadows, NJ	13834
+Princeton, FL	22038
+Princeton, IL	7415
+Princeton, IN	8608
+Princeton, KY	6199
+Princeton, NJ	30108
+Princeton, TX	8140
+Princeton, WV	6359
+Prineville, OR	9258
+Prior Lake, MN	25039
+Progress, PA	9765
+Prospect Heights, IL	16418
+Prospect Park, PA	6484
+Prospect, CT	9405
+Prosper, TX	14416
+Providence, RI	179154
+Providence, UT	7066
+Provo, UT	114801
+Prunedale, CA	17560
+Pryor Creek, OK	9445
+Pueblo West, CO	29637
+Pueblo, CO	108423
+Pukalani, HI	7574
+Pulaski, TN	7625
+Pulaski, VA	8909
+Pullman, WA	31682
+Punta Gorda, FL	17596
+Purcell, OK	6340
+Purcellville, VA	8929
+Purdue University, IN	12183
+Putnam District, CT	7207
+Putnam Valley, NY	11809
+Putnam, CT	9584
+Puyallup, WA	39105
+Quakertown, PA	8881
+Quantico Station, VA	8334
+Quartz Hill, CA	10912
+Queen Creek, AZ	32236
+Queens, NY	2277251
+Queensbury, NY	27901
+Queenstown, MD	8876
+Quincy, FL	7914
+Quincy, IL	40805
+Quincy, MA	93397
+Quincy, WA	7355
+Raceland, LA	10193
+Racine, WI	78065
+Radcliff, KY	22952
+Radford, VA	17646
+Radnor Township, PA	31041
+Rahway, NJ	28528
+Rainbow City, AL	9606
+Raleigh, NC	439896
+Ralston, NE	7216
+Ramapo, NY	126595
+Ramona, CA	20292
+Ramsey, MN	25598
+Ramsey, NJ	14800
+Ramtown, NJ	6242
+Rancho Cordova, CA	69740
+Rancho Cucamonga, CA	174305
+Rancho Mirage, CA	17982
+Rancho Palos Verdes, CA	42726
+Rancho San Diego, CA	21208
+Rancho Santa Margarita, CA	49359
+Randallstown, MD	32430
+Randolph, MA	32112
+Rantoul, IL	13100
+Rapid City, SD	72638
+Rapid Valley, SD	8260
+Raritan, NJ	8098
+Rathdrum, ID	7283
+Raton, NM	6326
+Ravenna, OH	11643
+Rawlins, WY	9227
+Raymondville, TX	11117
+Raymore, MO	19963
+Rayne, LA	8039
+Raynham, MA	13383
+Raytown, MO	29481
+Reading, MA	24747
+Reading, OH	10354
+Reading, PA	87812
+Red Bank, NJ	12445
+Red Bank, SC	9617
+Red Bank, TN	11784
+Red Bluff, CA	14057
+Red Bud, GA	6266
+Red Chute, LA	6261
+Red Hill, SC	13223
+Red Lion, PA	6319
+Red Oak, TX	11560
+Red Rock, NM	24465
+Red Wing, MN	16470
+Redan, GA	33015
+Redding, CA	91593
+Redding, CT	9158
+Redford, MI	49678
+Redland, MD	17242
+Redland, OR	6564
+Redlands, CA	70622
+Redlands, CO	8685
+Redmond, OR	27941
+Redmond, WA	59285
+Redondo Beach, CA	68149
+Redwood City, CA	82881
+Redwood-Potter, CA	11545
+Reedley, CA	25426
+Reedsburg, WI	9533
+Rehoboth, MA	11608
+Reidsville, NC	14073
+Reisterstown, MD	25968
+Rendon, TX	12552
+Reno, NV	236995
+Rensselaer, NY	9471
+Renton, WA	98404
+Republic, MO	15680
+Reservation, AZ	6405
+Reservation, NM	10733
+Reserve, LA	9766
+Reston, VA	58404
+Revere, MA	54157
+Rexburg, ID	27094
+Reynoldsburg, OH	36711
+Rhinelander, WI	7497
+Rialto, CA	102741
+Rice Lake, WI	8286
+Richardson, TX	108617
+Richboro, PA	6563
+Richfield, MN	36179
+Richfield, UT	7518
+Richfield, WI	11460
+Richland Hills, TX	8041
+Richland, MS	7071
+Richland, WA	53019
+Richmond Heights, FL	8541
+Richmond Heights, MO	8495
+Richmond Heights, OH	10495
+Richmond Hill, GA	11229
+Richmond West, FL	31973
+Richmond, CA	108565
+Richmond, IN	36159
+Richmond, KY	33556
+Richmond, RI	7708
+Richmond, TX	12018
+Richmond, VA	217853
+Richton Park, IL	13751
+Ridge, NY	13336
+Ridgecrest, CA	28726
+Ridgefield Park, NJ	12996
+Ridgefield, CT	7645
+Ridgefield, NJ	11289
+Ridgefield, WA	6123
+Ridgeland, MS	24221
+Ridgeway, NY	6780
+Ridgewood, NJ	25496
+Ridley Park, PA	7034
+Rifle, CO	9488
+Rincon, GA	9638
+Rindge, NH	6014
+Ringwood, NJ	12377
+Rio Grande City, TX	14227
+Rio Linda, CA	15106
+Rio Rancho, NM	93820
+Rio Rico, AZ	18962
+Rio Vista, CA	8070
+Rio del Mar, CA	9216
+Ripley, TN	8257
+Ripon, CA	14966
+Ripon, WI	7778
+Rittman, OH	6554
+River Edge, NJ	11579
+River Falls, WI	15175
+River Forest, IL	11208
+River Grove, IL	10271
+River Oaks, TX	7671
+River Ridge, LA	13494
+River Rouge, MI	7618
+River Vale, NJ	9452
+Riverbank, CA	23798
+Riverdale Park, MD	7266
+Riverdale, GA	15669
+Riverdale, IL	13604
+Riverdale, UT	8592
+Riverhead, NY	13299
+Riverside, CA	319504
+Riverside, CT	8416
+Riverside, IL	8881
+Riverside, MD	6425
+Riverside, OH	25040
+Riverton, UT	41457
+Riverton, WA	6407
+Riverton, WY	10953
+Riverton-Boulevard Park, WA	11948
+Riverview, FL	71050
+Riverview, MI	12222
+Riviera Beach, FL	33649
+Riviera Beach, MD	12677
+Roanoke Rapids, NC	15495
+Roanoke, TX	6974
+Roanoke, VA	99428
+Robbinsdale, MN	14320
+Robertsville, NJ	11297
+Robinson Township, PA	11712
+Robinson, IL	7622
+Robinson, TX	11416
+Robinwood, MD	6918
+Robstown, TX	11657
+Rochelle, IL	9390
+Rochester Hills, MI	73125
+Rochester, IN	6119
+Rochester, MI	12995
+Rochester, MN	111402
+Rochester, NH	29991
+Rochester, NY	209983
+Rock Falls, IL	9062
+Rock Hill, SC	69967
+Rock Island, IL	38642
+Rock Springs, WY	24045
+Rockaway, NJ	6483
+Rockcreek, OR	9316
+Rockford, IL	149123
+Rockford, MI	6058
+Rockingham, NC	9276
+Rockland, MA	17489
+Rockland, ME	7219
+Rockledge, FL	26071
+Rocklin, CA	60344
+Rockport, TX	10323
+Rockton, IL	7554
+Rockville Centre, NY	24191
+Rockville, CT	7474
+Rockville, MD	65937
+Rockwall, TX	41785
+Rockwood, VA	8431
+Rocky Hill, CT	19709
+Rocky Mount, NC	56325
+Rocky Point, NY	14014
+Rocky River, OH	20433
+Rodeo, CA	8679
+Roeland Park, KS	6840
+Rogers, AR	61464
+Rogers, MN	12393
+Rohnert Park, CA	42262
+Rolla, MO	19926
+Rolling Hills Estates, CA	8251
+Rolling Meadows, IL	24279
+Roma, TX	10088
+Roma-Los Saenz, TX	20644
+Rome, GA	35997
+Rome, NY	32645
+Romeoville, IL	39679
+Romulus, MI	23496
+Ronkonkoma, NY	19082
+Roosevelt, NY	16258
+Roosevelt, UT	6777
+Rosamond, CA	18150
+Rosaryville, MD	10697
+Roscoe, IL	10603
+Rose Hill, VA	20226
+Roseburg, OR	21903
+Rosedale, CA	14058
+Rosedale, MD	19257
+Roseland, CA	6325
+Roselle Park, NJ	13595
+Roselle, IL	23030
+Roselle, NJ	21551
+Rosemead, CA	54947
+Rosemont, CA	22681
+Rosemount, MN	22998
+Rosenberg, TX	34468
+Rosendale, NY	6075
+Roseville, CA	128615
+Roseville, MI	47598
+Roseville, MN	35319
+Roslyn Heights, NY	6577
+Ross Township, PA	31024
+Ross Valley, CA	59297
+Rossford, OH	6499
+Rossmoor, CA	10244
+Rossmoor, MD	8122
+Rossville, MD	15147
+Rossville-Beverly Hills, GA	10861
+Roswell, GA	94089
+Roswell, NM	48608
+Rotonda, FL	8759
+Rotterdam, NY	20652
+Round Lake Beach, IL	28012
+Round Lake Park, IL	7371
+Round Lake, IL	18536
+Round Rock, TX	112744
+Rowland Heights, CA	48993
+Rowlett, TX	58407
+Roxboro, NC	8304
+Roxborough Park, CO	9099
+Roy, UT	37877
+Royal Kunia, HI	14525
+Royal Oak, MI	59069
+Royal Palm Beach, FL	37015
+Royal Palm Beach-West Jupiter, FL	82604
+Royalton, NY	7660
+Royse City, TX	10757
+Rubidoux, CA	34280
+Ruidoso, NM	7824
+Rumson, NJ	6978
+Runnemede, NJ	8376
+Rushville, IN	6158
+Ruskin, FL	17208
+Russellville, AL	9806
+Russellville, AR	28993
+Russellville, KY	7038
+Russian River-Coastal, CA	24878
+Ruston, LA	22301
+Rutherford, NJ	18464
+Rutland, GA	10309
+Rutland, VT	15942
+Rye Brook, NY	9553
+Rye, NY	16000
+Sabine, TX	7923
+Sachse, TX	23681
+Saco, ME	19014
+Sacramento, CA	485199
+Saddle Brook, NJ	13159
+Saddlebrooke, AZ	9614
+Safety Harbor, FL	17234
+Safford, AZ	9744
+Saginaw Township North, MI	24050
+Saginaw Township South, MI	13280
+Saginaw, MI	49844
+Saginaw, TX	21703
+Sahuarita, AZ	27547
+Saks, AL	10744
+Sale Creek, TN	6648
+Salem, IL	7334
+Salem, IN	6236
+Salem, MA	42824
+Salem, NH	28776
+Salem, OH	12087
+Salem, OR	161637
+Salem, UT	7237
+Salem, VA	25483
+Salem, WI	12067
+Salida, CA	13722
+Salina, KS	47867
+Salina, NY	33710
+Salinas, CA	156677
+Saline, MI	9158
+Salisbury, MD	32563
+Salisbury, NC	33710
+Salisbury, NY	12093
+Sallisaw, OK	8650
+Salmon Creek, WA	19686
+Salt Lake City, UT	190884
+Salt River, AZ	9036
+Sammamish, WA	51229
+San Angelo, TX	98975
+San Anselmo, CA	12676
+San Antonio, TX	1436697
+San Benito, TX	24506
+San Bernardino, CA	215213
+San Bruno, CA	43009
+San Buenaventura (Ventura), CA	109484
+San Carlos Park, FL	16824
+San Carlos, CA	29803
+San Clemente, CA	65326
+San Diego Country Estates, CA	10109
+San Diego, CA	1381069
+San Dimas, CA	34637
+San Elizario, TX	13603
+San Fernando, CA	24587
+San Francisco, CA	852469
+San Gabriel, CA	40519
+San Gorgonio Pass, CA	70591
+San Jacinto, CA	46490
+San Jose, CA	1015785
+San Juan Capistrano, CA	36282
+San Juan Pueblo, NM	6671
+San Juan, TX	36174
+San Juan, WA	7447
+San Leandro, CA	89351
+San Lorenzo Valley, CA	28033
+San Lorenzo, CA	23452
+San Luis Obispo, CA	46730
+San Luis, AZ	31091
+San Marcos, CA	92929
+San Marcos, TX	58892
+San Marino, CA	13423
+San Martin, CA	7027
+San Mateo, CA	102893
+San Pablo, CA	30050
+San Rafael, CA	59237
+San Ramon, CA	75332
+San Tan Valley, AZ	81321
+Sanatoga, PA	8378
+Sand Lake, NY	8530
+Sand Springs, OK	19553
+Sandalfoot Cove, FL	18470
+Sanderson, FL	12231
+Sandpoint, ID	7760
+Sandston, VA	7571
+Sandusky South, OH	6413
+Sandusky, OH	25346
+Sandwich, IL	7410
+Sandy Springs, GA	101908
+Sandy, OR	10309
+Sandy, UT	91148
+Sanford, FL	57525
+Sanford, ME	20906
+Sanford, NC	29116
+Sangaree, SC	8220
+Sanger, CA	24810
+Sanger, TX	7601
+Sanibel Island, FL	8676
+Sanibel, FL	7056
+Sans Souci, SC	7869
+Santa Ana, CA	334909
+Santa Barbara, CA	91196
+Santa Clara, CA	122192
+Santa Clara, UT	6671
+Santa Clarita, CA	181557
+Santa Cruz, CA	63364
+Santa Fe Springs, CA	17537
+Santa Fe, NM	70297
+Santa Fe, TX	12860
+Santa Maria Valley, CA	110971
+Santa Maria, CA	103410
+Santa Monica, CA	92987
+Santa Paula, CA	30441
+Santa Rosa, CA	174170
+Santa Ynez Valley, CA	21898
+Santaquin, UT	10106
+Santee, CA	57052
+Santo Domingo, NM	9899
+Sappington, MO	7580
+Sapulpa, OK	20432
+Saraland, AL	13744
+Sarasota Springs, FL	14395
+Sarasota, FL	54214
+Saratoga Springs, NY	27436
+Saratoga Springs, UT	24356
+Saratoga, CA	31001
+Sartell, MN	16523
+Satellite Beach, FL	10418
+Satsuma, AL	6167
+Saugus, MA	26628
+Sauk Rapids, MN	13348
+Sauk Village, IL	10545
+Sault Ste. Marie, MI	13959
+Sausalito, CA	7135
+Savage, MD	7054
+Savage, MN	29208
+Savage-Guilford, MD	14182
+Savannah, GA	144352
+Savannah, TN	7053
+Savoy, IL	7879
+Sayreville, NJ	45262
+Sayville, NY	16853
+Scaggsville, MD	24333
+Scappoose, OR	6856
+Scarsdale, NY	17729
+Schaumburg, IL	74896
+Schenectady, NY	65936
+Schererville, IN	28926
+Schertz, TX	36896
+Schiller Park, IL	11857
+Schodack, NY	12794
+Schofield Barracks, HI	16370
+Schriever, LA	6853
+Schroeppel, NY	8501
+Schuyler, NE	6169
+Scio-Lacomb, OR	6346
+Scituate, RI	10329
+Scotch Plains, NJ	22583
+Scotchtown, NY	9212
+Scotia, NY	7803
+Scott Lake, FL	15642
+Scott Township, PA	16477
+Scott, LA	8910
+Scottdale, GA	10631
+Scotts Valley, CA	11858
+Scottsbluff, NE	14875
+Scottsboro, AL	14748
+Scottsburg, IN	6662
+Scottsdale, AZ	230512
+Scranton, PA	75281
+Scriba, NY	6840
+SeaTac, WA	28126
+Seabrook, MD	17287
+Seabrook, NH	8693
+Seabrook, TX	12792
+Seaford, DE	7417
+Seaford, NY	15294
+Seagoville, TX	15723
+Seal Beach, CA	24662
+Sealy, TX	6286
+Searcy, AR	23983
+Seaside, CA	34182
+Seaside, OR	6492
+Seattle Hill-Silver Firs, WA	39176
+Seattle, WA	668342
+Sebastian, FL	23344
+Sebastopol, CA	7659
+Sebring, FL	10372
+Secaucus, NJ	18416
+Security-Widefield, CO	32882
+Sedalia, MO	21492
+Sedona, AZ	10281
+Sedro-Woolley, WA	10764
+Seekonk, MA	13722
+Seffner, FL	7579
+Seguin, TX	27041
+Selah, WA	7444
+Selden, NY	19851
+Sellersburg, IN	8066
+Selma, AL	19814
+Selma, CA	24283
+Selma, NC	6257
+Selma, TX	8483
+Seminole, FL	17923
+Seminole, OK	7486
+Seminole, TX	7206
+Semmes, AL	17710
+Senatobia, MS	7928
+Seneca Falls, NY	6677
+Seneca, SC	8246
+Sequim, WA	6737
+Setauket-East Setauket, NY	15477
+Seven Corners, VA	9255
+Seven Hills, OH	11702
+Seven Oaks, SC	15144
+Severn, MD	44231
+Severna Park, MD	37634
+Sevierville, TN	16355
+Seward, NE	7128
+Seymour, CT	16540
+Seymour, IN	19094
+Seymour, TN	10919
+Shady Hills, FL	11523
+Shafter, CA	17559
+Shaker Heights, OH	27790
+Shakopee, MN	39677
+Shaler Township, PA	28361
+Shamokin, PA	7233
+Sharon, PA	13669
+Sharonville, OH	13581
+Shasta Lake, CA	10166
+Shaw-Horatio, SC	21462
+Shawangunk, NY	14332
+Shawano, WI	9169
+Shawnee, KS	64599
+Shawnee, OK	31254
+Sheboygan Falls, WI	7816
+Sheboygan, WI	48775
+Sheffield Lake, OH	9058
+Sheffield, AL	9144
+Shelburne, VT	7144
+Shelby Forest, TN	8411
+Shelby, MI	68294
+Shelby, NC	20276
+Shelby, OH	9088
+Shelbyville, IN	19163
+Shelbyville, KY	14985
+Shelbyville, TN	21037
+Shelton, CT	41295
+Shelton, WA	9777
+Shenandoah, LA	18399
+Shepherd-Evergreen, TX	14920
+Shepherdstown district, WV	10445
+Shepherdsville, KY	11856
+Sheridan, OR	6065
+Sheridan, WY	17916
+Sherman, TX	39943
+Sherrelwood, CO	18287
+Sherwood, AR	30407
+Sherwood, OR	18978
+Shields, MI	6587
+Shiloh, IL	12907
+Shiloh, OH	10859
+Shiloh, PA	11218
+Shiprock, NM	8295
+Shirley, NY	27854
+Shively, KY	15643
+Shoreline, WA	55174
+Shoreview, MN	26194
+Shorewood, IL	16569
+Shorewood, MN	7557
+Shorewood, WI	13331
+Short Hills, NJ	13165
+Short Pump, VA	24729
+Show Low, AZ	10841
+Shreveport, LA	198242
+Shrewsbury, MA	35608
+Shrewsbury, MO	6205
+Sidney, MT	6473
+Sidney, NE	6914
+Sidney, OH	20905
+Sienna Plantation, TX	13721
+Sierra Madre, CA	11165
+Sierra Vista Southeast, AZ	14797
+Sierra Vista, AZ	43806
+Sierra, CA	19246
+Siesta Key, FL	6565
+Signal Hill, CA	11526
+Signal Mountain, TN	8519
+Sikeston, MO	16370
+Siler City, NC	8273
+Sill, OK	12014
+Siloam Springs, AR	15944
+Silsbee, TX	6692
+Silver City, GA	15128
+Silver City, NM	10172
+Silver Firs, WA	20891
+Silver Spring, MD	71452
+Silver Springs Shores, FL	6539
+Silverdale, WA	19204
+Silverton, OR	9493
+Silvis, IL	7526
+Simcoe, AL	7557
+Simi Valley, CA	126871
+Simpson-Chaco, NM	7323
+Simpsonville, SC	20125
+Simsbury, CT	23511
+Sioux Center, IA	7389
+Sioux City, IA	82517
+Sioux Falls, SD	168586
+Sisters-Millican, OR	30810
+Sitka, AK	8900
+Skiatook, OK	7788
+Skidaway Island, GA	8341
+Skokie, IL	65112
+Skowhegan, ME	6297
+Sky Lake, FL	6153
+Slaton, TX	6068
+Sleepy Hollow, NY	10208
+Slidell, LA	27622
+Sloughhouse, CA	6043
+Smithfield, NC	11735
+Smithfield, RI	21430
+Smithfield, UT	11014
+Smithfield, VA	8287
+Smiths, AL	24633
+Smiths-Salem, AL	29351
+Smithtown, NY	26470
+Smithville, MO	9107
+Smithville, NJ	7242
+Smyrna, DE	11170
+Smyrna, GA	54958
+Smyrna, TN	45274
+Snellville, GA	19439
+Snohomish, WA	9544
+Snoqualmie Valley, WA	39400
+Snoqualmie, WA	12630
+Snow Hill, TN	13441
+Snyder, TX	11571
+Socastee, SC	19952
+Socorro, NM	8751
+Socorro, TX	32909
+Soddy-Daisy, TN	13190
+Solana Beach, CA	13337
+Soledad, CA	25336
+Solon, OH	23075
+Solvay, NY	6455
+Somers Point, NJ	10756
+Somers, CT	11444
+Somers, NY	20434
+Somers, WI	9597
+Somerset West-Rock Creek, OR	62062
+Somerset, KY	11422
+Somerset, MA	18165
+Somerset, NJ	22083
+Somerset, PA	6092
+Somersworth, NH	11777
+Somerton, AZ	14912
+Somerville, MA	78901
+Somerville, NJ	12153
+Sonoma, CA	11017
+Soquel, CA	9644
+Souderton, PA	6739
+Sound Beach, NY	7612
+South Amboy, NJ	8853
+South Antelope Valley, CA	171490
+South Aurora, CO	329151
+South Bay Cities, CA	134363
+South Bell, TX	8528
+South Beloit, IL	7719
+South Bend, IN	101190
+South Berwick, ME	7220
+South Boston, VA	7986
+South Bradenton, FL	22178
+South Bradley, TN	7237
+South Brazos, TX	26187
+South Burlington, VT	18743
+South Cannon, TN	6365
+South Charleston, WV	13214
+South Cherokee, OK	6023
+South Cleveland, TN	6912
+South Coast, CA	298389
+South Coastside, CA	28564
+South Davis, UT	106781
+South Daytona, FL	12397
+South Dona Ana, NM	26463
+South El Dorado, CA	87572
+South El Monte, CA	20569
+South Elgin, IL	22226
+South Euclid, OH	21869
+South Farmingdale, NY	14486
+South Gate, CA	96312
+South Gate, MD	29867
+South Hadley, MA	17514
+South Hill, NY	6673
+South Hill, WA	52431
+South Holland, IL	22144
+South Houston, TX	17536
+South Huntington, NY	9422
+South Jefferson, CO	23024
+South Jordan, UT	62781
+South Kensington, MD	8462
+South Kingstown, RI	30639
+South Kohala, HI	15253
+South Kona, HI	9977
+South Lake Tahoe, CA	21529
+South Laurel, MD	26112
+South Lockport, NY	8324
+South Lyon, MI	11713
+South Marshall, OK	6698
+South Miami Heights, FL	35696
+South Miami, FL	12183
+South Milwaukee, WI	21236
+South Monroe, MI	6433
+South Monrovia Island, CA	6777
+South Ogden, UT	16852
+South Orange, NJ	16468
+South Park Township, PA	13416
+South Pasadena, CA	26156
+South Peninsula, FL	12390
+South Plainfield, NJ	23960
+South Portland, ME	25424
+South Riding, VA	24256
+South Rio Arriba, NM	8818
+South River, NJ	16334
+South Rockdale, GA	26083
+South Rockwall, TX	24939
+South Run, VA	6389
+South Salt Lake, UT	24748
+South San Francisco, CA	67009
+South San Gabriel, CA	8070
+South San Jose Hills, CA	20551
+South Sioux City, NE	13360
+South St. Paul, MN	20487
+South Tulsa, OK	17377
+South Valley, NM	40976
+South Venice, FL	13949
+South Weber, UT	6731
+South Westside, FL	99883
+South Whidbey, WA	14250
+South Whittier, CA	57156
+South Williamson, KY	7525
+South Williamsport, PA	6330
+South Windsor, CT	25709
+South Yarmouth, MA	11092
+South Yellowstone, MT	6826
+South Yuba City, CA	14624
+South and East Osceola, FL	7340
+Southaven, MS	51824
+Southborough, MA	9767
+Southbridge Town, MA	16825
+Southbridge, MA	13619
+Southbury, CT	19904
+Southchase, FL	15921
+Southeast Arcadia, FL	6554
+Southeast Bexar, TX	21430
+Southeast Bradley, TN	8592
+Southeast Comanche, OK	14220
+Southeast Harris, TX	93921
+Southeast Hidalgo, TX	124914
+Southeast Leon, FL	11398
+Southeast Marin, CA	51775
+Southeast Montgomery, TX	288750
+Southeast Nolichucky, TN	7078
+Southeast Osage, OK	20850
+Southeast Otero, NM	8855
+Southeast, NY	18404
+Southeastern El Paso, CO	12750
+Southern Pines, NC	13235
+Southern Slopes, WA	12330
+Southfield, MI	73002
+Southgate, FL	7173
+Southgate, MI	29416
+Southglenn, CO	48097
+Southington, CT	43069
+Southlake, TX	29086
+Southport, FL	8623
+Southport, NY	7238
+Southside, AL	8552
+Southwest Arapahoe, CO	201720
+Southwest Bell, TX	6053
+Southwest Chaves, NM	6240
+Southwest Comanche, OK	8691
+Southwest Glades, FL	7529
+Southwest Grayson, TX	8173
+Southwest Jackson, OR	12054
+Southwest Leon, FL	13007
+Southwest Orange, FL	125117
+Southwest Ranches, FL	7761
+Southwest San Gabriel Valley, CA	326450
+Southwick, MA	9502
+Southwood Acres, CT	7657
+Spanaway, WA	27227
+Spanish Fork, UT	37527
+Spanish Fort, AL	7806
+Spanish Lake, MO	19650
+Spanish Springs, NV	15064
+Sparks, NV	94708
+Sparta, WI	9667
+Spartanburg, SC	37525
+Spearfish, SD	11091
+Speedway, IN	12101
+Spencer, IA	11206
+Spokane Valley, WA	91729
+Spokane, WA	212052
+Spotswood, NJ	8447
+Spottsville, KY	11944
+Spring Creek, NV	12361
+Spring Creek-Beech Bluff, TN	9059
+Spring Hill, FL	98621
+Spring Hill, TN	34269
+Spring Lake Park, MN	6464
+Spring Lake, NC	13370
+Spring Valley Lake, CA	8220
+Spring Valley, CA	28205
+Spring Valley, NV	178395
+Spring Valley, NY	32510
+Spring, TX	54298
+Springboro, OH	18017
+Springdale, AR	76565
+Springdale, NJ	14518
+Springdale, OH	11212
+Springfield, FL	9355
+Springfield, IL	116809
+Springfield, MA	153991
+Springfield, MO	165378
+Springfield, NJ	14334
+Springfield, OH	59956
+Springfield, OR	60263
+Springfield, PA	23802
+Springfield, TN	16752
+Springfield, VA	30484
+Springs, NY	6592
+Springville, UT	31464
+St. Albans, VT	6860
+St. Albans, WV	10835
+St. Andrews, SC	20493
+St. Ann, MO	12955
+St. Anthony, MN	8960
+St. Augustine Beach, FL	6706
+St. Augustine Shores, FL	7359
+St. Augustine, FL	13841
+St. Bethlehem, TN	26101
+St. Charles Mesa, CO	9675
+St. Charles, IL	33387
+St. Charles, MD	38740
+St. Charles, MO	68090
+St. Clair Shores, MI	60036
+St. Cloud, FL	43005
+St. Cloud, MN	66389
+St. Dennis, KY	9411
+St. Francis, MN	7359
+St. Francis, WI	9547
+St. Gabriel, LA	6993
+St. George, UT	78505
+St. Helena, SC	22796
+St. Helens, OR	13061
+St. James, NY	13338
+St. John, IN	16117
+St. John, MO	6475
+St. Johns, MI	7971
+St. Johnsbury, VT	6193
+St. Joseph, MI	8325
+St. Joseph, MN	6820
+St. Joseph, MO	76967
+St. Louis Park, MN	47502
+St. Louis, MI	7249
+St. Louis, MO	317419
+St. Martin, MS	7730
+St. Martinville, LA	6092
+St. Marys, GA	17949
+St. Marys, OH	8259
+St. Marys, PA	12793
+St. Matthews, KY	17911
+St. Michael, MN	17087
+St. Paul, MN	297640
+St. Pete Beach, FL	9496
+St. Peter, MN	11570
+St. Peters, MO	56076
+St. Petersburg, FL	253693
+St. Rose, LA	8122
+St. Simons, GA	12743
+St. Stephens, NC	8759
+Stafford, CT	12087
+Stafford, TX	18344
+Stallings, NC	14968
+Stamford, CT	128278
+Standish, ME	9874
+Stanford, CA	13809
+Stanton, CA	38719
+Stanwood, WA	6739
+Star, ID	7295
+Starkville, MS	24886
+State College, PA	42100
+Staten Island, NY	481026
+Statesboro, GA	30367
+Statesville, NC	25722
+Staunton, VA	24538
+Stayton, OR	7846
+Steamboat Springs, CO	12260
+Steele Creek, AK	6662
+Steger, IL	9557
+Steilacoom, WA	6179
+Stephenville, TX	19374
+Sterling Heights, MI	131741
+Sterling, CO	14629
+Sterling, IL	15011
+Sterling, MA	7808
+Sterling, VA	27822
+Steubenville, OH	18303
+Stevens Creek, SC	8350
+Stevens Point, WI	26658
+Stevenson Ranch, CA	17557
+Stevensville, MD	6803
+Stewartville, MN	6046
+Stickney, IL	6818
+Stillwater, MN	18800
+Stillwater, OK	48406
+Stockbridge, GA	27619
+Stockton, CA	302389
+Stone Mountain, GA	6025
+Stone Ridge, VA	7214
+Stonegate, CO	8962
+Stoneham, MA	21437
+Stony Brook University, NY	9216
+Stony Brook, NY	13740
+Stony Creek, TN	7231
+Stony Point, NY	12147
+Storm Lake, IA	10895
+Storrs, CT	15344
+Stoughton, MA	26962
+Stoughton, WI	13039
+Stow, MA	6590
+Stow, OH	34773
+Stowe Township, PA	6391
+Strasburg, VA	6559
+Stratford, CT	51384
+Stratford, NJ	6944
+Stratham, NH	7255
+Strathmore, NJ	7258
+Stratmoor, CO	6900
+Streamwood, IL	40345
+Streator, IL	13289
+Streetsboro, OH	16238
+Strongsville, OH	44654
+Struthers, OH	10441
+Stuart, FL	16197
+Stuarts Draft, VA	9235
+Sturgeon Bay, WI	9044
+Sturgis, MI	10901
+Sturgis, SD	6741
+Sturtevant, WI	6981
+Stuttgart, AR	9132
+Suamico, WI	11878
+Succasunna, NJ	9152
+Succasunna-Kenvil, NJ	12949
+Sudbury, MA	17659
+Sudden Valley, WA	6441
+Sudley, VA	16203
+Suffern, NY	10991
+Suffield, CT	15735
+Suffolk, VA	86806
+Sugar Grove, IL	9192
+Sugar Hill, GA	20821
+Sugar Land, TX	86777
+Sugar Valley-Resaca, GA	7747
+Sugarland Run, VA	11799
+Sugarmill Woods, FL	8287
+Suisun City, CA	29256
+Suitland, MD	25825
+Suitland-Silver Hill, MD	34746
+Sullivan, MO	7054
+Sullivan, NY	15339
+Sulphur Springs, TN	11636
+Sulphur Springs, TX	15975
+Sulphur, LA	20206
+Summerfield, MD	10898
+Summerfield, NC	10753
+Summerlin South, NV	24085
+Summerville, SC	46974
+Summit Park, UT	7775
+Summit View, WA	7236
+Summit, IL	11447
+Summit, NJ	22071
+Summit, WA	7985
+Sumner, WA	9677
+Sumter, SC	40929
+Sun City Center, FL	19258
+Sun City West, AZ	24535
+Sun City, AZ	37499
+Sun City, CA	23436
+Sun Lakes, AZ	13975
+Sun Prairie, WI	31752
+Sun Valley, NV	19299
+Sun Village, CA	11565
+Sunbury, PA	9736
+Sunland Park, NM	15400
+Sunny Isles Beach, FL	16635
+Sunnyside, OR	7512
+Sunnyside, WA	16140
+Sunnyvale, CA	149980
+Sunrise Manor, NV	189372
+Sunrise, FL	91256
+Sunset Hills, MO	8527
+Sunset, FL	16389
+Sunshine Parkway, FL	153186
+Superior, CO	12855
+Superior, WI	26705
+Surprise, AZ	126275
+Susanville, CA	15543
+Sussex, WI	10740
+Sutherlin, OR	7762
+Sutton, MA	8963
+Suwanee, GA	18164
+Swainsboro, GA	7472
+Swampscott, MA	13787
+Swansea, IL	13651
+Swansea, MA	15865
+Swanzey, NH	7230
+Swarthmore, PA	6202
+Sweden, NY	14175
+Sweet Home, OR	9074
+Sweetwater, FL	15452
+Sweetwater, TX	10805
+Swissvale, PA	8906
+Sycamore, IL	17753
+Sylacauga, AL	12703
+Sylvania, OH	18965
+Sylvester, GA	6097
+Syosset, NY	18829
+Syracuse, NY	144263
+Syracuse, UT	26639
+Tacoma, WA	205159
+Taft, CA	8909
+Tahlequah, OK	16496
+Tahoma-Maple Valley, WA	56368
+Tahuya, WA	6069
+Takoma Park, MD	17670
+Talent, OR	6323
+Talladega, AL	16012
+Tallahassee, FL	188107
+Tallmadge, OH	17527
+Tallulah, LA	7181
+Tamalpais-Homestead Valley, CA	10735
+Tamaqua, PA	6899
+Tamarac, FL	63793
+Tamiami, FL	55271
+Tampa, FL	358699
+Tanaina, AK	8197
+Taneytown, MD	6752
+Taneytown, MD	8790
+Tanglewilde-Thompson Place, WA	6497
+Tanner-Williams, AL	60211
+Tanque Verde, AZ	16901
+Tappan, NY	6613
+Tarboro, NC	11310
+Tarpon Springs, FL	24239
+Tarrant, AL	6257
+Tarrytown, NY	11537
+Tassajara, CA	28330
+Taunton, MA	56544
+Tavares, FL	14930
+Taylor Mill, KY	6728
+Taylor, MI	61594
+Taylor, PA	6163
+Taylor, TX	16483
+Taylors, SC	21617
+Taylorsville, UT	60433
+Taylorville, IL	10971
+Teaneck, NJ	39274
+Teays Valley, WV	13175
+Tecumseh, MI	8400
+Tecumseh, OK	6631
+Tega Cay, SC	9120
+Tehachapi, CA	13236
+Telford, TN	10745
+Tell City, IN	7257
+Temecula, CA	109428
+Temescal Valley, CA	22535
+Tempe, AZ	172816
+Temperance, MI	8517
+Temple City, CA	36334
+Temple Hills, MD	7852
+Temple Terrace, FL	25419
+Temple, TX	70765
+Templeton, CA	7674
+Templeton, MA	8013
+Tenafly, NJ	14816
+Tenmile, OR	9469
+Terrace Heights, WA	6937
+Terre Haute, IN	60956
+Terrell, TX	16561
+Terrytown, LA	23319
+Terryville, NY	11849
+Tewksbury, MA	28961
+Texarkana, AR	30014
+Texarkana, TX	37225
+Texas City, TX	46639
+Thalmann, GA	6792
+The Acreage, FL	38704
+The Colony, TX	41352
+The Crossings, FL	22758
+The Dalles, OR	19517
+The Hammocks, FL	51003
+The Pinery, CO	10517
+The Village, OK	9324
+The Villages, FL	51442
+The Woodlands, TX	93847
+Theodore, AL	6130
+Thermalito, CA	6646
+Thibodaux, LA	14603
+Thief River Falls, MN	8656
+Thomaston, CT	7887
+Thomaston, GA	8952
+Thomasville, GA	18700
+Thomasville, NC	27002
+Thompson, CT	9458
+Thompson, NY	15308
+Thompsonville, CT	8577
+Thomson, GA	6618
+Thonotosassa, FL	13014
+Thornton, CO	130307
+Thornton, ID	24416
+Thousand Oaks, CA	129342
+Thousand Palms, CA	7715
+Three Lakes, FL	15047
+Three Rivers, MI	7745
+Three Sisters Mountains, GA	12508
+Thurmont, MD	6439
+Tiburon, CA	9224
+Tiffin, OH	17739
+Tifton, GA	16701
+Tigard, OR	50787
+Tiger Valley, TN	6033
+Tigerville, SC	7542
+Tillmans Corner, AL	17398
+Timberlake, VA	12183
+Timberlane, LA	10243
+Timberwood Park, TX	13447
+Timonium, MD	9925
+Tinley Park, IL	57280
+Tinton Falls, NJ	17898
+Tipp City, OH	9858
+Titusville, FL	44557
+Tiverton, RI	7557
+Toccoa, GA	8257
+Toledo, OH	281031
+Tolland, CT	15052
+Tolleson, AZ	6929
+Tomah, WI	9328
+Tomball, TX	11299
+Toms River, NJ	88791
+Tonawanda, NY	14976
+Tooele, UT	32573
+Topanga, CA	8289
+Topeka, KS	127215
+Toppenish, WA	8996
+Toro, CA	10399
+Torrance, CA	148495
+Torrington, CT	35190
+Torrington, WY	6736
+Totowa, NJ	10937
+Town 'n' Country, FL	78442
+Town and Country, MO	10975
+Towson, MD	55197
+Trabuco, CA	193712
+Tracy, CA	85841
+Traverse City, MI	15042
+Travilah, MD	12159
+Treasure Island, FL	6810
+Tremonton, UT	8066
+Trenton, MI	18427
+Trenton, NJ	84034
+Trenton, OH	12260
+Tri-Cities, AL	33064
+Triangle, VA	8188
+Trinidad, CO	8193
+Trinity, FL	10907
+Trinity, NC	6662
+Trophy Club, TX	11227
+Trotwood, OH	24171
+Troutdale, OR	16552
+Troy, AL	19138
+Troy, IL	9996
+Troy, MI	83107
+Troy, MO	11355
+Troy, NY	49910
+Troy, OH	25564
+Truckee, CA	16297
+Trumann, AR	7201
+Trumbull, CT	36018
+Trussville, AL	20702
+Truth or Consequences, NM	6103
+Tualatin, OR	26907
+Tuba City, AZ	8611
+Tuckahoe, NY	6623
+Tuckahoe, VA	44990
+Tucker, GA	27581
+Tucson Estates, AZ	12192
+Tucson, AZ	527972
+Tukwila, WA	19920
+Tulalip, WA	10258
+Tulare, CA	61867
+Tullahoma, TN	18899
+Tulsa, OK	399682
+Tumalo, OR	6978
+Tumwater, WA	18820
+Tupelo, MS	35688
+Turlock, CA	71245
+Tuscaloosa, AL	96122
+Tuscumbia, AL	8529
+Tuskegee, AL	8993
+Tuskegee-Milstead, AL	14096
+Tustin Foothills, CA	24898
+Tustin, CA	80621
+Tuttle, OK	6542
+Twentynine Palms Base, CA	9756
+Twentynine Palms, CA	25902
+Twin Falls, ID	46528
+Twin Lakes, CO	6101
+Twin Lakes, WI	6102
+Twin Rivers, NJ	7443
+Twinsburg, OH	18837
+Two Rivers, WI	11437
+Tybee Island-Wilmington, GA	27669
+Tyler, TX	101421
+Tyngsborough, MA	11292
+Tyrone, GA	7135
+Tysons Corner, VA	19627
+Ukiah, CA	15977
+Ulster, NY	12327
+Ulysses, KS	6160
+Umatilla, OR	7005
+Union City, CA	73621
+Union City, GA	20427
+Union City, NJ	68668
+Union City, TN	10666
+Union Gap, WA	6030
+Union Hill-Novelty Hill, WA	18805
+Union Park, FL	9765
+Union, MO	10859
+Union, NJ	54050
+Union, NY	56346
+Union, OH	6391
+Union, SC	8041
+Uniondale, NY	24759
+Uniontown, PA	10064
+Unionville, NC	6442
+Unionville, TN	6652
+Universal City, TX	19721
+University City, MO	35115
+University Heights, OH	13203
+University Park, FL	26995
+University Park, IL	7095
+University Park, TX	24396
+University Place, WA	32282
+University at Buffalo, NY	6066
+University of Virginia, VA	7704
+University, FL	41163
+Upland, CA	76043
+Upper Arlington, OH	34609
+Upper Big Bigby, TN	9488
+Upper Christiana, DE	25793
+Upper Grand Lagoon, FL	13963
+Upper Keys, FL	20334
+Upper Montclair, NJ	11565
+Upper Providence Township, PA	10564
+Upper Saddle River, NJ	8356
+Upper San Gabriel Valley, CA	327431
+Upper Sandusky, OH	6561
+Upper St. Clair, PA	19229
+Upper Yellowstone Valley, MT	12251
+Upton, MA	7542
+Urban Honolulu, HI	350399
+Urbana, IL	42044
+Urbana, MD	9175
+Urbana, OH	11524
+Urbandale, IA	43150
+Utica, NY	61332
+Uvalde, TX	16412
+Uxbridge, MA	13457
+Vacaville, CA	95856
+Vadnais Heights, MN	13143
+Vail, AZ	10208
+Valdosta, GA	56595
+Valencia West, AZ	9355
+Valinda, CA	22822
+Valle Vista, CA	14578
+Vallejo, CA	120228
+Valley Center, CA	9277
+Valley Center, KS	7057
+Valley City, ND	6676
+Valley Cottage, NY	9107
+Valley Falls, RI	11547
+Valley Falls, SC	6299
+Valley Park, MO	6976
+Valley Station, KY	23531
+Valley Stream, NY	37832
+Valley, AL	9453
+Valley, GA	8306
+Valparaiso, IN	32369
+Valrico, FL	35545
+Van Buren, AR	23070
+Van Buren, NY	13185
+Van Wert, OH	10768
+Van Wyck, SC	8450
+Vancouver, WA	169294
+Vandalia, IL	6984
+Vandalia, OH	15139
+Vandenberg Village, CA	6497
+Vashon Island, WA	10811
+Vashon, WA	10624
+Venice Gardens, FL	7104
+Venice, FL	21730
+Ventnor City, NJ	10597
+Ventura, CA	110873
+Veradale, WA	10224
+Verde Village, AZ	11605
+Verde, AZ	39532
+Vermilion, OH	10478
+Vermillion, SD	10699
+Vernal, UT	10844
+Vernon Hills, IL	25911
+Vernon, CT	29179
+Vernon, TX	10531
+Vernon, WI	7601
+Vero Beach South, FL	23092
+Vero Beach, FL	16017
+Verona, NJ	13137
+Verona, NY	6293
+Verona, WI	12003
+Versailles, KY	9054
+Vestal, NY	28043
+Vestavia Hills, AL	34124
+Vicksburg, MS	23392
+Victoria, MN	8374
+Victoria, TX	66094
+Victorville, CA	121901
+Vidalia, GA	10670
+Vidor, TX	10920
+Vienna, VA	16459
+Vienna, WV	10562
+Viera East, FL	10757
+Viera West, FL	6641
+View Park-Windsor Hills, CA	11075
+Villa Hills, KY	7426
+Villa Park, IL	22038
+Villa Rica, GA	14700
+Village Green-Green Ridge, PA	7822
+Village Park, HI	9884
+Village St. George, LA	7104
+Village of Oak Creek (Big Park), AZ	6147
+Villas, FL	11569
+Villas, NJ	9483
+Ville Platte, LA	7287
+Vincennes, IN	18032
+Vincent, CA	15922
+Vineland, NJ	61171
+Vinemont, AL	9008
+Vineyard, CA	24836
+Vinings, GA	9734
+Vinton, VA	8180
+Viola, NY	6868
+Virginia Beach, VA	450980
+Virginia, MN	8649
+Visalia, CA	129281
+Vista, CA	98079
+Wabash, IN	10433
+Waccamaw, SC	17927
+Waco, TX	130194
+Waconia, MN	11774
+Wade Hampton, SC	20622
+Wading River, NY	7719
+Wadsworth, OH	21893
+Waggaman, LA	10015
+Wagoner, OK	8612
+Wahiawa, HI	17821
+Wahpeton, ND	7903
+Waianae, HI	13177
+Waihee-Waiehu, HI	8841
+Waikele, HI	7479
+Waikoloa Village, HI	6362
+Wailea-Makena, HI	6251
+Wailuku, HI	15313
+Waimalu, HI	13730
+Waimea, HI	9212
+Waipahu, HI	38216
+Waipio, HI	11674
+Waite Park, MN	7469
+Wake Forest, NC	36693
+Wakefield, MA	24932
+Wakefield-Peacedale, RI	8487
+Walden Ridge, TN	6736
+Walden, NY	6855
+Waldorf, MD	67752
+Waldwick, NJ	9947
+Walker Mill, MD	11302
+Walker, LA	6238
+Walker, MI	24468
+Walkersville, MD	6058
+Walla Walla, WA	31910
+Walled Lake, MI	7129
+Waller, WA	7922
+Wallingford Center, CT	18209
+Wallingford, CT	45135
+Wallington, NJ	11626
+Walnut Creek, CA	67673
+Walnut Grove, WA	9790
+Walnut Park, CA	15966
+Walnut, CA	30214
+Waltham, MA	63014
+Walworth, NY	9449
+Wanaque, NJ	11447
+Wantagh, NY	18871
+Wapakoneta, OH	9818
+Wappinger, NY	27048
+Ware, MA	6170
+Wareham, MA	21822
+Waresboro, GA	6724
+Warm Springs-Truckee Canyon, NV	26247
+Warner Robins, GA	73271
+Warr Acres, OK	10408
+Warren, MI	135099
+Warren, OH	40633
+Warren, PA	9410
+Warren, RI	10611
+Warrensburg, MO	19963
+Warrensville Heights, OH	13286
+Warrenton, MO	8068
+Warrenton, VA	9907
+Warrenville, IL	13336
+Warrington, FL	14531
+Warsaw, IN	14280
+Warwick, NY	6785
+Warwick, RI	81963
+Wasco, CA	26303
+Waseca, MN	9272
+Washington Court House, OH	14085
+Washington Terrace, UT	9177
+Washington Township, NJ	8941
+Washington, DC	658893
+Washington, IA	7349
+Washington, IL	15816
+Washington, IN	12020
+Washington, MO	14020
+Washington, NC	9789
+Washington, NJ	6466
+Washington, OH	13446
+Washington, PA	13551
+Washington, UT	23360
+Washington, WI	7182
+Washington-Metasville, GA	6762
+Washoe Valley, NV	13620
+Washougal, WA	14999
+Wasilla, AK	8849
+Watauga, TX	24345
+Waterboro, ME	7693
+Waterbury, CT	109307
+Waterford, CA	8732
+Waterford, CT	19517
+Waterford, MI	73473
+Waterloo, IA	68364
+Waterloo, IL	10178
+Watertown, CT	22514
+Watertown, MA	34127
+Watertown, NY	27590
+Watertown, SD	22057
+Watertown, WI	23891
+Waterville, ME	16182
+Watervliet, NY	10233
+Watsonville, CA	53111
+Wauconda, IL	13896
+Waukee, IA	17705
+Waukegan, IL	88915
+Waukesha, WI	71489
+Waunakee, WI	13067
+Waupaca, WI	6018
+Waupun, WI	11377
+Wausau, WI	39302
+Wauseon, OH	7322
+Wauwatosa, WI	47102
+Waveland, MS	6419
+Waverly, IA	10106
+Waverly, MI	23925
+Wawarsing, NY	13157
+Wawayanda, NY	7266
+Waxahachie, TX	32344
+Waxhaw, NC	12750
+Waycross, GA	14166
+Wayland, MA	12994
+Wayne, MI	17091
+Wayne, NJ	53657
+Waynesboro, PA	10760
+Waynesboro, VA	21366
+Waynesville, NC	9761
+Wear Valley, TN	7594
+Weare, NH	8785
+Weatherford, OK	11989
+Weatherford, TX	27769
+Webb City, MO	11075
+Webb, TX	11542
+Webster City, IA	7788
+Webster Groves, MO	23186
+Webster, MA	11412
+Webster, TX	11115
+Websters Chapel-Alexandria Valley, AL	11175
+Weddington, NC	10322
+Wedgefield, FL	6705
+Weigelstown, PA	12875
+Weirton, WV	19362
+Wekiwa Springs, FL	21998
+Welby, CO	14846
+Welcome, SC	6668
+Wellesley, MA	27982
+Wellington, CO	7185
+Wellington, FL	61485
+Wellington, KS	7942
+Wells Branch, TX	12120
+Wells, ME	9589
+Wenatchee, WA	33261
+Wendell, NC	6182
+Wentzville, MO	33912
+Weslaco, TX	37601
+Wesley Chapel, FL	44092
+Wesley Chapel, NC	8192
+West Adams, CO	310409
+West Allis, WI	60624
+West Athens, CA	8729
+West Babylon, NY	43213
+West Bend, WI	31692
+West Bexar, TX	37315
+West Bloomfield Township, MI	65149
+West Boylston, MA	7669
+West Bradley, TN	17510
+West Brazos, TX	11913
+West Bridgewater, MA	6916
+West Caldwell, NJ	10904
+West Carrollton City, OH	12692
+West Carrollton, OH	13018
+West Carson, CA	21699
+West Chester, PA	19189
+West Chester, TN	10840
+West Chicago, IL	27507
+West Columbia, SC	15920
+West Concord, MA	6028
+West Contra Costa, CA	250207
+West Covina, CA	108455
+West Des Moines, IA	63325
+West Dougherty, GA	59317
+West Dundee, IL	7391
+West Falls Church, VA	29207
+West Fargo, ND	31771
+West Frankfort, IL	8056
+West Freehold, NJ	13613
+West Gate, VA	9504
+West Glens Falls, NY	7071
+West Goshen, PA	9477
+West Greenwich, RI	6135
+West Hartford, CT	63268
+West Haven, CT	54905
+West Haven, UT	11582
+West Haven-Sylvan, OR	8001
+West Haverstraw, NY	10417
+West Helena, AR	7249
+West Hempstead, NY	18862
+West Hollywood, CA	35883
+West Imperial, CA	8265
+West Islip, NY	28335
+West Jackson, GA	14142
+West Jordan, UT	110920
+West Lafayette, IN	32109
+West Lake Sammamish, WA	6340
+West Lake Stevens, WA	20049
+West Lealman, FL	15651
+West Linn, OR	26289
+West Little River, FL	34699
+West Livingston, TX	8071
+West Long Branch, NJ	8352
+West Melbourne, FL	20078
+West Memphis, AR	25423
+West Miami, FL	6326
+West Mifflin, PA	20175
+West Milford, NJ	26208
+West Monroe, LA	12985
+West New York, NJ	52597
+West Norriton, PA	15390
+West Odessa, TX	22707
+West Orange, NJ	43629
+West Palm Beach, FL	104031
+West Park, FL	14914
+West Paterson, NJ	10903
+West Pensacola, FL	21339
+West Perrine, FL	9460
+West Plains, MO	12275
+West Point, MS	11093
+West Point, NY	6763
+West Point, UT	10204
+West Point-Wilseyville, CA	13048
+West Puente Valley, CA	22636
+West Richland, WA	13351
+West Sacramento, CA	51847
+West Santa Clara, CA	8318
+West Seneca, NY	44711
+West Slope, OR	6554
+West Springfield Town, MA	28627
+West Springfield, MA	28582
+West Springfield, VA	22460
+West St. Lucie, FL	7070
+West St. Paul, MN	19806
+West Tom Green, TX	22925
+West University Place, TX	15604
+West Valley City, UT	134495
+West Valley, CA	29595
+West Valley, WA	10882
+West Vero Corridor, FL	7138
+West View, PA	6717
+West Wakulla, FL	6983
+West Warwick, RI	29788
+West Whittier-Los Nietos, CA	25540
+West Yarmouth, MA	6012
+West and East Lealman, FL	21528
+Westbrook, CT	6938
+Westbrook, ME	17886
+Westbury, NY	15329
+Westchase, FL	21747
+Westchester, FL	29862
+Westchester, IL	16807
+Westerly, RI	17936
+Western Springs, IL	13284
+Western, AZ	11873
+Westerville, OH	37667
+Westfield, IN	35297
+Westfield, MA	41608
+Westfield, NJ	30890
+Westford, MA	21951
+Westgate, FL	7975
+Westgate-Belvedere Homes, FL	9060
+Westlake Village, CA	8473
+Westlake, OH	32424
+Westland, MI	82314
+Westmere, NY	7284
+Westminster, CA	92068
+Westminster, CO	112090
+Westminster, MA	7277
+Westminster, MD	18724
+Westmont, CA	31853
+Westmont, IL	24963
+Westmoreland, NY	6138
+Weston, CT	10179
+Weston, FL	69100
+Weston, MA	11261
+Weston, WI	14988
+Westphalia, MD	7266
+Westport, CT	26391
+Westport, MA	15532
+Westside, CA	32384
+Westside, GA	15369
+Westview, FL	9650
+Westwego, LA	8545
+Westwood Lakes, FL	11838
+Westwood, MA	14618
+Westwood, MI	8653
+Westwood, NJ	11149
+Wethersfield, CT	26668
+Wetumpka, AL	7661
+Weymouth Town, MA	55643
+Weymouth, MA	54393
+Wharton, NJ	6612
+Wharton, TX	8659
+Wheat Ridge, CO	31034
+Wheatfield, NY	18117
+Wheaton, IL	53644
+Wheaton, MD	48284
+Wheaton-Glenmont, MD	61910
+Wheelersburg, OH	6437
+Wheeling, IL	38010
+Wheeling, WV	27790
+White Bear Lake, MN	24986
+White Center, WA	13495
+White City, OR	7975
+White Horse, NJ	9494
+White House, TN	11042
+White Marsh, MD	9513
+White Meadow Lake, NJ	8836
+White Oak, MD	17403
+White Oak, OH	19167
+White Oak, PA	7814
+White Oak, TX	6318
+White Plains, NY	58035
+White Settlement, TX	16896
+White-Pine Log, GA	10476
+Whitefish Bay, WI	14122
+Whitefish, MT	6864
+Whitehall, OH	18558
+Whitehall, PA	13896
+Whitehouse, TX	8044
+Whitemarsh Island, GA	6792
+Whitestown, NY	18667
+Whitewater, WI	15040
+Whitinsville, MA	6704
+Whitman, MA	14489
+Whitmore Lake, MI	6423
+Whitney, NV	38585
+Whittier, CA	87318
+Wichita Falls, TX	105114
+Wichita, KS	388413
+Wickenburg, AZ	6685
+Wickliffe, OH	12584
+Wildomar, CA	35377
+Wildwood, FL	7181
+Wildwood, MO	35820
+Wildwood, TN	10095
+Wilkes-Barre, PA	40814
+Wilkins Township, PA	6592
+Wilkinsburg, PA	15813
+Willard, OH	6094
+Williamsburg, FL	7646
+Williamsburg, VA	14691
+Williamson, NY	6984
+Williamsport, PA	29197
+Williamstown, NJ	15567
+Willimantic, CT	17737
+Willington, CT	6041
+Willis, TX	6275
+Williston Park, NY	7327
+Williston, ND	24562
+Williston, VT	8698
+Willmar, MN	19570
+Willoughby Hills, OH	9405
+Willoughby, OH	22453
+Willow Grove, PA	15726
+Willow Oak, FL	6732
+Willow Street, PA	7578
+Willowbrook, CA	35983
+Willowbrook, IL	8631
+Willowick, OH	14009
+Willows, CA	6088
+Wilmette, IL	27446
+Wilmington Island, GA	15138
+Wilmington Manor, DE	7889
+Wilmington, DE	71817
+Wilmington, MA	22325
+Wilmington, NC	113657
+Wilmington, OH	12375
+Wilmore, KY	6123
+Wilna, NY	6427
+Wilson, NC	49395
+Wilson, PA	7827
+Wilsonville, OR	22026
+Wilton Manors, FL	12243
+Wilton, CT	18062
+Wilton, NY	16173
+Wimauma, FL	6373
+Wimauma-Lithia, FL	35529
+Winchester, CT	11242
+Winchester, KY	18443
+Winchester, MA	21374
+Winchester, NV	27978
+Winchester, TN	8547
+Winchester, VA	27543
+Wind River, WY	24157
+Winder, GA	14930
+Windham, CT	25268
+Windham, ME	17001
+Windham, NH	13592
+Windsor Locks, CT	12498
+Windsor, CA	27414
+Windsor, CO	21106
+Windsor, CT	29044
+Winfield, IL	9569
+Winfield, KS	12258
+Winnemucca, NV	8001
+Winnetka, IL	12490
+Winona, MN	27384
+Winooski, VT	7228
+Winslow, AZ	9604
+Winslow, ME	7794
+Winsted, CT	7712
+Winston, FL	10662
+Winston, GA	7625
+Winston-Salem, NC	239269
+Winter Garden, FL	38746
+Winter Gardens, CA	20631
+Winter Haven, FL	36371
+Winter Park, FL	29442
+Winter Springs, FL	34169
+Winters, CA	6941
+Winterville, NC	9511
+Winthrop Harbor, IL	6730
+Winthrop Town, MA	18352
+Winthrop, MA	19298
+Winton, CA	10613
+Wisconsin Rapids, WI	17966
+Withamsville, OH	7021
+Wixom, MI	13744
+Woburn, MA	39272
+Wolcott, CT	16680
+Wolf Trap, VA	16131
+Wollochet, WA	6651
+Wonder Lake, IL	8967
+Wood Dale, IL	13945
+Wood River, IL	10355
+Wood-Ridge, NJ	8450
+Woodbourne-Hyde Park, OH	7620
+Woodbridge, CT	8990
+Woodbridge, NJ	19265
+Woodburn, OR	24734
+Woodburn, VA	8480
+Woodbury, CT	9975
+Woodbury, MN	66807
+Woodbury, NJ	10016
+Woodbury, NY	8907
+Woodcrest, CA	14347
+Woodfield, SC	9303
+Woodfin, NC	6283
+Woodhaven, MI	12594
+Woodinville, WA	11372
+Woodlake, CA	7659
+Woodlake, VA	7319
+Woodland Park, CO	7194
+Woodland Park, NJ	12403
+Woodland, CA	57432
+Woodlawn, MD	37879
+Woodlawn-Dotsonville, TN	8306
+Woodlyn, PA	9485
+Woodmere, LA	12080
+Woodmere, NY	17121
+Woodmoor, CO	8741
+Woodridge, IL	33378
+Woods Cross, UT	11097
+Woodstock, CT	7964
+Woodstock, GA	27823
+Woodstock, IL	25178
+Woodville, SC	9286
+Woodward, OK	12963
+Woodway, TX	8760
+Woonsocket, RI	41228
+Wooster, OH	26540
+Worcester, MA	183016
+World Golf Village, FL	12310
+Worth, IL	10838
+Worthington, MN	12932
+Worthington, OH	14384
+Wrentham, MA	10955
+Wright, FL	23127
+Wyandanch, NY	11647
+Wyandotte, MI	25151
+Wyckoff, NJ	16514
+Wylie, TX	45913
+Wyndham, VA	9785
+Wynne, AR	8150
+Wynoochee, WA	6614
+Wyoming, MI	74826
+Wyoming, MN	7781
+Wyoming, OH	8427
+Wyomissing, PA	10472
+Wytheville, VA	8133
+Xenia, OH	25911
+Yakima, WA	93357
+Yankton, SD	14552
+Yardville, NJ	7186
+Yardville-Groveville, NJ	9518
+Yarmouth, MA	23793
+Yazoo City, MS	11366
+Yeadon, PA	11525
+Yellow River, GA	7152
+Yelm, WA	8223
+Yoder, OR	7350
+Yonkers, NY	200667
+Yorba Linda, CA	67826
+York, ME	12529
+York, NE	7957
+York, PA	43865
+York, SC	8038
+Yorketown, NJ	6535
+Yorkshire, VA	7541
+Yorktown, IN	11220
+Yorktown, NY	36081
+Yorkville, GA	10575
+Yorkville, IL	18096
+Youngstown, FL	7696
+Youngstown, OH	65062
+Youngsville, LA	11006
+Youngtown, AZ	6542
+Ypsilanti, MI	20081
+Yreka, CA	7564
+Yuba City, CA	65773
+Yucaipa, CA	53096
+Yucca Valley, CA	21485
+Yukon, OK	25349
+Yulee, FL	11491
+Yuma, AZ	93400
+Zachary, LA	16219
+Zanesville, OH	25372
+Zenith, GA	8944
+Zephyr Cove, NV	7445
+Zephyrhills, FL	14381
+Zion, IL	24264
+Zionsville, IN	25734
+Zuni Pueblo, NM	6302
+Zuni, NM	7262
