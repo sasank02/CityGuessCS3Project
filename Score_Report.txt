@@ -1,0 +1,21 @@
+City Guesser Score Card
+***********************
+
+Taken At: 02/05/2021 18:45
+Duration: 1
+Raw Score: 2/10
+Score: 20%
+
+
+Taken At: 02/05/2021 18:48
+Duration: 12
+Raw Score: 0/10
+Score: 0%
+
+
+Taken At: 02/05/2021 18:50
+Duration: 8 sec
+Raw Score: 0/10
+Score: 0%
+
+
