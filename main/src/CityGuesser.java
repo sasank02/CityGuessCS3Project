@@ -36,7 +36,7 @@ public class CityGuesser extends JFrame{
                 }
             }
         });
-        mainPanel.addKeyListener(new KeyAdapter() {
+        this.addKeyListener(new KeyAdapter() {
             @Override
             public void keyPressed(KeyEvent e) {
                 if(e.getKeyCode() == 10){
