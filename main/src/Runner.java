@@ -1,12 +1,26 @@
-import javax.swing.*;
 import java.io.*;
-import java.util.*;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Set;
 
 public class Runner {
 
     public static final String ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
 
+    public static void writeScoreReport(int accuracy, int count, int duration) throws IOException {
+        DateTimeFormatter dtf = DateTimeFormatter.ofPattern("MM/dd/yyyy HH:mm");
+        LocalDateTime now = LocalDateTime.now();
+        PrintWriter p = new PrintWriter(new BufferedWriter(new FileWriter("Score_Report.txt", true)));
+        p.println("Taken At: " + dtf.format(now));
+        p.println("Duration: " + duration +" sec");
+        p.println("Raw Score: " + accuracy + "/" + count);
+        int percent = (int)(accuracy*100.0/count);
+        p.println("Score: "  + percent + "%\n\n");
+        p.close();
+    }
 
     private static City random(Map<String, City> popToCity) {
         Set<String> codes = popToCity.keySet();
@@ -41,6 +55,9 @@ public class Runner {
             // game stuff
             int questionCount = 10;
             int accuracy = 0;
+            long startTime = System.currentTimeMillis(); // Get the start Time
+            long endTime = 0;
+
             //Scanner scanner = new Scanner(System.in);
             for (int i = 0; i < questionCount; i++) {
                 City[] choices = new City[] { random(popToCity), random(popToCity), random(popToCity), random(popToCity), random(popToCity) };
@@ -71,9 +88,12 @@ public class Runner {
                 //System.out.println("Press ENTER to continue.\n\n");
                 //scanner.nextLine();
             }
+            endTime = System.currentTimeMillis(); //Get the end Time
+
             //scanner.close();
             //System.out.println("You finished the game with an accuracy of " + accuracy + " out of 10 (" + (int)(accuracy*100.0/questionCount) + "%).");
-            Guesser.sendScore("You finished the game with an accuracy of " + accuracy + " out of " + questionCount + " (" + (int)(accuracy*100.0/questionCount) + "%).");
+            Guesser.sendScore("You finished the game with an accuracy of " + accuracy + " out of " + questionCount + " (" + (int)(accuracy*100.0/questionCount) + "%). Please see the output file Score_Report.txt for details.");
+            writeScoreReport(accuracy ,questionCount, (int) ((endTime-startTime)/1000));
             // write to CityData.dat
             PrintWriter pw = new PrintWriter(new BufferedWriter(new FileWriter("CityData.dat")));
             for (Map.Entry<String, City> entry : popToCity.entrySet()) pw.println(entry.getKey() + " = " + entry.getValue().toString());
