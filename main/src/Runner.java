@@ -22,10 +22,10 @@ public class Runner {
         p.close();
     }
 
-    private static City random(Map<String, City> popToCity) {
-        Set<String> codes = popToCity.keySet();
-        int index = (int) (Math.random() * codes.size());
-        return popToCity.get((String) codes.toArray()[index]);
+    private static City random(Map<City, String> map) {
+        Set<City> cities = map.keySet();
+        int index = (int) (Math.random() * cities.size());
+        return (City) cities.toArray()[index];
     }
 
     private static boolean ensureValidChoice(String input, int nChoices) {
@@ -41,14 +41,14 @@ public class Runner {
         try {
             // read in CityData.dat
             BufferedReader br = new BufferedReader(new FileReader("CityData.txt"));
-            HashMap<String, City> popToCity = new HashMap<String, City>();
+            HashMap<City, String> cityToPop = new HashMap<City, String>();
             String line;
             while ((line = br.readLine()) != null) {
                 String[] tabsplit = line.split("\t");
                 String city = tabsplit[0].substring(0, tabsplit[0].lastIndexOf(", "));
                 String state = tabsplit[0].substring(tabsplit[0].indexOf(", ") + ", ".length());
-                String zip = tabsplit[1];
-                popToCity.put(zip, new City(city, state, zip));
+                String pop = tabsplit[1];
+                cityToPop.put(new City(city, state, pop), pop);
             }
             br.close();
 
@@ -60,7 +60,7 @@ public class Runner {
 
             //Scanner scanner = new Scanner(System.in);
             for (int i = 0; i < questionCount; i++) {
-                City[] choices = new City[] { random(popToCity), random(popToCity), random(popToCity), random(popToCity), random(popToCity) };
+                City[] choices = new City[] { random(cityToPop), random(cityToPop), random(cityToPop), random(cityToPop), random(cityToPop) };
                 int correctAnswerIndex = (int)(Math.random()*choices.length);
                 City answer = choices[correctAnswerIndex];
                 String question = "QUESTION "  + (i+1) + " OF " + questionCount + ": Which city is associated with the population " + answer.getPop() + "?";
@@ -92,11 +92,11 @@ public class Runner {
 
             //scanner.close();
             //System.out.println("You finished the game with an accuracy of " + accuracy + " out of 10 (" + (int)(accuracy*100.0/questionCount) + "%).");
-            Guesser.sendScore("You finished the game with an accuracy of " + accuracy + " out of " + questionCount + " (" + (int)(accuracy*100.0/questionCount) + "%). Please see the output file Score_Report.txt for details.");
+            Guesser.sendScore("You finished the game with an accuracy of " + accuracy + " out of " + questionCount + " (" + (int)(accuracy*100.0/questionCount) + "%). \nPlease see the output file Score_Report.txt for details.");
             writeScoreReport(accuracy ,questionCount, (int) ((endTime-startTime)/1000));
             // write to CityData.dat
-            PrintWriter pw = new PrintWriter(new BufferedWriter(new FileWriter("CityData.dat")));
-            for (Map.Entry<String, City> entry : popToCity.entrySet()) pw.println(entry.getKey() + " = " + entry.getValue().toString());
+            PrintWriter pw = new PrintWriter(new BufferedWriter(new FileWriter("CityDataOutput.dat")));
+            for (Map.Entry<City, String> entry : cityToPop.entrySet()) pw.println(entry.getKey() + " = " + entry.getValue().toString());
             pw.close();
         } catch (IOException e) {
             e.printStackTrace();
