@@ -4,6 +4,9 @@ import java.time.format.DateTimeFormatter;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
+import java.awt.Desktop;
+
+
 
 public class Runner {
 
@@ -94,6 +97,27 @@ public class Runner {
             //System.out.println("You finished the game with an accuracy of " + accuracy + " out of 10 (" + (int)(accuracy*100.0/questionCount) + "%).");
             Guesser.sendScore("You finished the game with an accuracy of " + accuracy + " out of " + questionCount + " (" + (int)(accuracy*100.0/questionCount) + "%). \nPlease see the output file Score_Report.txt for details.");
             writeScoreReport(accuracy ,questionCount, (int) ((endTime-startTime)/1000));
+
+            //automatically open file
+            try
+            {
+                //constructor of file class having file as argument
+                File file = new File("Score_Report.txt");
+                if(!Desktop.isDesktopSupported())//check if Desktop is supported by Platform or not
+                {
+                    System.out.println("not supported");
+                    return;
+                }
+                Desktop desktop = Desktop.getDesktop();
+                if(file.exists())         //checks file exists or not
+                    desktop.open(file);              //opens the specified file
+            }
+            catch(Exception e)
+            {
+                e.printStackTrace();
+            }
+
+
             // write to CityData.dat
             PrintWriter pw = new PrintWriter(new BufferedWriter(new FileWriter("CityDataOutput.dat")));
             for (Map.Entry<City, String> entry : cityToPop.entrySet()) pw.println(entry.getKey() + " = " + entry.getValue().toString());
