@@ -11,5 +11,4 @@ File Submitted to H:\CSIII\Project2 is Project2.zip
 - After 10 questions, your final score is presented and added to the cumulative score report
 - You can replay the game by re-running the Runner.java main method and view all past attempts on the Score_Report.txt file
 
-# Running on BlueJ
  
