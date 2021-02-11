@@ -7,7 +7,6 @@ import java.util.Set;
 import java.awt.Desktop;
 
 
-
 public class Runner {
 
     public static final String ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";

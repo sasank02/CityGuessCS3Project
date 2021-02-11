@@ -32,7 +32,7 @@
         </constraints>
         <properties>
           <background color="-51140"/>
-          <text value="Enter"/>
+          <text value="Continue"/>
         </properties>
       </component>
       <component id="76706" class="javax.swing.JTextField" binding="textField1" default-binding="true">
