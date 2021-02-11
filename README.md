@@ -1,4 +1,4 @@
-# CityGuessCS3Project
+# City Guesser
 
 City/Population guesser game for CS3 class.
 
